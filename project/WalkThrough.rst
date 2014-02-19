@@ -6,24 +6,71 @@ UI2 FS2014 DropTable Cogitive Walktrough
 :Teilnehmer: Tobias Blaser, Philipp Christen
 :Email: tblaser(at)hsr.ch, pchriste(at)hsr.ch
 
-Cogitive Walktrough
 
 
-I. Getestetes Produkt
+1 Getestetes Produkt
+====================
 
-II. Beschreibung Test (CW)
- 1. Generelle Beschreibung (CW)
- 2. Was hier genau gemacht: Wie viele Experten, wie lange, ...
+CLX.Stage: Editor für Stage E-Learning System.
 
-II Benutzerprofile 
- 1. Benutzerprofil-1
- 2. Benutzerprofil-2
- …
+Es werden nur Testseiten getestet, keine weiteren Inhalte.
 
-III Aufgaben und Probleme
- 1. Aufgabe: Aufgabe-1
- 1.1 Schritt: Schritt-1
- 1.1.1 Mögliches Problem: Problem-1. Grund-1 (mit Ref auf  Benutzer wenn nicht alle)
+
+2 Benutzerprofile
+=================
+
+2.1 Editor
+----------
+
+Editoren erstellen Seiten, Kapitel, Fragebogen und Auswertungen.
+
+
+2.2 Anwender (Teilnehmer)
+-------------------------
+
+Teilnehmer starten die Selbsttests, beantworten die Fragen und sehen sich die Auswertungen an.
 
 
  
+3 Aufgaben und Probleme
+=======================
+
+.. note:: **Voraussetzung:** Modul wurde erstellt und installiert.
+
+
+3.1 Content erzeugen
+--------------------
+
+3.1.1 Seite anlegen
+...................
+	
+1) Mögliches Problem: Problem-1. Grund-1 (mit Ref auf  Benutzer wenn nicht alle)
+	
+	
+3.1.2 Kapitel erstellen
+.......................
+
+
+3.1.3 Test erstellen (Editor)
+.............................
+
+**Schritte**
+
+1) Neuen Kapitelinhalt anlegen
+2) Kategorie auswählen
+3) Element auswählen
+	
+**Inhaltstypen**
+
+1) Multiple Choice
+2) Single Choice Matrix
+3) Drag-Drop
+
+
+
+
+
+
+
+
+
