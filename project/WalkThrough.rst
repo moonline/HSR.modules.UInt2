@@ -56,6 +56,8 @@ Teilnehmer starten die Selbsttests, beantworten die Fragen und sehen sich die Au
 
 **Schritte**
 
+Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_UINT2.wmv
+
 1) Neuen Kapitelinhalt anlegen
 2) Kategorie auswählen
 3) Element auswählen
