@@ -131,7 +131,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.3_1.Seite_oeffnen.png
 
-2) Titel der Seite ändern zu "HSR - Multiple Choice"
+2) Titel der Seite ändern
 
 .. figure:: stepScreens/3.1.3_2.Seite_umbenennen.png
 
@@ -151,7 +151,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.3_5.alle_texte_geändert.png
 
-6) Auswerten-Button löschen
+6) Auswerten-Button löschen via Löschen-Button (X)
 
 .. figure:: stepScreens/3.1.3_6.Auswerten_Btn_loeschen.png
 
@@ -159,7 +159,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.3_6_1.Loeschen_bestaetigen.png
 
-7) Lösungs-Button löschen
+7) Lösungs-Button löschen via Löschen-Button (X)
 
 .. figure:: stepScreens/3.1.3_7.Loesung_Button_loeschen.png
 
@@ -195,15 +195,54 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 Die Punkte 8.5 und 8.6 für jede Option wiederholen, welche eine richtige Lösung für die Aufgabe darstellt.
 
-.. figure:: stepScreens/3.1.3_8_7.Eigenschaftspalette_schliessen.png
-
 8.7) Eigenschaftspalette schliessen
 
-.. figure:: stepScreens/.png
+.. figure:: stepScreens/3.1.3_8_7.Eigenschaftspalette_schliessen.png
 
 3.1.5 Drag and Drop-Seite bearbeiten
 ....................................
 
+.. note:: Die Schritte 1-4 sind analog 3.1.2.
+
+1) Seite durch Doppelklick im Modul-Explorer öffnen
+
+2) Titel der Seite ändern
+
+3) Seite in der Navigation sichtbar machen via Checkbox
+
+4) Aufgabentext ändern durch Doppelklick auf Textelement
+
+4.1) Texteditor durch Klick auf OK schliessen
+
+5) Jedes Statement abändern durch je einen Doppelklick auf das entsprechende Statement
+
+5.1) Texteditor jeweils durch Klick auf OK schliessen
+
+.. figure:: stepScreens/3.1.5_5.Texteditor.png
+
+6) Überzählige Antwortmöglichkeit löschen (Statement, Drop-Area, Draggable) via Button (X)
+
+6.1) Jeden Löschvorgang jeweils mit OK bestätigen
+
+.. figure:: stepScreens/3.1.5_6.ueberzaehlige_option_geloescht.png
+
+7) Jedes Draggable abändern durch je einen Doppelklick auf das entsprechende Draggable
+
+.. figure:: stepScreens/3.1.5_7.draggable_umbenennen.png
+
+7.1) Texteditor jeweils durch Klick auf OK schliessen
+
+.. figure:: stepScreens/3.1.5_7_1.alle_draggables_umbenennt.png
+
+8) Draggable-Element mit der Maus auf die entsprechende Drop-Area ziehen und loslassen
+
+.. figure:: stepScreens/3.1.5_8.draggable_auf_drop_area_ziehen.png
+
+Schritt 8 für alle Draggable-Elemente wiederholen
+
+.. figure:: stepScreens/3.1.5_8_1.alle_draggables_zugewiesen.png
+
+9) Auswerten- und Lösungs-Button löschen via Löschen-Button (X) (Analog 3.1.2, Schritte 6-7)
 
 3.1.20 Single Choice Matrix-Seite bearbeiten
 .......................................
