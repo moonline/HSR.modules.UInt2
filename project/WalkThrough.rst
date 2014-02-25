@@ -1,6 +1,6 @@
-========================================
-UI2 FS2014 DropTable Cogitive Walktrough
-========================================
+=========================================
+UI2 FS2014 DropTable Cognitive Walktrough
+=========================================
 
 :Gruppe: DropTable
 :Teilnehmer: Tobias Blaser, Philipp Christen
@@ -11,7 +11,7 @@ UI2 FS2014 DropTable Cogitive Walktrough
 
 CLX.Stage: Editor für Stage E-Learning System.
 
-Es werden nur Testseiten getestet, keine Infoseiten.
+Es werden nur Aufgabenseiten getestet, keine Infoseiten.
 
 2 Benutzerprofile
 =================
@@ -77,11 +77,11 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.1_4.ordnerauswahl.png
 
-3.1) Neues Modul wird erstellt und geöffnet. Es wurden automatisch eine Startseite, eine Testseite und eine Auswertungsseite erstellt.
+3.1) Neues Modul wird erstellt und geöffnet. Es wurden automatisch eine Startseite, eine Aufgabenseite und eine Auswertungsseite erstellt.
 
 .. figure:: stepScreens/3.1.1_5.neues_modul.png
 
-4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Testseite löschen, um eigene Seiten erstellen zu können.
+4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Aufgabenseite löschen, um eigene Seiten erstellen zu können.
 
 4.1) Seite anwählen und auf den Löschbutton klicken.
 
@@ -120,10 +120,86 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.2_5.Drag_n_Drop_erstellen.png
 
+6) Seitenvorlagen schliessen
+
+.. figure:: stepScreens/3.1.2_6.Vorlagen_schliessen.png
+
 3.1.3 Multiple Choice-Seite bearbeiten
 ......................................
 
+1) Seite durch Doppelklick im Modul-Explorer öffnen
 
+.. figure:: stepScreens/3.1.3_1.Seite_oeffnen.png
+
+2) Titel der Seite ändern zu "HSR - Multiple Choice"
+
+.. figure:: stepScreens/3.1.3_2.Seite_umbenennen.png
+
+3) Seite in der Navigation sichtbar machen via Checkbox
+
+.. figure:: stepScreens/3.1.3_3.Seite_in_Navigation_anzeigen.png
+
+4) Aufgabentext ändern durch Doppelklick auf Textelement
+
+.. figure:: stepScreens/3.1.3_4.Aufgabentext_aendern.png
+
+4.1) Texteditor durch Klick auf OK schliessen
+
+5) Optionen abändern durch je einen Doppelklick auf die entsprechende Option
+
+5.1) Texteditor jeweils durch Klick auf OK schliessen
+
+.. figure:: stepScreens/3.1.3_5.alle_texte_geändert.png
+
+6) Auswerten-Button löschen
+
+.. figure:: stepScreens/3.1.3_6.Auswerten_Btn_loeschen.png
+
+6.1) Löschen mit OK bestätigen
+
+.. figure:: stepScreens/3.1.3_6_1.Loeschen_bestaetigen.png
+
+7) Lösungs-Button löschen
+
+.. figure:: stepScreens/3.1.3_7.Loesung_Button_loeschen.png
+
+7.1) Löschen mit OK bestätigen
+
+.. figure:: stepScreens/3.1.3_7_1.Loeschen_bestaetigen.png
+
+8) Optionen als Lösungen kennzeichnen
+
+8.1) Eigenschaftspalette über den Button (Zahnrad) öffnen
+
+.. figure:: stepScreens/3.1.3_8.Eigenschaftspalette_oeffnen.png
+
+8.2) Zum Reiter "Aufgaben/Test" wechseln
+
+.. figure:: stepScreens/3.1.3_8_2.Aufgaben_Reiter.png
+
+8.3) Im Akkordeon den Punkt "Aufgabentypen" öffnen
+
+.. figure:: stepScreens/3.1.3_8_3.Aufgabentypen_auswaehlen.png
+
+8.4) Den Aufgabentyp "Multiple Choice/Matrix" öffnen
+
+.. figure:: stepScreens/3.1.3_8_4.MultipleChoice_auswaehlen.png
+
+8.5) Im Editor eine richtige Antwort auswählen
+
+.. figure:: stepScreens/3.1.3_8_5.optionen_markieren.png
+
+8.6) In der Eigenschaftspalette die Checkbox "richtige Antwort" selektieren
+
+.. figure:: stepScreens/3.1.3_8_6.als_richtig_markieren.png
+
+Die Punkte 8.5 und 8.6 für jede Option wiederholen, welche eine richtige Lösung für die Aufgabe darstellt.
+
+.. figure:: stepScreens/3.1.3_8_7.Eigenschaftspalette_schliessen.png
+
+8.7) Eigenschaftspalette schliessen
+
+.. figure:: stepScreens/.png
 
 3.1.5 Drag and Drop-Seite bearbeiten
 ....................................
