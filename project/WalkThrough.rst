@@ -38,11 +38,22 @@ Neben den Autoren und Teilnehmern gibt es noch Kursleiter, welche für die Ausf�
 3 Aufgaben und Probleme
 =======================
 
-.. note:: **Voraussetzung:** Modul wurde erstellt und installiert.
+.. note:: **Voraussetzung:** CLX.Stage wurde korrekt installiert und gestartet.
 
+3.1 Lerninhalte erstellen
+-------------------------
 
-3.1 Content erzeugen
---------------------
+Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
+.. figure:: stepScreens/3.0.Ausgangslage_Autor.png
+
+3.1.1 Modul erstellen
+.....................
+
+.. figure:: stepScreens/3.1.1_1.Modulerstellung.png
+.. figure:: stepScreens/3.1.1_2.Templateauswahl.png
+.. figure:: stepScreens/3.1.1_3.wechsel_zu_testmodulvorlagen.png
+.. figure:: stepScreens/3.1.1_4.ordnerauswahl.png
+.. figure:: stepScreens/3.1.1_5.neues_modul.png
 
 3.1.1 Seite anlegen
 ...................
@@ -80,7 +91,7 @@ Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_
 
 * Sichtbarkeit Aktion
 	* **Problem:** Teilnehmer weiss nicht, wie er das Element bearbeiten kann (Doppelklick).
-	* **Grund:** Es gibt keinen Button, der mit dem das Editieren aufgerufen werden kann. Benutzer muss ausprobieren.
+	* **Grund:** Es gibt keinen Button, mit dem das Editieren aufgerufen werden kann. Benutzer muss ausprobieren.
 
 
 .. figure:: stepScreens/3.1.20-2.jpg
@@ -178,7 +189,7 @@ Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_
 .. figure:: stepScreens/3.2.3-2.png
 
    3.2.3-2: Auswertung
-
+   
 
 * System Zustand
 	* **Problem:** Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht. Zudem ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden.
