@@ -6,15 +6,12 @@ UI2 FS2014 DropTable Cogitive Walktrough
 :Teilnehmer: Tobias Blaser, Philipp Christen
 :Email: tblaser(at)hsr.ch, pchriste(at)hsr.ch
 
-
-
 1 Getestetes Produkt
 ====================
 
 CLX.Stage: Editor für Stage E-Learning System.
 
 Es werden nur Testseiten getestet, keine Infoseiten.
-
 
 2 Benutzerprofile
 =================
@@ -40,32 +37,6 @@ Neben den Autoren und Teilnehmern gibt es noch Kursleiter, welche für die Ausf�
 
 .. note:: **Voraussetzung:** CLX.Stage wurde korrekt installiert und gestartet.
 
-3.1 Lerninhalte erstellen
--------------------------
-
-Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
-.. figure:: stepScreens/3.0.Ausgangslage_Autor.png
-
-3.1.1 Modul erstellen
-.....................
-
-.. figure:: stepScreens/3.1.1_1.Modulerstellung.png
-.. figure:: stepScreens/3.1.1_2.Templateauswahl.png
-.. figure:: stepScreens/3.1.1_3.wechsel_zu_testmodulvorlagen.png
-.. figure:: stepScreens/3.1.1_4.ordnerauswahl.png
-.. figure:: stepScreens/3.1.1_5.neues_modul.png
-
-3.1.1 Seite anlegen
-...................
-	
-	
-3.1.2 Kapitel erstellen
-.......................
-
-
-3.1.3 Test erstellen (Editor)
-.............................
-
 **Schritte**
 
 Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_UINT2.wmv
@@ -80,8 +51,81 @@ Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_
 2) Single Choice Matrix
 3) Drag-Drop
 
+3.1 Lerninhalte erstellen
+-------------------------
 
-3.1.20 Single Choice Matrix bearbeiten
+Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
+
+.. figure:: stepScreens/3.0.Ausgangslage_Autor.png
+
+3.1.1 Modul erstellen
+.....................
+
+1) Menu Modul / Modul neu erstellen
+
+.. figure:: stepScreens/3.1.1_1.Modulerstellung.png
+
+1.1) Vorlagenauswahl wird angezeigt
+
+.. figure:: stepScreens/3.1.1_2.Templateauswahl.png
+
+2) Bei der Vorlagenauswahl im Akkordeon zu den Testmodulen wechseln
+
+.. figure:: stepScreens/3.1.1_3.wechsel_zu_testmodulvorlagen.png
+
+3) Ordner auswählen, wo das Modul gespeichert werden soll, Auswahl bestätigen.
+
+.. figure:: stepScreens/3.1.1_4.ordnerauswahl.png
+
+3.1) Neues Modul wird erstellt und geöffnet. Es wurden automatisch eine Startseite, eine Testseite und eine Auswertungsseite erstellt.
+
+.. figure:: stepScreens/3.1.1_5.neues_modul.png
+
+4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Testseite löschen, um eigene Seiten erstellen zu können.
+4.1) Seite anwählen und auf den Löschbutton klicken.
+
+.. figure:: stepScreens/3.1.1_6.bestehende_seite_loeschen.png
+
+4.2) Löschvorgang bestätigen
+
+.. figure:: stepScreens/3.1.1_7.loeschen_bestaetigen.png
+
+3.1.2 Seiten anlegen
+....................
+
+1) Über den Button (+) die Seitenvorlagen öffnen.
+
+.. figure:: stepScreens/3.1.2_1.Seitenvorlagen.png
+
+2) Im Akkordeon der Seitenvorlagen zu den Aufgabenseiten wechseln
+
+.. figure:: stepScreens/3.1.2_2.Aufgabenseitenvorlagen.png
+
+3) Die Vorlage "Multiple Choice (mit Auswerten-Button)" suchen.
+3.1) Die Vorlage in den Modul-Explorer ziehen.
+
+.. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
+
+4) Die Vorlage "Matrix Multiple Choice (mit Auswerten-Button)" suchen.
+4.1) Die Vorlage in den Modul-Explorer ziehen.
+
+.. figure:: stepScreens/3.1.2_4.MatrixMultipleChoice_erstellen.png
+
+4) Die Vorlage "Drag & Drop mit Text (mit Auswerten-Button)" suchen.
+4.1) Die Vorlage in den Modul-Explorer ziehen.
+
+.. figure:: stepScreens/3.1.2_5.Drag_n_Drop_erstellen.png
+
+3.1.3 Multiple Choice-Seite bearbeiten
+......................................
+
+
+
+3.1.5 Drag and Drop-Seite bearbeiten
+....................................
+
+
+3.1.20 Single Choice Matrix-Seite bearbeiten
 .......................................
 
 .. figure:: stepScreens/3.1.20-1.jpg
