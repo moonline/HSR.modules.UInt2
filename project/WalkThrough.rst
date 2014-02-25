@@ -82,6 +82,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 .. figure:: stepScreens/3.1.1_5.neues_modul.png
 
 4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Testseite löschen, um eigene Seiten erstellen zu können.
+
 4.1) Seite anwählen und auf den Löschbutton klicken.
 
 .. figure:: stepScreens/3.1.1_6.bestehende_seite_loeschen.png
@@ -102,17 +103,20 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 .. figure:: stepScreens/3.1.2_2.Aufgabenseitenvorlagen.png
 
 3) Die Vorlage "Multiple Choice (mit Auswerten-Button)" suchen.
+
 3.1) Die Vorlage in den Modul-Explorer ziehen.
 
 .. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
 
 4) Die Vorlage "Matrix Multiple Choice (mit Auswerten-Button)" suchen.
+
 4.1) Die Vorlage in den Modul-Explorer ziehen.
 
 .. figure:: stepScreens/3.1.2_4.MatrixMultipleChoice_erstellen.png
 
-4) Die Vorlage "Drag & Drop mit Text (mit Auswerten-Button)" suchen.
-4.1) Die Vorlage in den Modul-Explorer ziehen.
+5) Die Vorlage "Drag & Drop mit Text (mit Auswerten-Button)" suchen.
+
+5.1) Die Vorlage in den Modul-Explorer ziehen.
 
 .. figure:: stepScreens/3.1.2_5.Drag_n_Drop_erstellen.png
 
