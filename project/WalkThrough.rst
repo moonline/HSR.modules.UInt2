@@ -199,6 +199,59 @@ Die Punkte 8.5 und 8.6 für jede Option wiederholen, welche eine richtige Lösun
 
 .. figure:: stepScreens/3.1.3_8_7.Eigenschaftspalette_schliessen.png
 
+3.1.4 Single Choice Matrix-Seite bearbeiten
+.......................................
+
+.. figure:: stepScreens/3.1.20-1.jpg
+
+   3.1.4-1: Element Auswählen
+
+
+* Sichtbarkeit Aktion
+	* **Problem:** Teilnehmer weiss nicht, wie er das Element bearbeiten kann (Doppelklick).
+	* **Grund:** Es gibt keinen Button, mit dem das Editieren aufgerufen werden kann. Benutzer muss ausprobieren.
+
+
+.. figure:: stepScreens/3.1.20-2.jpg
+
+   3.1.4-2: Text bearbeiten
+
+
+.. figure:: stepScreens/3.1.20-3.jpg
+
+   3.1.4-3: Optionen Eigenschaften aufrufen
+
+
+* Nächster Schritt
+	* **Problem:** Teilnehmer ist nicht klar, was er jetzt machen soll.
+	* **Grund:** Es werden viele Elemente angezeigt, die in der aktuellen Ansicht gar keinen Sinn machen.
+	
+
+
+.. figure:: stepScreens/3.1.20-4.jpg
+
+   3.1.4-4: Option Name bearbeiten
+
+
+.. figure:: stepScreens/3.1.20-5.jpg
+
+   3.1.4-5: Eigenschaftsfenster von Feldern aufrufen
+
+
+* Sichtbarkeit Aktion
+	* **Problem:** Für den Teilnehmer kommt es unerwartet, das die Eigenschaften diesmal über das Menü aufgerufen werden.
+	* **Grund:** Im Vergleich zum Bearbeiten der Eigenschaften der andern Elemente wird dieses Eigenschaftsfenster über das Menü gestartet.
+
+
+.. figure:: stepScreens/3.1.20-6.jpg
+
+   3.1.4-6: Einstellungen Antworten verändern
+
+
+.. figure:: stepScreens/3.1.20-7.jpg
+
+   3.1.4-7: Musterantwort auswählen
+
 3.1.5 Drag and Drop-Seite bearbeiten
 ....................................
 
@@ -234,7 +287,7 @@ Die Punkte 8.5 und 8.6 für jede Option wiederholen, welche eine richtige Lösun
 
 .. figure:: stepScreens/3.1.5_7_1.alle_draggables_umbenennt.png
 
-8) Draggable-Element mit der Maus auf die entsprechende Drop-Area ziehen und loslassen
+8) Draggable-Element mit der Maus auf die entsprechende Drop-Area ziehen und loslassen, so dass es dem jeweiligen Statement zugewiesen wird.
 
 .. figure:: stepScreens/3.1.5_8.draggable_auf_drop_area_ziehen.png
 
@@ -243,60 +296,6 @@ Schritt 8 für alle Draggable-Elemente wiederholen
 .. figure:: stepScreens/3.1.5_8_1.alle_draggables_zugewiesen.png
 
 9) Auswerten- und Lösungs-Button löschen via Löschen-Button (X) (Analog 3.1.2, Schritte 6-7)
-
-3.1.20 Single Choice Matrix-Seite bearbeiten
-.......................................
-
-.. figure:: stepScreens/3.1.20-1.jpg
-
-   3.1.20-1: Element Auswählen
-
-
-* Sichtbarkeit Aktion
-	* **Problem:** Teilnehmer weiss nicht, wie er das Element bearbeiten kann (Doppelklick).
-	* **Grund:** Es gibt keinen Button, mit dem das Editieren aufgerufen werden kann. Benutzer muss ausprobieren.
-
-
-.. figure:: stepScreens/3.1.20-2.jpg
-
-   3.1.20-2: Text bearbeiten
-
-
-.. figure:: stepScreens/3.1.20-3.jpg
-
-   3.1.20-3: Optionen Eigenschaften aufrufen
-
-
-* Nächster Schritt
-	* **Problem:** Teilnehmer ist nicht klar, was er jetzt machen soll.
-	* **Grund:** Es werden viele Elemente angezeigt, die in der aktuellen Ansicht gar keinen Sinn machen.
-	
-
-
-.. figure:: stepScreens/3.1.20-4.jpg
-
-   3.1.20-4: Option Name bearbeiten
-
-
-.. figure:: stepScreens/3.1.20-5.jpg
-
-   3.1.20-5: Eigenschaftsfenster von Feldern aufrufen
-
-
-* Sichtbarkeit Aktion
-	* **Problem:** Für den Teilnehmer kommt es unerwartet, das die Eigenschaften diesmal über das Menü aufgerufen werden.
-	* **Grund:** Im Vergleich zum Bearbeiten der Eigenschaften der andern Elemente wird dieses Eigenschaftsfenster über das Menü gestartet.
-
-
-.. figure:: stepScreens/3.1.20-6.jpg
-
-   3.1.20-6: Einstellungen Antworten verändern
-
-
-.. figure:: stepScreens/3.1.20-7.jpg
-
-   3.1.20-7: Musterantwort auswählen
-
 
 3.2 Quiz durchführen (Teilnehmer)
 ---------------------------------
