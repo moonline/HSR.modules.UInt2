@@ -13,24 +13,27 @@ UI2 FS2014 DropTable Cogitive Walktrough
 
 CLX.Stage: Editor für Stage E-Learning System.
 
-Es werden nur Testseiten getestet, keine weiteren Inhalte.
+Es werden nur Testseiten getestet, keine Infoseiten.
 
 
 2 Benutzerprofile
 =================
 
-2.1 Editor
+2.1 Autor
 ----------
 
-Editoren erstellen Seiten, Kapitel, Fragebogen und Auswertungen.
+Autoren erstellen Module und deren Inhalte.
 
 
 2.2 Anwender (Teilnehmer)
 -------------------------
 
-Teilnehmer starten die Selbsttests, beantworten die Fragen und sehen sich die Auswertungen an.
+Teilnehmer bearbeiten die Lerninhalte, beantworten dabei auftauchende Fragen und sehen sich die Auswertungen an.
 
+2.3 Weitere
+-----------
 
+Neben den Autoren und Teilnehmern gibt es noch Kursleiter, welche für die Ausführung und Auswertung der Lerninhalte zuständig sind. Diese fallen aber nicht in den Rahmen dieser Untersuchung. Zudem kommt es vor, dass Autoren gleichzeitig auch Kursleiter sind, insbesondere in Schulen.
  
 3 Aufgaben und Probleme
 =======================
