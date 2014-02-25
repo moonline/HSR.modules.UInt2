@@ -44,8 +44,6 @@ Teilnehmer starten die Selbsttests, beantworten die Fragen und sehen sich die Au
 3.1.1 Seite anlegen
 ...................
 	
-1) Mögliches Problem: Problem-1. Grund-1 (mit Ref auf  Benutzer wenn nicht alle)
-	
 	
 3.1.2 Kapitel erstellen
 .......................
@@ -69,6 +67,59 @@ Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_
 3) Drag-Drop
 
 
+3.1.20 Single Choice Matrix bearbeiten
+.......................................
+
+.. figure:: stepScreens/3.1.20-1.jpg
+
+   3.1.20-1: Element Auswählen
+
+
+* Sichtbarkeit Aktion
+	* **Problem:** Teilnehmer weiss nicht, wie er das Element bearbeiten kann (Doppelklick).
+	* **Grund:** Es gibt keinen Button, der mit dem das Editieren aufgerufen werden kann. Benutzer muss ausprobieren.
+
+
+.. figure:: stepScreens/3.1.20-2.jpg
+
+   3.1.20-2: Text bearbeiten
+
+
+.. figure:: stepScreens/3.1.20-3.jpg
+
+   3.1.20-3: Optionen Eigenschaften aufrufen
+
+
+* Nächster Schritt
+	* **Problem:** Teilnehmer ist nicht klar, was er jetzt machen soll.
+	* **Grund:** Es werden viele Elemente angezeigt, die in der aktuellen Ansicht gar keinen Sinn machen.
+	
+
+
+.. figure:: stepScreens/3.1.20-4.jpg
+
+   3.1.20-4: Option Name bearbeiten
+
+
+.. figure:: stepScreens/3.1.20-5.jpg
+
+   3.1.20-5: Eigenschaftsfenster von Feldern aufrufen
+
+
+* Sichtbarkeit Aktion
+	* **Problem:** Für den Teilnehmer kommt es unerwartet, das die Eigenschaften diesmal über das Menü aufgerufen werden.
+	* **Grund:** Im Vergleich zum Bearbeiten der Eigenschaften der andern Elemente wird dieses Eigenschaftsfenster über das Menü gestartet.
+
+
+.. figure:: stepScreens/3.1.20-6.jpg
+
+   3.1.20-6: Einstellungen Antworten verändern
+
+
+.. figure:: stepScreens/3.1.20-7.jpg
+
+   3.1.20-7: Musterantwort auswählen
+
 
 3.2 Quiz durchführen (Teilnehmer)
 ---------------------------------
@@ -78,7 +129,8 @@ Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_
 
 .. figure:: stepScreens/3.2.1-1.png
 
-   Start Screen eines E-Learnings
+   3.2.1-1: Start Screen eines E-Learnings
+
 
 
 3.2.2 Fragen / Antworten
