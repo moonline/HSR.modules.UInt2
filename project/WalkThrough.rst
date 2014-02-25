@@ -65,6 +65,9 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.1_1.Modulerstellung.png
 
+	* **Problem:** Dem Autor ist nicht klar, was er jetzt machen soll.
+	* **Grund:** Es wird kein Hilfetext angezeigt oder gar eine prominente Schaltfläche.
+
 1.1) Vorlagenauswahl wird angezeigt
 
 .. figure:: stepScreens/3.1.1_2.Templateauswahl.png
@@ -80,6 +83,8 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 3.1) Neues Modul wird erstellt und geöffnet. Es wurden automatisch eine Startseite, eine Aufgabenseite und eine Auswertungsseite erstellt.
 
 .. figure:: stepScreens/3.1.1_5.neues_modul.png
+
+	* **Problem:** Es werden eventuell unerwünschte Seiten erstellt.
 
 4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Aufgabenseite löschen, um eigene Seiten erstellen zu können.
 
@@ -102,13 +107,24 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.2_2.Aufgabenseitenvorlagen.png
 
+	* **Problem:** Autor muss Aufgabenseiten explizit auswählen, obwohl er sich in einem Testkapitel befindet.
+	
 3) Die Vorlage "Multiple Choice (mit Auswerten-Button)" suchen.
+
+	* **Problem:** Autor wird leicht verwirrt.
+	* **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben.
 
 3.1) Die Vorlage in den Modul-Explorer ziehen.
 
 .. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
 
+	* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll.
+	* **Grund:** Es existiert keine Schaltfläche.
+
 4) Die Vorlage "Matrix Multiple Choice (mit Auswerten-Button)" suchen.
+
+	* **Problem:** Autor kann keine Seite vom Typ "Matrix Single Choice" wählen.
+	* **Grund:** Diese existiert nicht, weil die Unterscheidung Multiple/Single erst später auftaucht.
 
 4.1) Die Vorlage in den Modul-Explorer ziehen.
 
