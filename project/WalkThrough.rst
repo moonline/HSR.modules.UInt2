@@ -40,7 +40,7 @@ Neben den Autoren und Teilnehmern gibt es noch Kursleiter, welche für die Ausf�
 
 .. note:: **Voraussetzung:** CLX.Stage wurde korrekt installiert und gestartet.
 
-Kategorisierung der Probleme gemäss STONE et al. (2005):
+Kategorisierung der Probleme gemäss **STONE** et al. (2005):
 
 1) Visibility : First step to goal should be clear 
 
@@ -57,6 +57,30 @@ Kategorisierung der Probleme gemäss STONE et al. (2005):
 7) Tolerance : Prevent errors, help recovery
 
 8) Accessibility : Usable by all intended users, despite handicap, access device, or environmental conditions
+
+oder 
+
+**NIELSEN** und Mollich (1990):
+
+1) Consistency and standards
+
+2) Visibility of system status
+
+3) Match between system and real world
+
+4) User control and freedom
+
+5) Error prevention
+
+6) Recognition rather than recall
+
+7) Flexibility and effiency of use
+
+8) Aesthetic and minimalist design
+
+9) Help users recognize, diagnose, and recover from errors
+
+10) Provide online documentation and help
 
 **Schritte**
 
@@ -87,7 +111,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 .. figure:: stepScreens/3.1.1_1.Modulerstellung.png
 
 * **Problem:** Dem Autor ist nicht klar, was er jetzt machen soll. (Stone 1)
-* **Grund:** Es wird kein Hilfetext angezeigt oder gar eine prominente Schaltfläche.
+	* **Grund:** Es wird kein Hilfetext angezeigt oder gar eine prominente Schaltfläche.
 
 	1) Vorlagenauswahl wird angezeigt
 
@@ -116,7 +140,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 	.. figure:: stepScreens/3.1.1_6.bestehende_seite_loeschen.png
 
 	* **Problem:** Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (Stone 1)
-	* **Grund:** Es gibt zwei identische Löschen-Buttons.
+		* **Grund:** Es gibt zwei identische Löschen-Buttons.
 
 	2) Löschvorgang bestätigen
 
@@ -141,19 +165,19 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 3) Die Vorlage "Multiple Choice (mit Auswerten-Button)" suchen.
 
 * **Problem:** Autor wird leicht verwirrt.
-* **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (Stone 5)
+	* **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (Stone 5)
 
 	1) Die Vorlage in den Modul-Explorer ziehen.
 
 	.. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
 
 	* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (Stone 2)
-	* **Grund:** Es existiert keine Schaltfläche.
+		* **Grund:** Es existiert keine Schaltfläche.
 
 4) Die Vorlage "Matrix Multiple Choice (mit Auswerten-Button)" suchen.
 
 * **Problem:** Autor kann keine Seite vom Typ "Matrix Single Choice" wählen. (Stone 4)
-* **Grund:** Diese existiert nicht, weil die Unterscheidung Multiple/Single erst später auftaucht.
+	* **Grund:** Diese existiert nicht, weil die Unterscheidung Multiple/Single erst später auftaucht.
 
 	1) Die Vorlage in den Modul-Explorer ziehen.
 
@@ -177,7 +201,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 .. figure:: stepScreens/3.1.3_1.Seite_oeffnen.png
 
 * **Problem:** Es ist unklar, wie die Seite geöffnet werden kann  (Stone 1)
-* **Grund:** Der Öffnen-Button (Auge) hat den Hovertext "Ordner öffnen"
+	* **Grund:** Der Öffnen-Button (Auge) hat den Hovertext "Ordner öffnen"
 
 2) Titel der Seite ändern
 
@@ -267,11 +291,6 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
    3.1.4-1: Element Auswählen
 
 
-* Sichtbarkeit Aktion
-	* **Problem:** Teilnehmer weiss nicht, wie er das Element bearbeiten kann (Doppelklick).
-	* **Grund:** Es gibt keinen Button, mit dem das Editieren aufgerufen werden kann. Benutzer muss ausprobieren.
-
-
 .. figure:: stepScreens/3.1.20-2.jpg
 
    3.1.4-2: Text bearbeiten
@@ -282,11 +301,8 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
    3.1.4-3: Optionen Eigenschaften aufrufen
 
 
-* Nächster Schritt
-	* **Problem:** Teilnehmer ist nicht klar, was er jetzt machen soll.
+* **Problem:** Teilnehmer ist nicht klar, was er jetzt machen soll. (Stone 1)
 	* **Grund:** Es werden viele Elemente angezeigt, die in der aktuellen Ansicht gar keinen Sinn machen.
-	
-
 
 .. figure:: stepScreens/3.1.20-4.jpg
 
@@ -298,11 +314,6 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
    3.1.4-5: Eigenschaftsfenster von Feldern aufrufen
 
 
-* Sichtbarkeit Aktion
-	* **Problem:** Für den Teilnehmer kommt es unerwartet, das die Eigenschaften diesmal über das Menü aufgerufen werden.
-	* **Grund:** Im Vergleich zum Bearbeiten der Eigenschaften der andern Elemente wird dieses Eigenschaftsfenster über das Menü gestartet.
-
-
 .. figure:: stepScreens/3.1.20-6.jpg
 
    3.1.4-6: Einstellungen Antworten verändern
@@ -311,6 +322,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 .. figure:: stepScreens/3.1.20-7.jpg
 
    3.1.4-7: Musterantwort auswählen
+
 
 3.1.5 Drag and Drop-Seite bearbeiten
 ....................................
@@ -377,12 +389,8 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.2-1: Multiple Choice Frage
 
 
-* Nächster Schritt
-	* **Problem:** Teilnehmer ist nicht klar ob er eine Antwort oder mehrere anklicken darf. --> Instruktionen muss er zuerst ausklappen.
-	* **Grund:** Der Teilnehmer wird nicht aufgefordert irgend etwas zu tun (z.B. "Bitte wählen Sie eine oder mehrere Antworten an").
-* Sichtbarkeit Aktion
-	* **Problem:** Teilnehmer weiss nicht, welchen Knopf er nun drücken muss.
-	* **Grund:** Zu bevorzugende Aktionbutton (weiter >) ist nicht speziell gekennzeichnet.
+* **Problem:** Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (Stone 1)
+	* **Grund:** Der Aktionsbutton (Weiter ">") ist nicht speziell hervorgehoben und geht im GUI unter.
 
 
 .. figure:: stepScreens/3.2.2-2.png
@@ -413,10 +421,10 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.3-2: Auswertung
    
 
-* System Zustand
-	* **Problem:** Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht. Zudem ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden.
-	* **Grund:** (Beim Welcome Screen stand 80%), hier wird nur die erreichte Zahl angzeigt (Teiln. muss sich erinnern). Das Gleiche gilt für die Fragen.
-	
+* **Problem:** Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht.
+	* **Grund:** (auf der Startseite stand 80%), hier wird nur die erreichte Zahl angzeigt (Teiln. muss sich erinnern, Nielsen 6).
+* **Problem:** Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (Nielsen 2)
+	* **Grund:** Man muss die Punktezahlen vergleichen und hat keinen eindeutigen Indikator. (Nielsen 2)
 	
 .. figure:: stepScreens/3.2.3-3.png
 
@@ -425,12 +433,10 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.3-4: Antworten einsehen
 
 
-* Aktion Sichtbarkeit
-	* **Problem:** Teilnehmer sieht keine Möglichkeit, zur Übersicht zurückzukehren.
-	* **Grund:** Zurückkehr-Aktion fehlt
-* Nächster Schritt
-	* **Problem:** Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. Zurückgehen geht nicht. Nächste Frage?
-	* **Grund:** Teilnehmer wird zu wenig geführt. -> Muss ausprobieren
+* **Problem:** Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (Stone 2)
+	* **Grund:** Icon für Auswertungsseite nicht aussagekräftig
+* **Problem:** Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (Stone 1)
+	* **Grund:** Es gibt keinen klaren nächsten Schritt oder Meldung; Teilnehmer wird zu wenig geführt. (Nielsen 4)
 
 
 .. figure:: stepScreens/3.2.3-5.png
@@ -438,8 +444,6 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.3-5: Auswertung ein-/ausblenden
 
 
-* Aktion Sichtbarkeit
-	* **Problem:** Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt.
-	* **Problem:** Funktion ist nicht als solche erkennbar (Button?), Hover-Hilfe ist unverständlich.
-
+* **Problem:** Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt. (Stone 2)
+	* **Grund:** Funktion ist nicht als solche erkennbar (Button?), Hover-Hilfe ist unverständlich.
 
