@@ -86,9 +86,9 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 * **Problem:** Dem Autor ist nicht klar, was er jetzt machen soll. (Stone 1)
 * **Grund:** Es wird kein Hilfetext angezeigt oder gar eine prominente Schaltfläche.
 
-1.1) Vorlagenauswahl wird angezeigt
+	1) Vorlagenauswahl wird angezeigt
 
-.. figure:: stepScreens/3.1.1_2.Templateauswahl.png
+	.. figure:: stepScreens/3.1.1_2.Templateauswahl.png
 
 2) Bei der Vorlagenauswahl im Akkordeon zu den Testmodulen wechseln
 
@@ -100,24 +100,24 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 * **Problem:** Es ist nicht klar, warum jetzt bereits ein Ordner ausgewählt werden muss, obwohl noch kein Content erstellt wurde (Stone 4)
 
-3.1) Neues Modul wird erstellt und geöffnet. Es wurden automatisch eine Startseite, eine Aufgabenseite und eine Auswertungsseite erstellt.
+	1) Neues Modul wird erstellt und geöffnet. Es wurden automatisch eine Startseite, eine Aufgabenseite und eine Auswertungsseite erstellt.
 
-.. figure:: stepScreens/3.1.1_5.neues_modul.png
+	.. figure:: stepScreens/3.1.1_5.neues_modul.png
 
-* **Problem:** Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (Stone 3)
+	* **Problem:** Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (Stone 3)
 
 4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Aufgabenseite löschen.
 
-4.1) Seite anwählen und auf den Löschbutton klicken.
+	1) Seite anwählen und auf den Löschbutton klicken.
 
-.. figure:: stepScreens/3.1.1_6.bestehende_seite_loeschen.png
+	.. figure:: stepScreens/3.1.1_6.bestehende_seite_loeschen.png
 
-* **Problem:** Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (Stone 1)
-* **Grund:** Es gibt zwei identische Löschen-Buttons.
+	* **Problem:** Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (Stone 1)
+	* **Grund:** Es gibt zwei identische Löschen-Buttons.
 
-4.2) Löschvorgang bestätigen
+	2) Löschvorgang bestätigen
 
-.. figure:: stepScreens/3.1.1_7.loeschen_bestaetigen.png
+	.. figure:: stepScreens/3.1.1_7.loeschen_bestaetigen.png
 
 3.1.2 Seiten anlegen
 ....................
@@ -140,27 +140,27 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 * **Problem:** Autor wird leicht verwirrt.
 * **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (Stone 5)
 
-3.1) Die Vorlage in den Modul-Explorer ziehen.
+	1) Die Vorlage in den Modul-Explorer ziehen.
 
-.. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
+	.. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
 
-* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (Stone 2)
-* **Grund:** Es existiert keine Schaltfläche.
+	* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (Stone 2)
+	* **Grund:** Es existiert keine Schaltfläche.
 
 4) Die Vorlage "Matrix Multiple Choice (mit Auswerten-Button)" suchen.
 
 * **Problem:** Autor kann keine Seite vom Typ "Matrix Single Choice" wählen. (Stone 4)
 * **Grund:** Diese existiert nicht, weil die Unterscheidung Multiple/Single erst später auftaucht.
 
-4.1) Die Vorlage in den Modul-Explorer ziehen.
+	1) Die Vorlage in den Modul-Explorer ziehen.
 
-.. figure:: stepScreens/3.1.2_4.MatrixMultipleChoice_erstellen.png
+	.. figure:: stepScreens/3.1.2_4.MatrixMultipleChoice_erstellen.png
 
 5) Die Vorlage "Drag & Drop mit Text (mit Auswerten-Button)" suchen.
 
-5.1) Die Vorlage in den Modul-Explorer ziehen.
+	1) Die Vorlage in den Modul-Explorer ziehen.
 
-.. figure:: stepScreens/3.1.2_5.Drag_n_Drop_erstellen.png
+	.. figure:: stepScreens/3.1.2_5.Drag_n_Drop_erstellen.png
 
 6) Seitenvorlagen schliessen
 
@@ -192,11 +192,11 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 * **Problem:** Autor könnte versuchen, das Element zu markieren und Text direkt einzugeben oder sogar den Text zu markieren (Stone 4)
 
-4.1) Texteditor durch Klick auf OK schliessen
+	1) Texteditor durch Klick auf OK schliessen
 
 5) Optionen abändern durch je einen Doppelklick auf die entsprechende Option
 
-5.1) Texteditor jeweils durch Klick auf OK schliessen
+	1) Texteditor jeweils durch Klick auf OK schliessen
 
 .. figure:: stepScreens/3.1.3_5.alle_texte_geändert.png
 
@@ -206,9 +206,9 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 * **Problem:** Unklar, warum ein Auswerten-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (Stone 7)
 
-6.1) Löschen mit OK bestätigen
+	1) Löschen mit OK bestätigen
 
-.. figure:: stepScreens/3.1.3_6_1.Loeschen_bestaetigen.png
+	.. figure:: stepScreens/3.1.3_6_1.Loeschen_bestaetigen.png
 
 7) Lösungs-Button löschen via Löschen-Button (X)
 
@@ -216,45 +216,45 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 * **Problem:** Unklar, warum ein Lösungs-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (Stone 7)
 
-7.1) Löschen mit OK bestätigen
+	1) Löschen mit OK bestätigen
 
-.. figure:: stepScreens/3.1.3_7_1.Loeschen_bestaetigen.png
+	.. figure:: stepScreens/3.1.3_7_1.Loeschen_bestaetigen.png
 
 8) Optionen als Lösungen kennzeichnen
 
-8.1) Eigenschaftspalette über den Button (Zahnrad) öffnen
+	1) Eigenschaftspalette über den Button (Zahnrad) öffnen
 
-.. figure:: stepScreens/3.1.3_8.Eigenschaftspalette_oeffnen.png
+	.. figure:: stepScreens/3.1.3_8.Eigenschaftspalette_oeffnen.png
 
-* **Problem:** Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (Stone 4)
+	* **Problem:** Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (Stone 4)
 
-8.2) Zum Reiter "Aufgaben/Test" wechseln
+	2) Zum Reiter "Aufgaben/Test" wechseln
 
-.. figure:: stepScreens/3.1.3_8_2.Aufgaben_Reiter.png
+	.. figure:: stepScreens/3.1.3_8_2.Aufgaben_Reiter.png
 
-8.3) Im Akkordeon den Punkt "Aufgabentypen" öffnen
+	3) Im Akkordeon den Punkt "Aufgabentypen" öffnen
 
-.. figure:: stepScreens/3.1.3_8_3.Aufgabentypen_auswaehlen.png
+	.. figure:: stepScreens/3.1.3_8_3.Aufgabentypen_auswaehlen.png
 
-8.4) Den Aufgabentyp "Multiple Choice/Matrix" öffnen
+	4) Den Aufgabentyp "Multiple Choice/Matrix" öffnen
 
-.. figure:: stepScreens/3.1.3_8_4.MultipleChoice_auswaehlen.png
+	.. figure:: stepScreens/3.1.3_8_4.MultipleChoice_auswaehlen.png
 
-* **Problem:** Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (Stone 4)
+	* **Problem:** Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (Stone 4)
 
-8.5) Im Editor eine richtige Antwort auswählen
+	5) Im Editor eine richtige Antwort auswählen
 
-.. figure:: stepScreens/3.1.3_8_5.optionen_markieren.png
+	.. figure:: stepScreens/3.1.3_8_5.optionen_markieren.png
 
-8.6) In der Eigenschaftspalette die Checkbox "richtige Antwort" selektieren
+	6) In der Eigenschaftspalette die Checkbox "richtige Antwort" selektieren
 
-.. figure:: stepScreens/3.1.3_8_6.als_richtig_markieren.png
+	.. figure:: stepScreens/3.1.3_8_6.als_richtig_markieren.png
 
-Die Punkte 8.5 und 8.6 für jede Option wiederholen, welche eine richtige Lösung für die Aufgabe darstellt.
+	Die Punkte v) und vi) für jede Option wiederholen, welche eine richtige Lösung für die Aufgabe darstellt.
 
-8.7) Eigenschaftspalette schliessen
+	7) Eigenschaftspalette schliessen
 
-.. figure:: stepScreens/3.1.3_8_7.Eigenschaftspalette_schliessen.png
+	.. figure:: stepScreens/3.1.3_8_7.Eigenschaftspalette_schliessen.png
 
 3.1.4 Single Choice Matrix-Seite bearbeiten
 .......................................
@@ -312,7 +312,7 @@ Die Punkte 8.5 und 8.6 für jede Option wiederholen, welche eine richtige Lösun
 3.1.5 Drag and Drop-Seite bearbeiten
 ....................................
 
-.. note:: Die Schritte 1-4 sind analog 3.1.2.
+.. note:: **Anmerkung**: Die Schritte 1-4 sind analog 3.1.2.
 
 1) Seite durch Doppelklick im Modul-Explorer öffnen
 
@@ -322,17 +322,17 @@ Die Punkte 8.5 und 8.6 für jede Option wiederholen, welche eine richtige Lösun
 
 4) Aufgabentext ändern durch Doppelklick auf Textelement
 
-4.1) Texteditor durch Klick auf OK schliessen
+	a) Texteditor durch Klick auf OK schliessen
 
 5) Jedes Statement abändern durch je einen Doppelklick auf das entsprechende Statement
 
-5.1) Texteditor jeweils durch Klick auf OK schliessen
+	a) Texteditor jeweils durch Klick auf OK schliessen
 
 .. figure:: stepScreens/3.1.5_5.Texteditor.png
 
 6) Überzählige Antwortmöglichkeit löschen (Statement, Drop-Area, Draggable) via Button (X)
 
-6.1) Jeden Löschvorgang jeweils mit OK bestätigen
+	a) Jeden Löschvorgang jeweils mit OK bestätigen
 
 .. figure:: stepScreens/3.1.5_6.ueberzaehlige_option_geloescht.png
 
@@ -340,7 +340,7 @@ Die Punkte 8.5 und 8.6 für jede Option wiederholen, welche eine richtige Lösun
 
 .. figure:: stepScreens/3.1.5_7.draggable_umbenennen.png
 
-7.1) Texteditor jeweils durch Klick auf OK schliessen
+	a) Texteditor jeweils durch Klick auf OK schliessen
 
 .. figure:: stepScreens/3.1.5_7_1.alle_draggables_umbenennt.png
 
