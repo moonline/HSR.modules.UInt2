@@ -9,7 +9,10 @@ UI2 FS2014 DropTable Cognitive Walktrough
 1 Getestetes Produkt
 ====================
 
-CLX.Stage: Editor für Stage E-Learning System.
+`CLX.Stage`_: Editor für Stage E-Learning System der Firma CREALOGIX AG
+
+.. _CLX.Stage: http://www.crealogix.com/produkte/education-produkte-fuer-firmenkunden/autorensysteme/clxstage/
+
 
 Es werden nur Aufgabenseiten getestet, keine Infoseiten.
 
