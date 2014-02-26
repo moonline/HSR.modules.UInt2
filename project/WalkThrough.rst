@@ -110,7 +110,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.1_1.Modulerstellung.png
 
-* **Problem:** Dem Autor ist nicht klar, was er jetzt machen soll. (Stone 1)
+* **Problem:** Dem Autor ist nicht klar, was er jetzt machen soll. (STONE 1)
 	* **Grund:** Es wird kein Hilfetext angezeigt oder gar eine prominente Schaltfläche.
 
 	1) Vorlagenauswahl wird angezeigt
@@ -125,13 +125,13 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.1_4.ordnerauswahl.png
 
-* **Problem:** Es ist nicht klar, warum jetzt bereits ein Ordner ausgewählt werden muss, obwohl noch kein Content erstellt wurde (Stone 4)
+* **Problem:** Es ist nicht klar, warum jetzt bereits ein Ordner ausgewählt werden muss, obwohl noch kein Content erstellt wurde (STONE 4)
 
 	1) Neues Modul wird erstellt und geöffnet. Es wurden automatisch eine Startseite, eine Aufgabenseite und eine Auswertungsseite erstellt.
 
 	.. figure:: stepScreens/3.1.1_5.neues_modul.png
 
-	* **Problem:** Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (Stone 3)
+	* **Problem:** Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (STONE 3)
 
 4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Aufgabenseite löschen.
 
@@ -139,7 +139,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 	.. figure:: stepScreens/3.1.1_6.bestehende_seite_loeschen.png
 
-	* **Problem:** Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (Stone 1)
+	* **Problem:** Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (STONE 1)
 		* **Grund:** Es gibt zwei identische Löschen-Buttons.
 
 	2) Löschvorgang bestätigen
@@ -153,30 +153,30 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.2_1.Seitenvorlagen.png
 
-* **Problem:** Es ist nicht ganz klar, welcher Button die gewünschte Funktion auslöst. (Stone 1)
+* **Problem:** Es ist nicht ganz klar, welcher Button die gewünschte Funktion auslöst. (STONE 1)
 * **Grund:** Es gibt zwei identische Buttons für das Hinzufügen (einer für Seiten/Kapitel, einer für Elemente).
 
 2) Im Akkordeon der Seitenvorlagen zu den Aufgabenseiten wechseln
 
 .. figure:: stepScreens/3.1.2_2.Aufgabenseitenvorlagen.png
 
-* **Problem:** Autor muss Aufgabenseiten explizit auswählen, obwohl er sich in einem Testkapitel befindet. (Stone 4)
+* **Problem:** Autor muss Aufgabenseiten explizit auswählen, obwohl er sich in einem Testkapitel befindet. (STONE 4)
 	
 3) Die Vorlage "Multiple Choice (mit Auswerten-Button)" suchen.
 
 * **Problem:** Autor wird leicht verwirrt.
-	* **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (Stone 5)
+	* **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (STONE 5)
 
 	1) Die Vorlage in den Modul-Explorer ziehen.
 
 	.. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
 
-	* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (Stone 2)
+	* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (STONE 2)
 		* **Grund:** Es existiert keine Schaltfläche.
 
 4) Die Vorlage "Matrix Multiple Choice (mit Auswerten-Button)" suchen.
 
-* **Problem:** Autor kann keine Seite vom Typ "Matrix Single Choice" wählen. (Stone 4)
+* **Problem:** Autor kann keine Seite vom Typ "Matrix Single Choice" wählen. (STONE 4)
 	* **Grund:** Diese existiert nicht, weil die Unterscheidung Multiple/Single erst später auftaucht.
 
 	1) Die Vorlage in den Modul-Explorer ziehen.
@@ -200,14 +200,14 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.3_1.Seite_oeffnen.png
 
-* **Problem:** Es ist unklar, wie die Seite geöffnet werden kann  (Stone 1)
+* **Problem:** Es ist unklar, wie die Seite geöffnet werden kann  (STONE 1)
 	* **Grund:** Der Öffnen-Button (Auge) hat den Hovertext "Ordner öffnen"
 
 2) Titel der Seite ändern
 
 .. figure:: stepScreens/3.1.3_2.Seite_umbenennen.png
 
-* **Problem:** Es ist nicht klar, dass "Dateititel" gleichzeitig der Seitentitel ist. (Stone 1)
+* **Problem:** Es ist nicht klar, dass "Dateititel" gleichzeitig der Seitentitel ist. (STONE 1)
 
 3) Seite in der Navigation sichtbar machen via Checkbox
 
@@ -217,7 +217,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.3_4.Aufgabentext_aendern.png
 
-* **Problem:** Autor könnte versuchen, das Element zu markieren und Text direkt einzugeben oder sogar den Text zu markieren (Stone 4)
+* **Problem:** Autor könnte versuchen, das Element zu markieren und Text direkt einzugeben oder sogar den Text zu markieren (STONE 4)
 
 	1) Texteditor durch Klick auf OK schliessen
 
@@ -231,7 +231,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.3_6.Auswerten_Btn_loeschen.png
 
-* **Problem:** Unklar, warum ein Auswerten-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (Stone 7)
+* **Problem:** Unklar, warum ein Auswerten-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (STONE 7)
 
 	1) Löschen mit OK bestätigen
 
@@ -241,7 +241,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.3_7.Loesung_Button_loeschen.png
 
-* **Problem:** Unklar, warum ein Lösungs-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (Stone 7)
+* **Problem:** Unklar, warum ein Lösungs-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (STONE 7)
 
 	1) Löschen mit OK bestätigen
 
@@ -253,7 +253,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 	.. figure:: stepScreens/3.1.3_8.Eigenschaftspalette_oeffnen.png
 
-	* **Problem:** Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (Stone 4)
+	* **Problem:** Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (STONE 4)
 
 	2) Zum Reiter "Aufgaben/Test" wechseln
 
@@ -267,7 +267,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 	.. figure:: stepScreens/3.1.3_8_4.MultipleChoice_auswaehlen.png
 
-	* **Problem:** Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (Stone 4)
+	* **Problem:** Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (STONE 4)
 
 	5) Im Editor eine richtige Antwort auswählen
 
@@ -301,7 +301,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
    3.1.4-3: Optionen Eigenschaften aufrufen
 
 
-* **Problem:** Teilnehmer ist nicht klar, was er jetzt machen soll. (Stone 1)
+* **Problem:** Teilnehmer ist nicht klar, was er jetzt machen soll. (STONE 1)
 	* **Grund:** Es werden viele Elemente angezeigt, die in der aktuellen Ansicht gar keinen Sinn machen.
 
 .. figure:: stepScreens/3.1.20-4.jpg
@@ -355,6 +355,9 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.5_7.draggable_umbenennen.png
 
+* **Problem:** Autor ist verwirrt, findet den Text nicht (NIELSEN 5)
+	* **Grund:** Weisser Text auf weissem Hintergrund.
+
 	a) Texteditor jeweils durch Klick auf OK schliessen
 
 	.. figure:: stepScreens/3.1.5_7_1.alle_draggables_umbenennt.png
@@ -389,7 +392,7 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.2-1: Multiple Choice Frage
 
 
-* **Problem:** Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (Stone 1)
+* **Problem:** Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (STONE 1)
 	* **Grund:** Der Aktionsbutton (Weiter ">") ist nicht speziell hervorgehoben und geht im GUI unter.
 
 
@@ -423,8 +426,8 @@ Schritt 8 für alle Draggable-Elemente wiederholen
 
 * **Problem:** Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht.
 	* **Grund:** (auf der Startseite stand 80%), hier wird nur die erreichte Zahl angzeigt (Teiln. muss sich erinnern, Nielsen 6).
-* **Problem:** Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (Nielsen 2)
-	* **Grund:** Man muss die Punktezahlen vergleichen und hat keinen eindeutigen Indikator. (Nielsen 2)
+* **Problem:** Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (NIELSEN 2)
+	* **Grund:** Man muss die Punktezahlen vergleichen und hat keinen eindeutigen Indikator. (NIELSEN 2)
 	
 .. figure:: stepScreens/3.2.3-3.png
 
@@ -433,10 +436,10 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.3-4: Antworten einsehen
 
 
-* **Problem:** Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (Stone 2)
+* **Problem:** Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (STONE 2)
 	* **Grund:** Icon für Auswertungsseite nicht aussagekräftig
-* **Problem:** Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (Stone 1)
-	* **Grund:** Es gibt keinen klaren nächsten Schritt oder Meldung; Teilnehmer wird zu wenig geführt. (Nielsen 4)
+* **Problem:** Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (STONE 1)
+	* **Grund:** Es gibt keinen klaren nächsten Schritt oder Meldung; Teilnehmer wird zu wenig geführt. (NIELSEN 4)
 
 
 .. figure:: stepScreens/3.2.3-5.png
@@ -444,6 +447,6 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.3-5: Auswertung ein-/ausblenden
 
 
-* **Problem:** Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt. (Stone 2)
+* **Problem:** Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt. (STONE 2)
 	* **Grund:** Funktion ist nicht als solche erkennbar (Button?), Hover-Hilfe ist unverständlich.
 
