@@ -414,9 +414,8 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.3-1: Fragen abschliessen und zu Auswertung übergehen
 
 
-* System Zustand
-	* **Problem:** Teilnehmer wird nach Auswertung gefragt, befindet sich aber noch gar nicht beim letzten Schritt (4 von 5).
-	* **Grund:** Für den Teilnehmer ist es nicht ersichtlich, das die Auswertungsseite in die "Nummerierung" einberechnet wird. -> Verwirrt, das plötzlich Auswertung kommt.
+* **Problem:** Teilnehmer wird nach Auswertung gefragt, befindet sich aber noch gar nicht beim letzten Schritt (4 von 5). (NIELSEN 2)
+	* **Grund:** Für den Teilnehmer ist es nicht ersichtlich, das die Auswertungsseite in die "Nummerierung" einberechnet wird. -> Verwirrt, dass plötzlich Auswertung kommt.
 
 
 .. figure:: stepScreens/3.2.3-2.png
@@ -424,10 +423,10 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.3-2: Auswertung
    
 
-* **Problem:** Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht.
+* **Problem:** Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht. (NIELSEN 2)
 	* **Grund:** (auf der Startseite stand 80%), hier wird nur die erreichte Zahl angzeigt (Teiln. muss sich erinnern, Nielsen 6).
 * **Problem:** Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (NIELSEN 2)
-	* **Grund:** Man muss die Punktezahlen vergleichen und hat keinen eindeutigen Indikator. (NIELSEN 2)
+	* **Grund:** Man muss die Punktezahlen vergleichen und hat keinen eindeutigen Indikator.
 	
 .. figure:: stepScreens/3.2.3-3.png
 
