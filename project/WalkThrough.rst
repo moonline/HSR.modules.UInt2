@@ -38,7 +38,7 @@ Neben den Autoren und Teilnehmern gibt es noch Kursleiter, welche für die Ausf�
 3 Aufgaben und Probleme
 =======================
 
-.. note:: **Voraussetzung:** CLX.Stage wurde korrekt installiert und gestartet.
+**Voraussetzung:** CLX.Stage wurde korrekt installiert und gestartet.
 
 Kategorisierung der Probleme gemäss **STONE** et al. (2005):
 
@@ -327,7 +327,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 3.1.5 Drag and Drop-Seite bearbeiten
 ....................................
 
-.. note:: **Anmerkung**: Die Schritte 1-4 sind analog 3.1.2.
+**Anmerkung**: Die Schritte 1-4 sind analog 3.1.2.
 
 1) Seite durch Doppelklick im Modul-Explorer öffnen
 
