@@ -37,6 +37,24 @@ Neben den Autoren und Teilnehmern gibt es noch Kursleiter, welche für die Ausf�
 
 .. note:: **Voraussetzung:** CLX.Stage wurde korrekt installiert und gestartet.
 
+Kategorisierung der Probleme gemäss STONE et al. (2005):
+
+1) Visibility : First step to goal should be clear 
+
+2) Affordance : Control suggests how to use it
+
+3) Feedback : Should be clear what happened or is happening
+
+4) Simplicity : As simple as possible and task-focused
+
+5) Structure : Content organized sensibly
+
+6) Consistency : Similarity for predictability
+
+7) Tolerance : Prevent errors, help recovery
+
+8) Accessibility : Usable by all intended users, despite handicap, access device, or environmental conditions
+
 **Schritte**
 
 Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_UINT2.wmv
@@ -65,7 +83,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.1_1.Modulerstellung.png
 
-	* **Problem:** Dem Autor ist nicht klar, was er jetzt machen soll.
+	* **Problem:** Dem Autor ist nicht klar, was er jetzt machen soll. (Stone 1)
 	* **Grund:** Es wird kein Hilfetext angezeigt oder gar eine prominente Schaltfläche.
 
 1.1) Vorlagenauswahl wird angezeigt
@@ -80,17 +98,22 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.1_4.ordnerauswahl.png
 
+	* **Problem:** Es ist nicht klar, warum jetzt bereits ein Ordner ausgewählt werden muss, obwohl noch kein Content erstellt wurde (Stone 4)
+
 3.1) Neues Modul wird erstellt und geöffnet. Es wurden automatisch eine Startseite, eine Aufgabenseite und eine Auswertungsseite erstellt.
 
 .. figure:: stepScreens/3.1.1_5.neues_modul.png
 
-	* **Problem:** Es werden eventuell unerwünschte Seiten erstellt.
+	* **Problem:** Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (Stone 3)
 
-4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Aufgabenseite löschen, um eigene Seiten erstellen zu können.
+4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Aufgabenseite löschen.
 
 4.1) Seite anwählen und auf den Löschbutton klicken.
 
 .. figure:: stepScreens/3.1.1_6.bestehende_seite_loeschen.png
+
+	* **Problem:** Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (Stone 1)
+	* **Grund:** Es gibt zwei identische Löschen-Buttons.
 
 4.2) Löschvorgang bestätigen
 
@@ -103,27 +126,30 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.2_1.Seitenvorlagen.png
 
+	* **Problem:** Es ist nicht ganz klar, welcher Button die gewünschte Funktion auslöst. (Stone 1)
+	* **Grund:** Es gibt zwei identische Buttons für das Hinzufügen (einer für Seiten/Kapitel, einer für Elemente).
+
 2) Im Akkordeon der Seitenvorlagen zu den Aufgabenseiten wechseln
 
 .. figure:: stepScreens/3.1.2_2.Aufgabenseitenvorlagen.png
 
-	* **Problem:** Autor muss Aufgabenseiten explizit auswählen, obwohl er sich in einem Testkapitel befindet.
+	* **Problem:** Autor muss Aufgabenseiten explizit auswählen, obwohl er sich in einem Testkapitel befindet. (Stone 4)
 	
 3) Die Vorlage "Multiple Choice (mit Auswerten-Button)" suchen.
 
 	* **Problem:** Autor wird leicht verwirrt.
-	* **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben.
+	* **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (Stone 5)
 
 3.1) Die Vorlage in den Modul-Explorer ziehen.
 
 .. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
 
-	* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll.
+	* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (Stone 2)
 	* **Grund:** Es existiert keine Schaltfläche.
 
 4) Die Vorlage "Matrix Multiple Choice (mit Auswerten-Button)" suchen.
 
-	* **Problem:** Autor kann keine Seite vom Typ "Matrix Single Choice" wählen.
+	* **Problem:** Autor kann keine Seite vom Typ "Matrix Single Choice" wählen. (Stone 4)
 	* **Grund:** Diese existiert nicht, weil die Unterscheidung Multiple/Single erst später auftaucht.
 
 4.1) Die Vorlage in den Modul-Explorer ziehen.
@@ -147,9 +173,14 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.3_1.Seite_oeffnen.png
 
+	* **Problem:** Es ist unklar, wie die Seite geöffnet werden kann  (Stone 1)
+	* **Grund:** Der Öffnen-Button (Auge) hat den Hovertext "Ordner öffnen"
+
 2) Titel der Seite ändern
 
 .. figure:: stepScreens/3.1.3_2.Seite_umbenennen.png
+
+	* **Problem:** Es ist nicht klar, dass "Dateititel" gleichzeitig der Seitentitel ist. (Stone 1)
 
 3) Seite in der Navigation sichtbar machen via Checkbox
 
@@ -158,6 +189,8 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 4) Aufgabentext ändern durch Doppelklick auf Textelement
 
 .. figure:: stepScreens/3.1.3_4.Aufgabentext_aendern.png
+
+	* **Problem:** Autor könnte versuchen, das Element zu markieren und Text direkt einzugeben oder sogar den Text zu markieren (Stone 4)
 
 4.1) Texteditor durch Klick auf OK schliessen
 
@@ -171,6 +204,8 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.1.3_6.Auswerten_Btn_loeschen.png
 
+	* **Problem:** Unklar, warum ein Auswerten-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (Stone 7)
+
 6.1) Löschen mit OK bestätigen
 
 .. figure:: stepScreens/3.1.3_6_1.Loeschen_bestaetigen.png
@@ -178,6 +213,8 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 7) Lösungs-Button löschen via Löschen-Button (X)
 
 .. figure:: stepScreens/3.1.3_7.Loesung_Button_loeschen.png
+
+	* **Problem:** Unklar, warum ein Lösungs-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (Stone 7)
 
 7.1) Löschen mit OK bestätigen
 
@@ -188,6 +225,8 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 8.1) Eigenschaftspalette über den Button (Zahnrad) öffnen
 
 .. figure:: stepScreens/3.1.3_8.Eigenschaftspalette_oeffnen.png
+
+	* **Problem:** Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (Stone 4)
 
 8.2) Zum Reiter "Aufgaben/Test" wechseln
 
@@ -200,6 +239,8 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 8.4) Den Aufgabentyp "Multiple Choice/Matrix" öffnen
 
 .. figure:: stepScreens/3.1.3_8_4.MultipleChoice_auswaehlen.png
+
+	* **Problem:** Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (Stone 4)
 
 8.5) Im Editor eine richtige Antwort auswählen
 
@@ -397,4 +438,5 @@ Schritt 8 für alle Draggable-Elemente wiederholen
 * Aktion Sichtbarkeit
 	* **Problem:** Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt.
 	* **Problem:** Funktion ist nicht als solche erkennbar (Button?), Hover-Hilfe ist unverständlich.
+
 
