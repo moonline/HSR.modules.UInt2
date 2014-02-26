@@ -331,13 +331,13 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 	a) Texteditor jeweils durch Klick auf OK schliessen
 
-.. figure:: stepScreens/3.1.5_5.Texteditor.png
+	.. figure:: stepScreens/3.1.5_5.Texteditor.png
 
 6) Überzählige Antwortmöglichkeit löschen (Statement, Drop-Area, Draggable) via Button (X)
 
 	a) Jeden Löschvorgang jeweils mit OK bestätigen
 
-.. figure:: stepScreens/3.1.5_6.ueberzaehlige_option_geloescht.png
+	.. figure:: stepScreens/3.1.5_6.ueberzaehlige_option_geloescht.png
 
 7) Jedes Draggable abändern durch je einen Doppelklick auf das entsprechende Draggable
 
@@ -345,7 +345,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 	a) Texteditor jeweils durch Klick auf OK schliessen
 
-.. figure:: stepScreens/3.1.5_7_1.alle_draggables_umbenennt.png
+	.. figure:: stepScreens/3.1.5_7_1.alle_draggables_umbenennt.png
 
 8) Draggable-Element mit der Maus auf die entsprechende Drop-Area ziehen und loslassen, so dass es dem jeweiligen Statement zugewiesen wird.
 
