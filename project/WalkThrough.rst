@@ -154,7 +154,7 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 .. figure:: stepScreens/3.1.2_1.Seitenvorlagen.png
 
 * **Problem:** Es ist nicht ganz klar, welcher Button die gewünschte Funktion auslöst. (STONE 1)
-* **Grund:** Es gibt zwei identische Buttons für das Hinzufügen (einer für Seiten/Kapitel, einer für Elemente).
+	* **Grund:** Es gibt zwei identische Buttons für das Hinzufügen (einer für Seiten/Kapitel, einer für Elemente).
 
 2) Im Akkordeon der Seitenvorlagen zu den Aufgabenseiten wechseln
 
