@@ -8,17 +8,21 @@ Aufgabe:
 Problem 03: Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (STONE 3)
 Aufgabe: 
 
-Problem 04: Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (STONE 1)
-Aufgabe: 
+Problem 04: (Seite löschen) Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (STONE 1)
+	 Grund: Es gibt zwei identische Löschen-Buttons.
+Aufgabe: Ihr Mitarbeiter liess Ihnen ein Lernmodul zukommen, welches Ihrer Meinung nach zu lang ist. Sie wollen das Modul nun um einige Aufgaben verkürzen.
 
-Problem 05: Es ist nicht ganz klar, welcher Button die gewünschte Funktion auslöst. (STONE 1)
-Aufgabe: 
+Problem 05: (Seite anlegen) Es ist nicht ganz klar, welcher Button die gewünschte Funktion auslöst. (STONE 1)
+	 Geund: Es gibt zwei identische Buttons für das Hinzufügen (einer für Seiten/Kapitel, einer für Elemente).
+Aufgabe: Ihr Chef beauftragt Sie, bei einem bereits existierenden Lernmodul noch weitere Fragen einzubauen.
 
 Problem 06: Autor muss Aufgabenseiten explizit auswählen, obwohl er sich in einem Testkapitel befindet. (STONE 4)
-Aufgabe: 
+Aufgabe: Ihr Chef beauftragt Sie, bei einem bereits existierenden Lernmodul noch weitere Fragen einzubauen. Dazu wollen Sie eine neue Seite erstellen.
 
-Problem 07: Autor wird leicht verwirrt.
-Aufgabe: 
+Problem 07: (Eine bestimmte Vorlage suchen) Autor wird leicht verwirrt.
+	 Grund: Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (STONE 5)
+	 		Was ist der Unterschied zwischen "Multiple Choice (mit Auswerten-Button)" und "Multiple Choice (mit Sofort-Feedback)" resp. welche Vorlage brauche ich?
+Aufgabe: Sie wollen in einem Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, in dem Schüler aus einer Reihe von Tiere diejenigen auswählen sollen, welche Säugetiere sind. Zur Auswahl stehen Elefant, Kuh, Delfin, Katze und Gorilla.
 
 Problem 08: Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (STONE 2)
 Aufgabe: 
