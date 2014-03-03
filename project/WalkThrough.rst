@@ -16,6 +16,7 @@ UI2 FS2014 DropTable Cognitive Walktrough
 
 Es werden nur Aufgabenseiten getestet, keine Infoseiten.
 
+
 2 Benutzerprofile
 =================
 
@@ -35,6 +36,7 @@ Teilnehmer bearbeiten die Lerninhalte, beantworten dabei auftauchende Fragen und
 
 Neben den Autoren und Teilnehmern gibt es noch Kursleiter, welche für die Ausführung und Auswertung der Lerninhalte zuständig sind. Diese fallen aber nicht in den Rahmen dieser Untersuchung. Zudem kommt es vor, dass Autoren gleichzeitig auch Kursleiter sind, insbesondere in Schulen.
  
+
 3 Aufgaben und Probleme
 =======================
 
@@ -96,6 +98,7 @@ Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_
 2) Single Choice Matrix
 3) Drag-Drop
 
+
 3.1 Lerninhalte erstellen
 -------------------------
 
@@ -103,188 +106,222 @@ Ausgangspunkt für den Autor ist das geöffnete Programm ohne geladenes Modul.
 
 .. figure:: stepScreens/3.0.Ausgangslage_Autor.png
 
+
 3.1.1 Modul erstellen
 .....................
 
 1) Menu Modul / Modul neu erstellen
 
-.. figure:: stepScreens/3.1.1_1.Modulerstellung.png
+	.. figure:: stepScreens/3.1.1_1.Modulerstellung.png
 
-* **Problem:** Dem Autor ist nicht klar, was er jetzt machen soll. (STONE 1)
-	* **Grund:** Es wird kein Hilfetext angezeigt oder gar eine prominente Schaltfläche.
+	* **Problem:** Dem Autor ist nicht klar, was er jetzt machen soll. (STONE 1)
+		* **Grund:** Es wird kein Hilfetext angezeigt oder gar eine prominente Schaltfläche.
 
-	1) Vorlagenauswahl wird angezeigt
+1) Vorlagenauswahl wird angezeigt
 
 	.. figure:: stepScreens/3.1.1_2.Templateauswahl.png
 
+
 2) Bei der Vorlagenauswahl im Akkordeon zu den Testmodulen wechseln
 
-.. figure:: stepScreens/3.1.1_3.wechsel_zu_testmodulvorlagen.png
+	.. figure:: stepScreens/3.1.1_3.wechsel_zu_testmodulvorlagen.png
+
 
 3) Ordner auswählen, wo das Modul gespeichert werden soll, Auswahl bestätigen.
 
-.. figure:: stepScreens/3.1.1_4.ordnerauswahl.png
+	.. figure:: stepScreens/3.1.1_4.ordnerauswahl.png
 
-* **Problem:** Es ist nicht klar, warum jetzt bereits ein Ordner ausgewählt werden muss, obwohl noch kein Content erstellt wurde (STONE 4)
+
+	* **Problem:** Es ist nicht klar, warum jetzt bereits ein Ordner ausgewählt werden muss, obwohl noch kein Content erstellt wurde (STONE 4)
+
 
 	1) Neues Modul wird erstellt und geöffnet. Es wurden automatisch eine Startseite, eine Aufgabenseite und eine Auswertungsseite erstellt.
 
-	.. figure:: stepScreens/3.1.1_5.neues_modul.png
+		.. figure:: stepScreens/3.1.1_5.neues_modul.png
 
-	* **Problem:** Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (STONE 3)
 
+		* **Problem:** Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (STONE 3)
+
+		
 4) Im Modul-Explorer das Kapitel aufklappen und die bestehende Aufgabenseite löschen.
 
 	1) Seite anwählen und auf den Löschbutton klicken.
 
-	.. figure:: stepScreens/3.1.1_6.bestehende_seite_loeschen.png
+		.. figure:: stepScreens/3.1.1_6.bestehende_seite_loeschen.png
+	
 
-	* **Problem:** Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (STONE 1)
-		* **Grund:** Es gibt zwei identische Löschen-Buttons.
+		* **Problem:** Es ist nicht ganz klar, welcher Löschen-Button die gewünschte Funktion auslöst. (STONE 1)
+			* **Grund:** Es gibt zwei identische Löschen-Buttons.
 
 	2) Löschvorgang bestätigen
 
-	.. figure:: stepScreens/3.1.1_7.loeschen_bestaetigen.png
+		.. figure:: stepScreens/3.1.1_7.loeschen_bestaetigen.png
 
+	
 3.1.2 Seiten anlegen
 ....................
 
 1) Über den Button (+) die Seitenvorlagen öffnen.
 
-.. figure:: stepScreens/3.1.2_1.Seitenvorlagen.png
+	.. figure:: stepScreens/3.1.2_1.Seitenvorlagen.png
 
-* **Problem:** Es ist nicht ganz klar, welcher Button die gewünschte Funktion auslöst. (STONE 1)
-	* **Grund:** Es gibt zwei identische Buttons für das Hinzufügen (einer für Seiten/Kapitel, einer für Elemente).
+
+	* **Problem:** Es ist nicht ganz klar, welcher Button die gewünschte Funktion auslöst. (STONE 1)
+		* **Grund:** Es gibt zwei identische Buttons für das Hinzufügen (einer für Seiten/Kapitel, einer für Elemente).
 
 2) Im Akkordeon der Seitenvorlagen zu den Aufgabenseiten wechseln
 
-.. figure:: stepScreens/3.1.2_2.Aufgabenseitenvorlagen.png
+	.. figure:: stepScreens/3.1.2_2.Aufgabenseitenvorlagen.png
 
-* **Problem:** Autor muss Aufgabenseiten explizit auswählen, obwohl er sich in einem Testkapitel befindet. (STONE 4)
+
+	* **Problem:** Autor muss Aufgabenseiten explizit auswählen, obwohl er sich in einem Testkapitel befindet. (STONE 4)
 	
 3) Die Vorlage "Multiple Choice (mit Auswerten-Button)" suchen.
 
-* **Problem:** Autor wird leicht verwirrt.
-	* **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (STONE 5)
+	* **Problem:** Autor wird leicht verwirrt.
+		* **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (STONE 5)
 
+		
 	1) Die Vorlage in den Modul-Explorer ziehen.
 
-	.. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
+		.. figure:: stepScreens/3.1.2_3.MultipleChoice_erstellen.png
+	
 
-	* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (STONE 2)
-		* **Grund:** Es existiert keine Schaltfläche.
+		* **Problem:** Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (STONE 2)
+			* **Grund:** Es existiert keine Schaltfläche.
 
+			
 4) Die Vorlage "Matrix Multiple Choice (mit Auswerten-Button)" suchen.
 
-* **Problem:** Autor kann keine Seite vom Typ "Matrix Single Choice" wählen. (STONE 4)
-	* **Grund:** Diese existiert nicht, weil die Unterscheidung Multiple/Single erst später auftaucht.
+	* **Problem:** Autor kann keine Seite vom Typ "Matrix Single Choice" wählen. (STONE 4)
+		* **Grund:** Diese existiert nicht, weil die Unterscheidung Multiple/Single erst später auftaucht.
 
 	1) Die Vorlage in den Modul-Explorer ziehen.
 
-	.. figure:: stepScreens/3.1.2_4.MatrixMultipleChoice_erstellen.png
+		.. figure:: stepScreens/3.1.2_4.MatrixMultipleChoice_erstellen.png
+	
 
 5) Die Vorlage "Drag & Drop mit Text (mit Auswerten-Button)" suchen.
 
 	1) Die Vorlage in den Modul-Explorer ziehen.
 
-	.. figure:: stepScreens/3.1.2_5.Drag_n_Drop_erstellen.png
+		.. figure:: stepScreens/3.1.2_5.Drag_n_Drop_erstellen.png
+	
 
 6) Seitenvorlagen schliessen
 
-.. figure:: stepScreens/3.1.2_6.Vorlagen_schliessen.png
+	.. figure:: stepScreens/3.1.2_6.Vorlagen_schliessen.png
+
 
 3.1.3 Multiple Choice-Seite bearbeiten
 ......................................
 
 1) Seite durch Doppelklick im Modul-Explorer öffnen
 
-.. figure:: stepScreens/3.1.3_1.Seite_oeffnen.png
+	.. figure:: stepScreens/3.1.3_1.Seite_oeffnen.png
 
-* **Problem:** Es ist unklar, wie die Seite geöffnet werden kann  (STONE 1)
-	* **Grund:** Der Öffnen-Button (Auge) hat den Hovertext "Ordner öffnen"
+
+	* **Problem:** Es ist unklar, wie die Seite geöffnet werden kann  (STONE 1)
+		* **Grund:** Der Öffnen-Button (Auge) hat den Hovertext "Ordner öffnen"
 
 2) Titel der Seite ändern
 
-.. figure:: stepScreens/3.1.3_2.Seite_umbenennen.png
+	.. figure:: stepScreens/3.1.3_2.Seite_umbenennen.png
 
-* **Problem:** Es ist nicht klar, dass "Dateititel" gleichzeitig der Seitentitel ist. (STONE 1)
+
+	* **Problem:** Es ist nicht klar, dass "Dateititel" gleichzeitig der Seitentitel ist. (STONE 1)
 
 3) Seite in der Navigation sichtbar machen via Checkbox
 
-.. figure:: stepScreens/3.1.3_3.Seite_in_Navigation_anzeigen.png
+	.. figure:: stepScreens/3.1.3_3.Seite_in_Navigation_anzeigen.png
+
 
 4) Aufgabentext ändern durch Doppelklick auf Textelement
 
-.. figure:: stepScreens/3.1.3_4.Aufgabentext_aendern.png
+	.. figure:: stepScreens/3.1.3_4.Aufgabentext_aendern.png
 
-* **Problem:** Autor könnte versuchen, das Element zu markieren und Text direkt einzugeben oder sogar den Text zu markieren (STONE 4)
+
+	* **Problem:** Autor könnte versuchen, das Element zu markieren und Text direkt einzugeben oder sogar den Text zu markieren (STONE 4)
 
 	1) Texteditor durch Klick auf OK schliessen
 
+	
 5) Optionen abändern durch je einen Doppelklick auf die entsprechende Option
 
 	1) Texteditor jeweils durch Klick auf OK schliessen
+	
+		.. figure:: stepScreens/3.1.3_5.alle_texte_geaendert.png
 
-.. figure:: stepScreens/3.1.3_5.alle_texte_geändert.png
-
+	
 6) Auswerten-Button löschen via Löschen-Button (X)
 
-.. figure:: stepScreens/3.1.3_6.Auswerten_Btn_loeschen.png
+	.. figure:: stepScreens/3.1.3_6.Auswerten_Btn_loeschen.png
 
-* **Problem:** Unklar, warum ein Auswerten-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (STONE 7)
+	
+	* **Problem:** Unklar, warum ein Auswerten-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (STONE 7)
 
 	1) Löschen mit OK bestätigen
 
-	.. figure:: stepScreens/3.1.3_6_1.Loeschen_bestaetigen.png
+		.. figure:: stepScreens/3.1.3_6_1.Loeschen_bestaetigen.png
+	
 
 7) Lösungs-Button löschen via Löschen-Button (X)
 
-.. figure:: stepScreens/3.1.3_7.Loesung_Button_loeschen.png
+	.. figure:: stepScreens/3.1.3_7.Loesung_Button_loeschen.png
 
-* **Problem:** Unklar, warum ein Lösungs-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (STONE 7)
+
+	* **Problem:** Unklar, warum ein Lösungs-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (STONE 7)
 
 	1) Löschen mit OK bestätigen
 
-	.. figure:: stepScreens/3.1.3_7_1.Loeschen_bestaetigen.png
+		.. figure:: stepScreens/3.1.3_7_1.Loeschen_bestaetigen.png
+	
 
 8) Optionen als Lösungen kennzeichnen
 
 	1) Eigenschaftspalette über den Button (Zahnrad) öffnen
 
-	.. figure:: stepScreens/3.1.3_8.Eigenschaftspalette_oeffnen.png
+		.. figure:: stepScreens/3.1.3_8.Eigenschaftspalette_oeffnen.png
+	
 
-	* **Problem:** Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (STONE 4)
+		* **Problem:** Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (STONE 4)
 
 	2) Zum Reiter "Aufgaben/Test" wechseln
 
-	.. figure:: stepScreens/3.1.3_8_2.Aufgaben_Reiter.png
+		.. figure:: stepScreens/3.1.3_8_2.Aufgaben_Reiter.png
+	
 
 	3) Im Akkordeon den Punkt "Aufgabentypen" öffnen
 
-	.. figure:: stepScreens/3.1.3_8_3.Aufgabentypen_auswaehlen.png
+		.. figure:: stepScreens/3.1.3_8_3.Aufgabentypen_auswaehlen.png
+	
 
 	4) Den Aufgabentyp "Multiple Choice/Matrix" öffnen
 
-	.. figure:: stepScreens/3.1.3_8_4.MultipleChoice_auswaehlen.png
+		.. figure:: stepScreens/3.1.3_8_4.MultipleChoice_auswaehlen.png
+	
 
-	* **Problem:** Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (STONE 4)
+		* **Problem:** Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (STONE 4)
 
 	5) Im Editor eine richtige Antwort auswählen
 
-	.. figure:: stepScreens/3.1.3_8_5.optionen_markieren.png
+		.. figure:: stepScreens/3.1.3_8_5.optionen_markieren.png
+	
 
 	6) In der Eigenschaftspalette die Checkbox "richtige Antwort" selektieren
 
-	.. figure:: stepScreens/3.1.3_8_6.als_richtig_markieren.png
+		.. figure:: stepScreens/3.1.3_8_6.als_richtig_markieren.png
+	
 
-	Die Punkte v) und vi) für jede Option wiederholen, welche eine richtige Lösung für die Aufgabe darstellt.
+		1) Die Punkte v) und vi) für jede Option wiederholen, welche eine richtige Lösung für die Aufgabe darstellt.
 
 	7) Eigenschaftspalette schliessen
 
-	.. figure:: stepScreens/3.1.3_8_7.Eigenschaftspalette_schliessen.png
+		.. figure:: stepScreens/3.1.3_8_7.Eigenschaftspalette_schliessen.png
 
+	
 3.1.4 Single Choice Matrix-Seite bearbeiten
-.......................................
+...........................................
 
 .. figure:: stepScreens/3.1.20-1.jpg
 
@@ -372,6 +409,7 @@ Schritt 8 für alle Draggable-Elemente wiederholen
 
 9) Auswerten- und Lösungs-Button löschen via Löschen-Button (X) (Analog 3.1.2, Schritte 6-7)
 
+
 3.2 Quiz durchführen (Teilnehmer)
 ---------------------------------
 
@@ -432,7 +470,7 @@ Schritt 8 für alle Draggable-Elemente wiederholen
 
 .. figure:: stepScreens/3.2.3-4.png
 
-   * 3.2.3-4: Antworten einsehen
+   3.2.3-4: Antworten einsehen
 
 
 * **Problem:** Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (STONE 2)
