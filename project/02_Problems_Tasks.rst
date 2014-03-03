@@ -15,14 +15,14 @@ Problem 02
 ==========
 
 * Es ist nicht klar, warum jetzt bereits ein Ordner ausgewählt werden muss, obwohl noch kein Content erstellt wurde (STONE 4)
-* **Aufgabe:** 
+* **Aufgabe:** Wird durch Augabe 01 abgedeckt
 
 
 Problem 03
 ==========
 
 * Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (STONE 3)
-* **Aufgabe:** 
+* **Aufgabe:** Wird durch Augabe 01 abgedeckt
 
 
 Problem 04
@@ -85,7 +85,7 @@ Problem 11
 ==========
 
 * Es ist nicht klar, dass "Dateititel" gleichzeitig der Seitentitel ist. (STONE 1)
-* **Aufgabe:** 
+* **Aufgabe:** Für einen abwesenden Kollegen sollen die Seitentitel einiger Frage angepasst werden, die unterschiedliche Inhalte besitzen: Multiple Choice, Text, Single Choice Matrix.
 
 
 Problem 12
@@ -99,79 +99,72 @@ Problem 13
 ==========
 
 * Unklar, warum ein Auswerten-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (STONE 7)
-* **Aufgabe:** 
+* **Aufgabe:** Ein Kollege bittet Sie, Ihnen zu zeigen wie das Modul funktioniert. Dazu legen Sie ein Testkapitel an ohne Auswertung.
 
 
 Problem 14
 ==========
 
-* Unklar, warum ein Lösungs-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (STONE 7)
-* **Aufgabe:** 
+* Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (STONE 4)
+* **Aufgabe:** Für eine Messe soll das Demomodul vom letzten Jahr angepasst werden. Da sich die Antworten geändert haben, müssen Sie bei den Checkbox Aufgaben andere Elemente als Lösung definieren.
 
 
 Problem 15
 ==========
 
-* Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (STONE 4)
-* **Aufgabe:** 
+* Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (STONE 4)
+* **Aufgabe:** Wird durch Aufgabe 14 abgedeckt.
 
 
 Problem 16
 ==========
-
-* Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (STONE 4)
-* **Aufgabe:** 
+* Teilnehmer ist nicht klar, was er jetzt machen soll. (STONE 1)
+* **Aufgabe:** Das in Aufgabe 14 erwähnte Demomodul soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
 
 
 Problem 17
 ==========
-* Teilnehmer ist nicht klar, was er jetzt machen soll. (STONE 1)
-* **Aufgabe:** 
+* Autor ist verwirrt, findet den Text nicht (NIELSEN 5)
+* **Aufgabe:** Sie sind zu Besuch bei einer Bekannten im Kindergarten, die das Modul für einfache Fragebogen mit den Kindern benutzt. Altersentsprechend benötigt sie mehrere Drag'n Drop Fragen. Sie zeigen ihr wie sie diese anlegt und editiert.
 
 
 Problem 18
 ==========
-* Autor ist verwirrt, findet den Text nicht (NIELSEN 5)
-* **Aufgabe:** 
+* Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (STONE 1)
+* **Aufgabe:** Die in Aufgabe 17 beschriebene Kindergärtnerin bittet Sie, für sie den Fragebogen aus der Sicht eines Kindes durchzuspielen und ihr Feedback zu geben.
 
 
 Problem 19
 ==========
-* Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (STONE 1)
-* **Aufgabe:** 
+* Teilnehmer wird nach Auswertung gefragt, befindet sich aber noch gar nicht beim letzten Schritt (4 von 5). (NIELSEN 2)
+* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 20
 ==========
-* Teilnehmer wird nach Auswertung gefragt, befindet sich aber noch gar nicht beim letzten Schritt (4 von 5). (NIELSEN 2)
-* **Aufgabe:** 
+*  Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht. (NIELSEN 2)
+* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 21
 ==========
-*  Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht. (NIELSEN 2)
-* **Aufgabe:** 
+* Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (NIELSEN 2)
+* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 22
 ==========
-* Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (NIELSEN 2)
-* **Aufgabe:** 
+* Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (STONE 2)
+* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 23
 ==========
-* Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (STONE 2)
-* **Aufgabe:** 
+* Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (STONE 2)
+* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 24
 ==========
-* Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (STONE 2)
-* **Aufgabe:** 
-
-
-Problem 25
-==========
 * Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt. (STONE 2)
-* **Aufgabe:** 
+* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
