@@ -24,20 +24,23 @@ Problem 07: (Eine bestimmte Vorlage suchen) Autor wird leicht verwirrt.
 	 		Was ist der Unterschied zwischen "Multiple Choice (mit Auswerten-Button)" und "Multiple Choice (mit Sofort-Feedback)" resp. welche Vorlage brauche ich?
 Aufgabe: Sie wollen in einem Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, in dem Schüler aus einer Reihe von Tiere diejenigen auswählen sollen, welche Säugetiere sind. Zur Auswahl stehen Elefant, Kuh, Delfin, Katze und Gorilla.
 
-Problem 08: Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (STONE 2)
-Aufgabe: 
+Problem 08: (Einfügen einer Vorlage in das Modul) Autor weiss nicht, wie er die gewählte Vorlage einfügen soll. (STONE 2)
+	 Grund: Es existiert keine Schaltfläche.
+Aufgabe: Sie haben ein neues Modul erstellt und haben nach Abklärungen mit Ihrem Vorgesetzten beschlossen, die erste Aufgabe nach der Vorlage "Multiple Choice (mit Sofort-Feedback)" zu gestalten. Sie haben die Vorlage in der Vorlagenauswahl auch gefunden und wollen diese nun benutzen.
 
 Problem 09: Autor kann keine Seite vom Typ "Matrix Single Choice" wählen. (STONE 4)
-Aufgabe: 
+	 Grund: Diese existiert nicht, weil die Unterscheidung Multiple/Single erst später auftaucht.
+Aufgabe: Ihr Kollege hat Ihnen ein Modul über Hauptstädte geschickt und Sie gebeten, darin eine neue Aufgabe zu erstellen, bei welcher die Teilnehmer auf der gleichen Seite vier verschiedene Städte vier verschiedenen Ländern zuordnen müssen. Die Städte sind Paris, London, Moskau und Helsinki; die Länder sind Frankreich, Vereinigtes Königreich, Russland und Finnland. 
 
 Problem 10: Es ist unklar, wie die Seite geöffnet werden kann  (STONE 1)
-Aufgabe: 
+	 Grund: Der Öffnen-Button (Auge) hat den Hovertext "Ordner öffnen".
+Aufgabe: Eine ältere Kollegin benutzt das Programm CLX.Stage zum ersten Mal und nach einer sehr kurzen Einführung. Nun bittet sie Sie um Hilfe und würde gerne wissen, wie sie eine bestimmte Seite in der Seitenvorschau öffnen kann. Natürlich erklären Sie sich gerne dazu bereit, ihr zu helfen.
 
 Problem 11: Es ist nicht klar, dass "Dateititel" gleichzeitig der Seitentitel ist. (STONE 1)
 Aufgabe: 
 
-Problem 12: Autor könnte versuchen, das Element zu markieren und Text direkt einzugeben oder sogar den Text zu markieren (STONE 4)
-Aufgabe: 
+Problem 12: (Text eines Textelementes ändern) Autor könnte versuchen, das Element zu markieren und Text direkt einzugeben oder sogar den Text zu markieren (STONE 4)
+Aufgabe: Ihr Kollege ist stolz auf sein soeben fertiggestelltes Modul über das Marvel-Comic-Universum. Er gibt es Ihnen zur letzten Kontrolle und ist so überzeugt davon, keinen Fehler gemacht zu haben, dass er Ihnen vor einer Bekannten ein Mittagessen pro gefundenen Fehler anbietet. Sie stimmen zu und schauen sich das Modul an. Schon auf der ersten Seite bemerken Sie, dass in einem Text "Deadpol" statt "Deadpool" geschrieben steht. Als sich Ihr Kollege kurz umdreht und mit der Bekannten spricht, beschliessen Sie, den Fehler kurzerhand zu korrigieren und Ihren Kollegen nicht zu blamieren.
 
 Problem 13: Unklar, warum ein Auswerten-Button überhaupt in einem Testkapitel erscheint. Kann vergessen gehen und Probleme beim Abspielen verursachen (STONE 7)
 Aufgabe: 
