@@ -446,6 +446,6 @@ Schritt 8 für alle Draggable-Elemente wiederholen
    3.2.3-5: Auswertung ein-/ausblenden
 
 
-* **Problem:** Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt. (STONE 2)
+* **Problem:** Teilnehmer sieht nicht, dass mit dem "Auge-Button" zwischen seiner Eingabe und der Lösung umschalten lässt. (STONE 2)
 	* **Grund:** Funktion ist nicht als solche erkennbar (Button?), Hover-Hilfe ist unverständlich.
 

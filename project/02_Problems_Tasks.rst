@@ -49,7 +49,7 @@ Problem 14: Unklar, warum ein Lösungs-Button überhaupt in einem Testkapitel er
 Aufgabe: 
 
 Problem 15: Autor könnte versuchen, die Option über die Checkbox des Elements selbst als Lösung zu kennzeichnen (STONE 4)
-Aufgabe: 
+Aufgabe: Sie haben kurz vor Feierabend noch ein Mail von Ihrem Vorgesetzten erhalten, in dem er Sie darum bittet, in einem Modul im Anhang doch bitte schnell noch bei einer Multiple-Choice-Aufgabe die richtigen Auswahlmöglichkeiten als Lösungen zu definieren, was er leider vergessen hätte.
 
 Problem 16: Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (STONE 4)
 Aufgabe: 
@@ -57,26 +57,34 @@ Aufgabe:
 Problem 17: Teilnehmer ist nicht klar, was er jetzt machen soll. (STONE 1)
 Aufgabe: 
 
-Problem 18: Autor ist verwirrt, findet den Text nicht (NIELSEN 5)
-Aufgabe: 
+Problem 18: (Text eines Draggable ändern) Autor ist verwirrt, findet den Text nicht (NIELSEN 5)
+	 Grund: Weisser Text auf weissem Hintergrund.
+Aufgabe: Ihr Chef beauftragt Sie, in einem internen Modul über Ihre Produktpalette die Text bei einer Drag'n'Drop-Aufgabe anzupassen. Die Draggables sind noch nach dem alten Namensschema benannt worden ("Produkt 1" statt neu "produkt.01").
 
-Problem 19: Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (STONE 1)
-Aufgabe: 
+Problem 19: (Modul starten von Startseite aus) Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (STONE 1)
+	 Grund: Der Aktionsbutton (Weiter ">") ist nicht speziell hervorgehoben und geht im GUI unter.
+Aufgabe: Sie sind viel zu spät und verschlafen zur halbjährlichen Sicherheitsprüfung über Wiederbelebung erschienen. Der Schulungsleiter bringt Sie eilig und grummelnd zu Ihrem Platz und öffnet das Modul für Sie. Schnell überfliegen Sie den Einleitungstext und möchten mit dem Test beginnen.
 
 Problem 20: Teilnehmer wird nach Auswertung gefragt, befindet sich aber noch gar nicht beim letzten Schritt (4 von 5). (NIELSEN 2)
+	 Grund: Für den Teilnehmer ist es nicht ersichtlich, das die Auswertungsseite in die "Nummerierung" einberechnet wird. -> Verwirrt, dass plötzlich Auswertung kommt.
 Aufgabe: 
 
-Problem 21: Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht. (NIELSEN 2)
-Aufgabe: 
+Problem 21: (Auf der Auswertungsseite) Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht. (NIELSEN 2)
+	 Grund: (auf der Startseite stand 80%), hier wird nur die erreichte Zahl angzeigt (Teiln. muss sich erinnern, Nielsen 6).
+Aufgabe: Sie haben alle Fragen zu einer kleinen Wissensprüfung über das Bankwesen beantwortet und wurden auf die Auswertungsseite weitergeleitet. Die Dozentin bittet Sie, ihr schnell das Resultat mitzuteilen um eine kleine Auswertung (wie viele haben bestanden/nicht bestanden?) erstellen zu können. Sie möchten ihr nun das Ergebnis Ihres Tests mitteilen.
 
-Problem 22: Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (NIELSEN 2)
-Aufgabe: 
+Problem 22: (Auf der Auswertungsseite) Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (NIELSEN 2)
+	 Grund: Man muss die Punktezahlen vergleichen und hat keinen eindeutigen Indikator.
+Aufgabe: Sie haben alle Fragen zu einer kleinen Wissensprüfung über unser Sonnensystem beantwortet und wurden auf die Auswertungsseite weitergeleitet. Die Lehrerin bittet Sie nun, ihr schnell die Punkte der einzelnen Aufgaben mitzuteilen um eine kleine Auswertung erstellen zu können. Sie möchten ihr nun die Punkte der einzelnen Aufgaben mitteilen.
 
-Problem 23: Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (STONE 2)
-Aufgabe: 
+Problem 23: (Nach der Auswertung auf einer Seite) Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (STONE 2)
+	 Grund: Icon für Auswertungsseite nicht aussagekräftig
+Aufgabe: Sie haben ein Testmodul über Automarken abgeschlossen und ausgewertet. Bei der Auswertung haben Sie gesehen, dass Sie bei den Logos nicht alle Punkte erzielt hatten und navigierten zu dieser Seite um zu sehen, was genau Sie falsch gemacht haben. Sie sehen, dass Sie die Logos von Hyundai und Honda verwechselt hatten und ärgern sich nun sehr darüber, insbesondere da Ihr Onkel einen Honda besitzt! Plötzlich steht der Chef neben Ihnen und will sehen, wie gut Sie ingesamt abgeschnitten haben. Sie möchten nun wieder auf die Übersicht über alle Fragen wechseln.
 
-Problem 24: Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (STONE 2)
-Aufgabe: 
+Problem 24: (Nach der Auswertung auf einer Seite) Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (STONE 2)
+	 Grund: Es gibt keinen klaren nächsten Schritt oder Meldung; Teilnehmer wird zu wenig geführt. (NIELSEN 4)
+Aufgabe: Glückwunsch! Sie haben alle Aufgaben im Testmodul über griechische Mythologie richtig beantwortet. Die Geschichtstutorin ist beeindruckt und bittet Sie, den Test nun zu beenden und den Computer zu sperren.
 
-Problem 25: Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt. (STONE 2)
+Problem 25: (Nach der Auswertung auf einer Seite) Teilnehmer sieht nicht, dass mit dem "Auge-Button" zwischen seiner Eingabe und der Lösung umschalten lässt. (STONE 2)
+	 Grund: Funktion ist nicht als solche erkennbar (Button?), Hover-Hilfe ist unverständlich.
 Aufgabe: 
