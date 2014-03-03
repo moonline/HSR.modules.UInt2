@@ -186,7 +186,7 @@ Video: http://www.mediafire.com/watch/7br4m5fj37u69s8/screenrecording_clx_stage_
 
 .. figure:: stepScreens/3.2.3-4.png
 
-   3.2.3-4: Antworten einsehen
+   * 3.2.3-4: Antworten einsehen
 
 
 * Aktion Sichtbarkeit

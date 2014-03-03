@@ -8,7 +8,7 @@ FS14 Summary
 
 * Prüfung halb-halb open/closed Book
 * Miniprojekt 1/3, Prüfung 2/3
-* Passwort E-Books: ui214
+* Books: ui214
 
 
 1 UCD
