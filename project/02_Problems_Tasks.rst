@@ -15,14 +15,14 @@ Problem 02
 ==========
 
 * Es ist nicht klar, warum jetzt bereits ein Ordner ausgewählt werden muss, obwohl noch kein Content erstellt wurde (STONE 4)
-* **Aufgabe:** Wird durch Augabe 01 abgedeckt
+* **Aufgabe:** Wird durch die Aufgabe bei Problem 01 abgedeckt
 
 
 Problem 03
 ==========
 
-* Es werden potentiell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (STONE 3)
-* **Aufgabe:** Wird durch Augabe 01 abgedeckt
+* Es werden potenziell unerwünschte Seiten (mit Inhalt) erstellt und der Autor wurde nicht darauf hingewiesen. (STONE 3)
+* **Aufgabe:** Wird durch die Aufgabe bei Problem 01 abgedeckt
 
 
 Problem 04
@@ -54,7 +54,7 @@ Problem 07
 * (Eine bestimmte Vorlage suchen) Autor wird leicht verwirrt.
 * **Grund:** Es gibt viele Vorlagen, welche teilweise sehr ähnliche Namen haben. (STONE 5)
 	* Was ist der Unterschied zwischen "Multiple Choice (mit Auswerten-Button)" und "Multiple Choice (mit Sofort-Feedback)" resp. welche Vorlage brauche ich?
-* **Aufgabe:** Sie wollen in einem Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, in dem Schüler aus einer Reihe von Tiere diejenigen auswählen sollen, welche Säugetiere sind. Zur Auswahl stehen Elefant, Kuh, Delfin, Katze und Gorilla.
+* **Aufgabe:** Sie wollen in einem Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, in dem Schüler aus einer Reihe von Tieren diejenigen auswählen sollen, welche Säugetiere sind. Zur Auswahl stehen Elefant, Kuh, Delfin, Katze und Gorilla.
 
 
 Problem 08
@@ -113,13 +113,13 @@ Problem 15
 ==========
 
 * Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (STONE 4)
-* **Aufgabe:** Wird durch Aufgabe 14 abgedeckt.
+* **Aufgabe:** Wird durch die Aufgabe bei Problem 14 abgedeckt.
 
 
 Problem 16
 ==========
-* Teilnehmer ist nicht klar, was er jetzt machen soll. (STONE 1)
-* **Aufgabe:** Das in Aufgabe 14 erwähnte Demomodul soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
+* Dem Teilnehmer ist nicht klar, was er jetzt machen soll. (STONE 1)
+* **Aufgabe:** Das in der Aufgabe bei Problem 14 erwähnte Demomodul soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
 
 
 Probleme 17 - 24
@@ -133,49 +133,49 @@ Sie sind zu Besuch bei einer Bekannten im Kindergarten, die das Modul für einfa
 Problem 17
 ----------
 * Autor ist verwirrt, findet den Text nicht (NIELSEN 5)
-* **Aufgabe:** Zeigen Sie ihrer Bekannten, wie sie den Text der Dragable verändern kann.
+* **Aufgabe:** Zeigen Sie ihrer Bekannten, wie sie den Text der Draggables verändern kann.
 
 
 Problem 18
 ----------
-* Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (STONE 1)
+* Der Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (STONE 1)
 * **Aufgabe:** Ihre Bekannte bittet Sie, für sie den Fragebogen aus der Sicht eines Kindes durchzuspielen und ihr Feedback zu geben.
 
 
 Problem 19
 ----------
-* Teilnehmer wird nach Auswertung gefragt, befindet sich aber noch gar nicht beim letzten Schritt (4 von 5). (NIELSEN 2)
-* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
+* Der Teilnehmer wird nach Auswertung gefragt, befindet sich aber noch gar nicht beim letzten Schritt (4 von 5). (NIELSEN 2)
+* **Aufgabe:** Wird durch die Aufgabe zu Problem 18 abgedeckt.
 
 
 Problem 20
 ----------
 *  Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht. (NIELSEN 2)
-* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
+* **Aufgabe:** Wird durch die Aufgabe zu Problem 18 abgedeckt.
 
 
 Problem 21
 ----------
 * Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (NIELSEN 2)
-* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
+* **Aufgabe:** Wird durch die Aufgabe zu Problem 18 abgedeckt.
 
 
 Problem 22
 ----------
-* Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (STONE 2)
-* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
+* Der Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (STONE 2)
+* **Aufgabe:** Wird durch die Aufgabe zu Problem 18 abgedeckt.
 
 
 Problem 23
 ----------
-* Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (STONE 2)
+* Der Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (STONE 2)
 * **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 24
 ----------
-* Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt. (STONE 2)
-* **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
+* Der Teilnehmer sieht nicht, dass das Auge nicht den Auswertungsmodus anzeigt, sondern sich damit die Auswertung ein- respektive ausschalten lässt. (STONE 2)
+* **Aufgabe:** Wird durch die Aufgabe zu Problem 18 abgedeckt.
 
 
 Instruktionen
@@ -184,4 +184,4 @@ Instruktionen
 Probleme 17 - 24
 ----------------
 
-Zur Verfügung steht ein Rechner mit Browser, installiertem Adobe Air sowie installiertem und gestartetem Modul.
+Zur Verfügung steht ein Rechner mit Firefox, Adobe Air und CLX.Stage, in welchem das Modul bereits gestartet wurde.
