@@ -122,49 +122,66 @@ Problem 16
 * **Aufgabe:** Das in Aufgabe 14 erwähnte Demomodul soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
 
 
+Probleme 17 - 24
+================
+
+Ausgangslage
+------------
+Sie sind zu Besuch bei einer Bekannten im Kindergarten, die das Modul für einfache Fragebogen mit den Kindern benutzt. Altersentsprechend arbeitet sie nur mit wenig Text und vorwiegend mit Bildern bzw. sie nutzt mehrheitlich Drag'n Drop Fragen. Die Vorgängerin ihrer Bekannten erstellte die Fragebogen und ihre Bekannte soll diese nun überarbeiten.
+
+
 Problem 17
-==========
+----------
 * Autor ist verwirrt, findet den Text nicht (NIELSEN 5)
-* **Aufgabe:** Sie sind zu Besuch bei einer Bekannten im Kindergarten, die das Modul für einfache Fragebogen mit den Kindern benutzt. Altersentsprechend benötigt sie mehrere Drag'n Drop Fragen. Sie zeigen ihr wie sie diese anlegt und editiert.
+* **Aufgabe:** Zeigen Sie ihrer Bekannten, wie sie den Text der Dragable verändern kann.
 
 
 Problem 18
-==========
+----------
 * Teilnehmer weiss nicht, welchen Knopf er nun drücken muss. (STONE 1)
-* **Aufgabe:** Die in Aufgabe 17 beschriebene Kindergärtnerin bittet Sie, für sie den Fragebogen aus der Sicht eines Kindes durchzuspielen und ihr Feedback zu geben.
+* **Aufgabe:** Ihre Bekannte bittet Sie, für sie den Fragebogen aus der Sicht eines Kindes durchzuspielen und ihr Feedback zu geben.
 
 
 Problem 19
-==========
+----------
 * Teilnehmer wird nach Auswertung gefragt, befindet sich aber noch gar nicht beim letzten Schritt (4 von 5). (NIELSEN 2)
 * **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 20
-==========
+----------
 *  Dem Teilnehmer ist unklar, ob er den Test als ganzes bestanden hat oder nicht. (NIELSEN 2)
 * **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 21
-==========
+----------
 * Es ist erst auf den zweiten Blick erkennbar, welche Fragen richtig und welche falsch beantwortet wurden. (NIELSEN 2)
 * **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 22
-==========
+----------
 * Teilnehmer sieht keine Möglichkeit, zur Auswertung zurückzukehren. (STONE 2)
 * **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 23
-==========
+----------
 * Teilnehmer weiss nicht genau, was er jetzt machen muss/soll. (STONE 2)
 * **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
 
 
 Problem 24
-==========
+----------
 * Teilnehmer sieht nicht, das das Auge nicht signalisiert, das er sich im Auswertungsmodus befindet sondern sich damit die Auswertung ein-/ausschalten lässt. (STONE 2)
 * **Aufgabe:** Wird durch Aufgabe 18 abgedeckt.
+
+
+Instruktionen
+=============
+
+Probleme 17 - 24
+----------------
+
+Zur Verfügung steht ein Rechner mit Browser, installiertem Adobe Air sowie installiertem und gestartetem Modul.
