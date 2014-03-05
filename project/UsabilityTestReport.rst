@@ -34,13 +34,13 @@ UsabilityTest Report
 2 Kontext
 =========
 
-Der Usability Test besteht aus praxisnahen Beispielen. Die meissten Aufgaben sind eigenständig, ein Paar bauen aufeinander auf.
+Der Usability Test besteht aus praxisnahen Beispielen. Die meisten Aufgaben sind eigenständig, ein paar bauen aufeinander auf.
 
 
 3 Test Aufbau
 =============
 
-Der Testuser erhält ein Notebook mit installiertem Browser, Adobe Air und CLX Stage. Aufgaben abhängig erhält der Benutzer ein bereits vorbereitetes Modul.
+Der Testuser erhält ein Notebook mit installiertem Browser, Adobe Air und CLX.Stage. Je nach Aufgabe erhält der Benutzer ein bereits vorbereitetes Modul, wie in der jeweiligen Beschreibung erwähnt.
 
 
 4 Ergebnisse
@@ -53,7 +53,7 @@ Aufgabe 1
 .........
 
 * Modul->neu erstellen->Vorlagen->Testlayout Deutsch
-* Erstellen Button ausgegraut->Doppelklick ->möchte Projectdirektory->Ohne Erstellen Drücken angelegt
+* Erstellen-Button ausgegraut -> Doppelklick -> möchte Projektordner wissen -> Ohne Drücken von "Erstellen" angelegt
 * Neue Seite anlegen: 
 	* [Seitenelemente +]
 		* überforder Nutzer
@@ -95,21 +95,21 @@ Aufgabe 4
 6) Findet Ort zum Hinzufügen von neuen Auswahlantworten nicht
 	1) Sucht im Dialog Seitenelemente
 	2) Fügt gefundenes Element hinzu
-	3) Falsch -> Benutzt undo
+	3) Falsch -> Benutzt undo (zuerst mit Ctrl-Z, was nicht funktionierte)
 	4) Findet richtiges Element nicht
-	5) Elemente, die nicht kompatibel sind können ausgewählt werden->Error
-	6) Icon ist Text (völlig unlogisch)
+	5) Elemente, die nicht kompatibel sind können ausgewählt werden. Auswahl --> Meldung, dass dieses Element nicht kompatibel ist mit der Vorlage
+	6) Icon ist ein T (völlig unlogisch, steht für Text)
 7) Richtige Auswahl definieren 
-	1) Rechtsklick ist es nicht
+	1) Rechtsklick ist es nicht (Flash)
 	2) Buttons unten auch nicht
-	3) Pinker Rahmen auch nicht
+	3) Checkbox/Radiobutton oder Pinker Rahmen links davon auch nicht
 	4) Einstellungen->
 		* Sofort Feedback? Nein
 		* Findet Auswahl
-
+		* "Aufgabentypen" schlechte Bezeichnung
 
 
 4.3 Neu aufgetauchte Probleme
 -----------------------------
 
-* Tool merkt sich zuletzt benutzten Pfad nicht
+* Tool merkt sich zuletzt benutzten Pfad nicht beim Öffnen von Modulen
