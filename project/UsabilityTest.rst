@@ -42,14 +42,14 @@ Tests
 
 7) Eine ältere Kollegin benutzt das Programm CLX.Stage zum ersten Mal und nach einer sehr kurzen Einführung. Nun bittet sie Sie um Hilfe und würde gerne wissen, wie sie eine bestimmte Seite in der Seitenvorschau öffnen kann. Natürlich erklären Sie sich gerne dazu bereit, ihr zu helfen.
 
-8) Für einen abwesenden Kollegen sollen die Seitentitel aller Fragen angepasst werden, die unterschiedliche Inhalte besitzen: Multiple Choice, Text, Single Choice Matrix.
+8) Für einen abwesenden Kollegen sollen die Seitentitel aller Fragen angepasst werden, die unterschiedliche Inhalte besitzen: Multiple Choice, Single Choice Matrix, Drag'n'Drop.
 
-9) Ein Kollege bittet Sie, Ihnen zu zeigen wie die Applikation funktioniert. Dazu legen Sie ein Testkapitel an ohne Auswertung.
+9) Ein Kollege bittet Sie, ihm zu zeigen wie die Applikation funktioniert. Dazu legen Sie ein Testmodul an, wo die Auswertung nur auf einer Auswertungsseite stattfinden soll.
 
-10) Für eine Messe soll das Demomodul vom letzten Jahr angepasst werden. Da sich die Antworten geändert haben, müssen Sie bei den Checkbox Aufgaben andere Elemente als Lösung definieren.
+10) Für den Geografieunterricht soll ein Ländermodul von früher angepasst werden. Da sich die Antworten inzwischen geändert haben, müssen Sie bei den Radiobutton-Aufgaben andere Elemente als Lösung definieren.
 
-11) Das vorher erwähnte Demomodul soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
+11) Das Modul aus Aufgabe 10 soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
 
-12) Sie sind zu Besuch bei einer Bekannten im Kindergarten, die das Modul für einfache Fragebogen mit den Kindern benutzt. Altersentsprechend arbeitet sie nur mit wenig Text und vorwiegend mit Bildern bzw. sie nutzt mehrheitlich Drag'n Drop Fragen. Die Vorgängerin ihrer Bekannten erstellte die Fragebogen und ihre Bekannte soll diese nun überarbeiten.
-	a) Zeigen Sie ihrer Bekannten, wie sie den Text der Draggables verändern kann.
+12) Sie sind zu Besuch bei einer Bekannten im Kindergarten, welche die Applikation für einfache Fragebogen mit den Kindern benutzt. Altersentsprechend arbeitet sie nur mit wenig Text und vorwiegend mit Bildern bzw. sie nutzt mehrheitlich Drag'n Drop Fragen. Die Vorgängerin ihrer Bekannten erstellte die Fragebogen und ihre Bekannte soll diese nun überarbeiten.
+	a) Zeigen Sie Ihrer Bekannten, wie sie den Text der Draggables verändern kann.
 	b) Ihre Bekannte bittet Sie, für sie den Fragebogen aus der Sicht eines Kindes durchzuspielen und ihr Feedback zu geben.
