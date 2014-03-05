@@ -6,8 +6,7 @@ UsabilityTest
 Ausgangslage
 ============
 
-* Primschullehrer in xy
-
+Sie sind seit kurzem ein Lehrer an der Primarschule Meiliwiese Hinwil. Weil Sie das jüngste Mitglied des Lehrkörpers sind und sich laut Rektor am Besten mit neuen Technologien auskennen sollten, wurde Ihnen die Verantwortung über das E-Learning der Primarschule übertragen. Ihr Vorgesetzter hat sich für CLX.Stage der Firma Crealogix AG entschieden und hat eine Lizenz für Ihren Arbeitsplatz entworfen.
 
 
 Instruktionen
