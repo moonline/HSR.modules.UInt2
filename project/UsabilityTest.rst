@@ -14,6 +14,10 @@ Instruktionen
 
 Zur Verfügung steht ein Rechner mit Firefox, Adobe Air und CLX.Stage.
 
+* Bitte lesen Sie die Aufgabe laut vor.
+* Bitte denken Sie "laut" während dem lösen der Aufgabe.
+* Getestet wird die Applikation, nicht der Tester, fürchten Sie sich nicht vor Fehlern.
+
 
 Tests
 =====
