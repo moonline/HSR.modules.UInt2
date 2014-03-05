@@ -99,4 +99,111 @@ CW hilft nicht erfüllte Usability Kriterien zu finden.
 
 
 
+4 Usability Testing
+===================
+
+...
+
+Test Vorgehen
+-------------
+
+* Benutzergruppe festlegen
+* Instruktionen definieren
+
+.. figure:: img/4.10.jpg
+
+   Usability Test Vorgehen
+
+
+Test Mistakes
+-------------
+
+* Falsche Personen eingeladen
+* System läuft nicht
+* One-Way-Mirror (Spiegel macht Benutzer nervös), Kamera besser
+* Im Vorfragebogen keine Fragen stellen, die den UT beeinflussen (mögen Sie rote Knöpfe?)
+* Externe Einflüsse vermeiden
+
+
+Testing
+-------
+
+.. figure:: img/4.11.jpg
+
+   Usability Testing mit Eye Tracking (Heute Eye Tracker in unterem Display Rand versteckt)
+
+
+.. figure:: img/4.12.jpg
+
+   5 Personen reichen aus um 75% der Fehler zu finden
+
+
+* Creation Oriented Software: z.B. CAD mit vielen Optionen wie Rechtsklick und Kontextabhängigen Operationen
+
+
+A/B Testing
+-----------
+
+* Zwei Versionen des **Live** Systems werden gegeneinander getestet
+* Klappt nur bei best. System mit genügend Nutzer und bei kleinen Änderungen
+   
+
+5 Innovation
+============
+
+.. note:: Innovation heisst nicht nur Erfinden sondern auch ein Lauffähiges und praxistaugliches Produkt zu haben -> Es spielt keine Rolle, wer es erfunden hat.
+
+.. figure:: img/5.1.jpg
+   :width: 75 %
+
+   Innovation kann in allen Bereichen stattfinden
+
+* Einordung Elemente Garret:
+	* Benutzer: Strategie
+	* Aufgabe: Features
+	
+.
+
+.. figure:: img/5.2.jpg
+
+   Design Thinking: Design Thinking: Innovation muss auch die Möglichkeiten des Business miteinbeziehen, bzw. kann auch „nur“ eine Business-Innovation sein
+
+
+.. image:: img/5.3.jpg
+   :width: 50 %
+
+
+* Innovationsprozess des Design Thinking ähnelt dem UCD
+
+
+Warum setzt sich Technologie durch / nicht durch?
+-------------------------------------------------
+
+Produkte müssen folgende Punkte erfüllen:
+
+* Muss mit nicht-Experten funktionieren
+* Billig herzustellen, Haltbarkeit (nicht gleich kaputt gehen)
+* Spricht einen aktuellen Bedarf von Nutzern an (z.B. User wollen Kommunizieren) -> Benutzer müssen auch gewillt sein ihr Verhalten zu ändern da das aktuelle Produkte Probleme verursacht
+* Keine aufwendige/neue Infratruktur/andere Nutzer vorausgesetzt (Effizienz der Infrastruktur beeinflusst Marktdurchdringung)
+	.. image:: img/5.4.jpg
+	
+* Kein Erfordernis bestehende Software umzuschreiben (z.B: Kinect, das nicht ohne Weiteres als Maus Alternative eingesetzt werden kann)
+* Management muss die Idee supporten
+
+
+6 Konkurrenz Analyse
+====================
+
+* Nutzertanalyse (Produktevergleich)
+* Kunst ist, die Konkurrenz zu definieren
+
+
+Kano Analyse
+------------
+
+* Basiseigenschaften
+* Leistungseigenschaften
+* Begeisterungseigenschaften
+
+
 
