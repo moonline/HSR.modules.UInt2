@@ -98,11 +98,41 @@ CW hilft nicht erfüllte Usability Kriterien zu finden.
    Cognitive Walkthrough Durchführung
 
 
+* Cognitive Walktrough testet die Qualität derStruktur von Interaktion (Action Cycle nach Norman)
+	1. Ziel setzen" Ziel -> Irrtum (Mistake)
+	2. Strategie bestimmen"
+	3. Aktivität planen" Ausführung -> Missgriff
+	4. Aktivität ausführen" (Slip)
+	5. Zustand der Welt beobachten"
+	6. Zustand der Welt interpretieren" Auswertung
+	7. Zielerreichung feststellen"
+
+.. image:: img/2.1.jpg
+
+
+* Kann der Benutzer herausfinden, ob die Aktion das bewirkt hat, was ich wollte?
+
+
+3 UCD Prozess
+=============
+
+.. image:: img/3.1.jpg
+
+
+.. figure:: img/3.2.jpg
+
+   UCD Norm
+   
+   
+3.1 Szenarios
+-------------
+
+.. image:: img/3.3.jpg
+   :width: 80 %
+   
 
 4 Usability Testing
 ===================
-
-...
 
 Test Vorgehen
 -------------
