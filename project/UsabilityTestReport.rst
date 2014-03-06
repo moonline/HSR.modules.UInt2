@@ -52,46 +52,48 @@ Der Testuser erhält ein Notebook mit installiertem Browser, Adobe Air und CLX.S
 Aufgabe 1
 .........
 
-* Modul->neu erstellen->Vorlagen->Testlayout Deutsch
-* Erstellen-Button ausgegraut -> Doppelklick -> möchte Projektordner wissen -> Ohne Drücken von "Erstellen" angelegt
-* Neue Seite anlegen: 
-	* [Seitenelemente +]
-		* überforder Nutzer
-		* falsch
-	* [+] im linken Bereich
-		* Keine Begrüssungsseite gefunden (Einführungsseite)
-		* Wählt Begrüssungsseite -> Fenster bleibt offen
-		* Kapitel und Chapters verwirren Benutzer
-		* Benutzer findet Begrüssungsseite nicht
-		* Benutzer löscht andere erstelle Frageseiten
-		* Benutzer findet Speicherfunktion nicht -> Nimmt an, das automatisch gespeichert wurde.
+Protokoll Testablauf Teilnehmer 1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
-
-4.2 Nicht validierte Probleme
------------------------------
-
-Aufgabe 2
-.........
-
-* File öffnen
+1) Modul -> neu erstellen -> Vorlagen -> Testlayout Deutsch
+2) Erstellen-Button ausgegraut -> Doppelklick -> System fragt nach Projektordner -> Projektordner wurde ohne Wissen des Benutzers angelegt (Ohne Drücken von "Erstellen"), verwirrt Benutzer
+3) Benutzer will neue Seite anlegen, sucht nach Button/Command: 
+	1) [+] im rechten Bereich (Seitenelemente)
+		* öffnender Dialog überforder Nutzer
+		* war falscher Ansatz
+	2) [+] im linken Bereich
+		1) Keine Begrüssungsseite gefunden (Einführungsseite)
+		2) Wählt Begrüssungsseite -> Fenster bleibt offen (verwirrt Benutzer)
+		3) Kapitel und Chapters verwirren Benutzer
+		4) Benutzer findet Begrüssungsseite nicht
+		5) Benutzer wählt Einführungsseite
+		6) Benutzer löscht andere erstelle Frageseiten
+		7) Benutzer findet Speicherfunktion nicht -> Nimmt an, das automatisch gespeichert wurde.
 
 
 Aufgabe 3
 .........
 
-* Benutzer wählt erste der Auswahl
-* Benutzer schiebt nach unten
+Protokoll Testablauf Teilnehmer 1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
+1) Benutzer öffnet Dialog für neue Elemente
+2) Benutzer sucht nach Multiple-Choice Seite
+3) Benutzer findet mehrere, die ähnlich klingen -> wählt erste der Auswahl (Glückstreffer)
+4) Benutzer schiebt an falscher Position eingefügte Seite nach unten
+		
+		
 Aufgabe 4
 .........
 
-1) öffnen
-2) neue Frage
+Protokoll Testablauf Teilnehmer 1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1) Benutzer wählt öffnen
+2) Erstellt neue Frage
 3) "Sofort Feedback" ausgewählt
-4) hoch schieben
-5) Bearbeitet Titel
+4) Schiebt eingefügte Seite hoch da sie an falscher Position eingefügt wurde
+5) Benutzer Bearbeitet Titel
 6) Findet Ort zum Hinzufügen von neuen Auswahlantworten nicht
 	1) Sucht im Dialog Seitenelemente
 	2) Fügt gefundenes Element hinzu
@@ -105,8 +107,18 @@ Aufgabe 4
 	3) Checkbox/Radiobutton oder Pinker Rahmen links davon auch nicht
 	4) Einstellungen->
 		* Sofort Feedback? Nein
-		* Findet Auswahl
-		* "Aufgabentypen" schlechte Bezeichnung
+		* Benutzer findet Auswahl
+		* "Aufgabentypen" -> schlechte Bezeichnung
+		
+
+4.2 Nicht validierte Probleme
+-----------------------------
+
+Aufgabe 2
+.........
+
+Stellt für den Benutzer kein Problem dar, da er die richtige Vorlage ausgewählt hat (1.)
+
 
 Aufgabe 5
 .........
@@ -126,6 +138,7 @@ Aufgabe 5
 	1) Markiert Textelement, beginnt zu tippen --> geht nicht
 	2) Will Text markieren, verschiebt Element
 	3) Bleistift-Icon --> Erfolg.
+	
 
 Aufgabe 6
 .........
@@ -145,10 +158,12 @@ Aufgabe 6
 
 Nach Hinweis, dass eigentlich das Problem mit den Checkboxen/Radiobuttons gemeint war, erstellt Teilnehmer ohne Probleme eine neue Seite. Er versucht dann aber, die Seite anzupassen (in den Optionen), ohne dass sie in der Vorschau geöffnet wurde!
 
+
 Aufgabe 7
 .........
 
 Kein Problem, Schwierigkeiten wurden bereits in vorherigen Aufgaben geklärt.
+
 
 Aufgabe 8
 .........
@@ -163,10 +178,12 @@ Aufgabe 8
 	2) Optionen: Es gibt einen Eintrag bei Gestalt zu Seitentitel, aber nicht bearbeitbar und das Feld ist viel zu klein.
 	3) Optionen: Teilnehmer sieht Reiter "Seite" und vermutet, dass der Parameter dort sein könnte.
 
+	
 Aufgabe 9
 .........
 
 Teilnehmer sieht kein Problem, erstellt eine Aufgabenseite ohne Auswertungsseite (Zufall)
+
 
 Aufgabe 10
 ..........
@@ -179,10 +196,12 @@ Aufgabe 10
 6) Wieder in den Optionen, dent es sei in der Flow-Liste!
 7) findet den richtigen Eintrag. Erwartet, dass beim Aufruf der Optionen mit markiertem Element gerade der richige Reiter aufgerufen wird. (Kontextsensitiv)
 
+
 Aufgabe 11
 ..........
 
 Teilnehmer kennt Vorgehen zu "Single"-Matrix-Aufgaben noch aus Aufgabe 6 und hat keine Probleme bei der Aufgabe.
+
 
 Aufgabe 12
 ..........
@@ -196,3 +215,4 @@ Der Abspielmodus ist auch kein Problem. Etwas Verwirrtheit bei Auswertungsseite.
 -----------------------------
 
 * Tool merkt sich zuletzt benutzten Pfad nicht beim Öffnen von Modulen
+* Neue Seite wird an falscher Position eingefügt, da der Benutzer nicht explizit den Einfügepunkt wählen muss
