@@ -108,6 +108,51 @@ Aufgabe 4
 		* Findet Auswahl
 		* "Aufgabentypen" schlechte Bezeichnung
 
+Aufgabe 5
+.........
+
+1) Öffnen
+	1) Öffnet start.html in Browser, gibt Fehlermeldung (weil Chrome --> Flash-Sandbox) 
+	2) Startet Stage, Modul öffnen --> ist verwirrt, öffnet aber config.xml.
+2) Seite einfügen
+	1) Plus-Button kein Problem
+	2) Aufgabenseiten-Reiter fast nicht sichtbar
+	3) Vorlagen-Window verschwindet nicht!
+3) Seite öffnen?
+	1) Bleistift-Icon --> steht für umbenennen
+	2) Rechtsklick --> geht nicht
+	3) Probiert Doppelklick --> Erfolg!
+4) Text bearbeiten
+	1) Markiert Textelement, beginnt zu tippen --> geht nicht
+	2) Will Text markieren, verschiebt Element
+	3) Bleistift-Icon --> Erfolg.
+
+Aufgabe 6
+.........
+
+1) Wählt Vorlage Drag and Drop (Text) aus, weil es keine Matrix-Single-Choice gibt (Problem der Aufgabenstellung?)
+	1) Vorlagen-Fenster verschwindet nicht!
+	2) Nach Doppelklicken auf die Vorlage wird ein Wizard o.Ä. erwartet
+
+Aufgabe 7
+.........
+
+Aufgabe 8
+.........
+
+Aufgabe 9
+.........
+
+Aufgabe 10
+.........
+
+Aufgabe 11
+.........
+
+Aufgabe 12
+.........
+
+
 
 4.3 Neu aufgetauchte Probleme
 -----------------------------
