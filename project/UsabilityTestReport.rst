@@ -18,17 +18,25 @@ UsabilityTest Report
    :header-rows: 1
 
 	* - Eigenschaft
-	  - Teilnehmer 1
-	  - Teilnehmer 2
+	  - Teilnehmer 1: Z. Oussama (HSR)
+	  - Teilnehmer 2: N. Grögli (HSR)
+	  - Teilnehmer 3: J. Aeberli (Crealogix AG)
 	* - Geschlecht
-	  -
-	  -
+	  - m
+	  - m
+	  - m
 	* - Alter
-	  -
-	  -
+	  - 21
+	  - 20
+	  - 20
 	* - Beruf
-	  -
-	  -
+	  - Informatiker
+	  - Informatiker
+	  - Informatiker
+	* - Applikationskenntnisse
+	  - keine
+	  - keine
+	  - gross
 
 
 2 Kontext
@@ -55,7 +63,7 @@ Aufgabe 1
 Protokoll Testablauf Teilnehmer 1
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1) Modul -> neu erstellen -> Vorlagen -> Testlayout Deutsch
+1) Modul -> Neu erstellen -> Vorlagen -> Lernkapitel Deutsch
 2) Erstellen-Button ausgegraut -> Doppelklick -> System fragt nach Projektordner -> Projektordner wurde ohne Wissen des Benutzers angelegt (Ohne Drücken von "Erstellen"), verwirrt Benutzer
 3) Benutzer will neue Seite anlegen, sucht nach Button/Command: 
 	1) [+] im rechten Bereich (Seitenelemente)
@@ -69,7 +77,6 @@ Protokoll Testablauf Teilnehmer 1
 		5) Benutzer wählt Einführungsseite
 		6) Benutzer löscht andere erstelle Frageseiten
 		7) Benutzer findet Speicherfunktion nicht -> Nimmt an, das automatisch gespeichert wurde.
-
 
 Aufgabe 3
 .........
@@ -89,7 +96,7 @@ Aufgabe 4
 Protokoll Testablauf Teilnehmer 1
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1) Benutzer wählt öffnen
+1) Benutzer wählt Öffnen
 2) Erstellt neue Frage
 3) "Sofort Feedback" ausgewählt
 4) Schiebt eingefügte Seite hoch da sie an falscher Position eingefügt wurde
@@ -109,19 +116,26 @@ Protokoll Testablauf Teilnehmer 1
 		* Sofort Feedback? Nein
 		* Benutzer findet Auswahl
 		* "Aufgabentypen" -> schlechte Bezeichnung
-		
 
-4.2 Nicht validierte Probleme
------------------------------
+Protokoll Testablauf Teilnehmer 3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Aufgabe 2
-.........
-
-Stellt für den Benutzer kein Problem dar, da er die richtige Vorlage ausgewählt hat (1.)
-
+1) Öffnet das Lernmodul
+2) Erstellt neue Frage mit der Vorlage "Multiple Choice (mit Auswerten-Button)"
+3) Ändert die Texte der Optionen
+	1) Stage stürzt ab.
+	2) Teilnehmer öffnet Modul neu -> Weiterhin fehlerhaftes Verhalten
+	3) Teilnehmer startet die Applikation neu --> Fehler behoben. Ursacher aber unklar.
+4) Fügt eine weitere Option hinzu
+	1) Sucht in den Optionen, findet den richtigen Ort aber nicht
+	2) Wählt schliessliche den Plus-Button um neue Elemente hinzuzufügen --> korrekt
+5) Lösungen definieren ist kein Problem
 
 Aufgabe 5
 .........
+
+Protokoll Testablauf Teilnehmer 2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Öffnen
 	1) Öffnet start.html in Browser, gibt Fehlermeldung (weil Chrome --> Flash-Sandbox) 
@@ -138,10 +152,12 @@ Aufgabe 5
 	1) Markiert Textelement, beginnt zu tippen --> geht nicht
 	2) Will Text markieren, verschiebt Element
 	3) Bleistift-Icon --> Erfolg.
-	
 
 Aufgabe 6
 .........
+
+Protokoll Testablauf Teilnehmer 2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Wählt Vorlage "Drag and Drop (Text)" statt erwarteten "Matrix-Multiple-Choice (mit Sofortfeedback)" aus, weil es keine Matrix-Single-Choice gibt (Problem der Aufgabenstellung?)
 	1) Vorlagen-Fenster verschwindet nicht!
@@ -158,15 +174,11 @@ Aufgabe 6
 
 Nach Hinweis, dass eigentlich das Problem mit den Checkboxen/Radiobuttons gemeint war, erstellt Teilnehmer ohne Probleme eine neue Seite. Er versucht dann aber, die Seite anzupassen (in den Optionen), ohne dass sie in der Vorschau geöffnet wurde!
 
-
-Aufgabe 7
-.........
-
-Kein Problem, Schwierigkeiten wurden bereits in vorherigen Aufgaben geklärt.
-
-
 Aufgabe 8
 .........
+
+Protokoll Testablauf Teilnehmer 2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Versteht nicht, was ein Seitentitel ist. Trifft aber die richtige Annahme.
 2) Text bearbeiten
@@ -178,15 +190,11 @@ Aufgabe 8
 	2) Optionen: Es gibt einen Eintrag bei Gestalt zu Seitentitel, aber nicht bearbeitbar und das Feld ist viel zu klein.
 	3) Optionen: Teilnehmer sieht Reiter "Seite" und vermutet, dass der Parameter dort sein könnte.
 
-	
-Aufgabe 9
-.........
-
-Teilnehmer sieht kein Problem, erstellt eine Aufgabenseite ohne Auswertungsseite (Zufall)
-
-
 Aufgabe 10
 ..........
+
+Protokoll Testablauf Teilnehmer 2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Findet den inhaltlichen Fehler (deutsche Mark) und benennt einfach den Eintrag um. Sieht dann aber die Spalte "Euro" und kommt zum richtigen Schluss
 2) Klickt auf "Info", aber es passiert nichts.
@@ -196,23 +204,40 @@ Aufgabe 10
 6) Wieder in den Optionen, dent es sei in der Flow-Liste!
 7) findet den richtigen Eintrag. Erwartet, dass beim Aufruf der Optionen mit markiertem Element gerade der richige Reiter aufgerufen wird. (Kontextsensitiv)
 
+4.2 Nicht validierte Probleme
+-----------------------------
+
+Aufgabe 2
+.........
+
+Stellt für den Teilnehmer 1 kein Problem dar, da er die richtige Vorlage ausgewählt hat.
+
+Aufgabe 7
+.........
+
+Teilnehmer 2 hatte kein Problem, Schwierigkeiten wurden bereits in vorherigen Aufgaben geklärt.
+
+Aufgabe 9
+.........
+
+Teilnehmer 2 sieht kein Problem, erstellt eine Aufgabenseite ohne Auswertungsseite.
 
 Aufgabe 11
 ..........
 
-Teilnehmer kennt Vorgehen zu "Single"-Matrix-Aufgaben noch aus Aufgabe 6 und hat keine Probleme bei der Aufgabe.
+Teilnehmer 2 kennt Vorgehen zu "Single"-Matrix-Aufgaben noch aus Aufgabe 6 und hat keine Probleme bei der Aufgabe.
 
 
 Aufgabe 12
 ..........
 
 Teilnehmer kennt Vorgehen zum Umbenennen bei Draggables noch aus Aufgabe 8 und hat keine weiteren Probleme.
-Der Abspielmodus ist auch kein Problem. Etwas Verwirrtheit bei Auswertungsseite.
-
-
+Der Abspielmodus ist auch kein Problem.
 
 4.3 Neu aufgetauchte Probleme
 -----------------------------
 
 * Tool merkt sich zuletzt benutzten Pfad nicht beim Öffnen von Modulen
 * Neue Seite wird an falscher Position eingefügt, da der Benutzer nicht explizit den Einfügepunkt wählen muss
+* Kapitel-/Seitenvorlagen: Zweiter Reiter (Aufgabenseiten) ist zu weit unten im Akkordeon; Teilnehmer bemerken den Reiter fast nicht
+* Teilnehmer wollen Änderungen manuell speichern (drücken Ctrl-S oder erwarten Option unter Modul/Speichern o.Ä.)
