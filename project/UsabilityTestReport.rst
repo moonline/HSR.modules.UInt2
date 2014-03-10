@@ -12,32 +12,13 @@ UsabilityTest Report
 1 Testmethodik
 ==============
 
-
-.. list-table:: Testteilnehmer
-   :widths: 30 30 30
-   :header-rows: 1
-
-	* - Eigenschaft
-	  - Teilnehmer 1: Z. Oussama (HSR)
-	  - Teilnehmer 2: N. Grögli (HSR)
-	  - Teilnehmer 3: J. Aeberli (Crealogix AG)
-	* - Geschlecht
-	  - m
-	  - m
-	  - m
-	* - Alter
-	  - 21
-	  - 20
-	  - 20
-	* - Beruf
-	  - Informatiker
-	  - Informatiker
-	  - Informatiker
-	* - Applikationskenntnisse
-	  - keine
-	  - keine
-	  - gross
-
+============  =========  =====  ==========  ============  =======================
+Teilnehmer #  Name       Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stage
+============  =========  =====  ==========  ============  =======================
+1             Z.Oussama  21     m           Informatiker  keine
+2             N.Grögli   20     m           Informatiker  keine
+3             J.Aeberli  20     m           Informatiker  sehr grosse
+============  =========  =====  ==========  ============  =======================
 
 2 Kontext
 =========
