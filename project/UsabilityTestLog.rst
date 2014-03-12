@@ -1,34 +1,27 @@
-====================
-UsabilityTest Report
-====================
+=================
+UsabilityTest Log
+=================
 
 
 :Gruppe: DropTable
 :Teilnehmer: Tobias Blaser, Philipp Christen
 :Email: tblaser(at)hsr.ch, pchriste(at)hsr.ch
-:Getestetes Produkt: CLX.Stage Editor für Stage E-Learning System der Firma CREALOGIX AG
+:Produkt: CLX.Stage Editor für Stage E-Learning System
+:Hersteller: CREALOGIX AG
+
 
 
 1 Testmethodik
 ==============
 
+============  =========  =====  ==========  ============  =======================  =========
+Teilnehmer #  Name       Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stage  Durchgang
+============  =========  =====  ==========  ============  =======================  =========
+1             Z.Oussama  21     m           Informatiker  keine                    A        
+2             N.Grögli   20     m           Informatiker  keine                    A        
+3             J.Aeberli  20     m           Informatiker  sehr grosse              B        
+============  =========  =====  ==========  ============  =======================  =========
 
-.. list-table:: Testteilnehmer
-   :widths: 30 30 30
-   :header-rows: 1
-
-	* - Eigenschaft
-	  - Teilnehmer 1
-	  - Teilnehmer 2
-	* - Geschlecht
-	  -
-	  -
-	* - Alter
-	  -
-	  -
-	* - Beruf
-	  -
-	  -
 
 
 2 Kontext
@@ -37,25 +30,38 @@ UsabilityTest Report
 Der Usability Test besteht aus praxisnahen Beispielen. Die meisten Aufgaben sind eigenständig, ein paar bauen aufeinander auf.
 
 
+
 3 Test Aufbau
 =============
 
 Der Testuser erhält ein Notebook mit installiertem Browser, Adobe Air und CLX.Stage. Je nach Aufgabe erhält der Benutzer ein bereits vorbereitetes Modul, wie in der jeweiligen Beschreibung erwähnt.
 
 
+
 4 Ergebnisse
 ============
 
-4.1 Validierte Probleme
+4.1 Übersicht
+-------------
+
+========================  =  =  =  =  =  =  =  =  =  ==  ==  ==
+Problem                   1  2  3  4  5  6  7  8  9  10  11  12
+========================  =  =  =  =  =  =  =  =  =  ==  ==  ==
+Validiert in Durchgang A  x     x  x  x  x     x     x         
+Validiert in Durchgang B           x                           
+========================  =  =  =  =  =  =  =  =  =  ==  ==  ==
+
+
+4.2 Validierte Probleme
 -----------------------
 
-Aufgabe 1
-.........
+Aufgabe 1 in Durchgang A
+........................
 
-Protokoll Testablauf Teilnehmer 1
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
-1) Modul -> neu erstellen -> Vorlagen -> Testlayout Deutsch
+1) Modul -> Neu erstellen -> Vorlagen -> Lernkapitel Deutsch
 2) Erstellen-Button ausgegraut -> Doppelklick -> System fragt nach Projektordner -> Projektordner wurde ohne Wissen des Benutzers angelegt (Ohne Drücken von "Erstellen"), verwirrt Benutzer
 3) Benutzer will neue Seite anlegen, sucht nach Button/Command: 
 	1) [+] im rechten Bereich (Seitenelemente)
@@ -71,25 +77,25 @@ Protokoll Testablauf Teilnehmer 1
 		7) Benutzer findet Speicherfunktion nicht -> Nimmt an, das automatisch gespeichert wurde.
 
 
-Aufgabe 3
-.........
+Aufgabe 3 in Durchgang A
+........................
 
-Protokoll Testablauf Teilnehmer 1
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Benutzer öffnet Dialog für neue Elemente
 2) Benutzer sucht nach Multiple-Choice Seite
 3) Benutzer findet mehrere, die ähnlich klingen -> wählt erste der Auswahl (Glückstreffer)
 4) Benutzer schiebt an falscher Position eingefügte Seite nach unten
-		
-		
-Aufgabe 4
-.........
 
-Protokoll Testablauf Teilnehmer 1
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1) Benutzer wählt öffnen
+Aufgabe 4 in Durchgang A und B
+..............................
+
+Protokoll Testablauf Durchgang A
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1) Benutzer wählt Öffnen
 2) Erstellt neue Frage
 3) "Sofort Feedback" ausgewählt
 4) Schiebt eingefügte Seite hoch da sie an falscher Position eingefügt wurde
@@ -109,19 +115,28 @@ Protokoll Testablauf Teilnehmer 1
 		* Sofort Feedback? Nein
 		* Benutzer findet Auswahl
 		* "Aufgabentypen" -> schlechte Bezeichnung
-		
-
-4.2 Nicht validierte Probleme
------------------------------
-
-Aufgabe 2
-.........
-
-Stellt für den Benutzer kein Problem dar, da er die richtige Vorlage ausgewählt hat (1.)
 
 
-Aufgabe 5
-.........
+Protokoll Testablauf Durchgang B
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1) Öffnet das Lernmodul
+2) Erstellt neue Frage mit der Vorlage "Multiple Choice (mit Auswerten-Button)"
+3) Ändert die Texte der Optionen
+	1) Stage stürzt ab.
+	2) Teilnehmer öffnet Modul neu -> Weiterhin fehlerhaftes Verhalten
+	3) Teilnehmer startet die Applikation neu --> Fehler behoben. Ursacher aber unklar.
+4) Fügt eine weitere Option hinzu
+	1) Sucht in den Optionen, findet den richtigen Ort aber nicht
+	2) Wählt schliessliche den Plus-Button um neue Elemente hinzuzufügen --> korrekt
+5) Lösungen definieren ist kein Problem
+
+
+Aufgabe 5 in Durchgang A
+........................
+
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Öffnen
 	1) Öffnet start.html in Browser, gibt Fehlermeldung (weil Chrome --> Flash-Sandbox) 
@@ -138,10 +153,13 @@ Aufgabe 5
 	1) Markiert Textelement, beginnt zu tippen --> geht nicht
 	2) Will Text markieren, verschiebt Element
 	3) Bleistift-Icon --> Erfolg.
-	
 
-Aufgabe 6
-.........
+
+Aufgabe 6 in Durchgang A
+........................
+
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Wählt Vorlage "Drag and Drop (Text)" statt erwarteten "Matrix-Multiple-Choice (mit Sofortfeedback)" aus, weil es keine Matrix-Single-Choice gibt (Problem der Aufgabenstellung?)
 	1) Vorlagen-Fenster verschwindet nicht!
@@ -156,17 +174,14 @@ Aufgabe 6
 3) Lösung zuweisen
 	1) Nimmt richtige Möglichkeit an und zieht Draggables auf Drop-Areas. Meint aber, dass es eine Raten war und nicht Intuition.
 
+
 Nach Hinweis, dass eigentlich das Problem mit den Checkboxen/Radiobuttons gemeint war, erstellt Teilnehmer ohne Probleme eine neue Seite. Er versucht dann aber, die Seite anzupassen (in den Optionen), ohne dass sie in der Vorschau geöffnet wurde!
 
+Aufgabe 8 in Durchgang A
+........................
 
-Aufgabe 7
-.........
-
-Kein Problem, Schwierigkeiten wurden bereits in vorherigen Aufgaben geklärt.
-
-
-Aufgabe 8
-.........
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Versteht nicht, was ein Seitentitel ist. Trifft aber die richtige Annahme.
 2) Text bearbeiten
@@ -178,15 +193,12 @@ Aufgabe 8
 	2) Optionen: Es gibt einen Eintrag bei Gestalt zu Seitentitel, aber nicht bearbeitbar und das Feld ist viel zu klein.
 	3) Optionen: Teilnehmer sieht Reiter "Seite" und vermutet, dass der Parameter dort sein könnte.
 
-	
-Aufgabe 9
-.........
 
-Teilnehmer sieht kein Problem, erstellt eine Aufgabenseite ohne Auswertungsseite (Zufall)
+Aufgabe 10 in Durchgang A
+.........................
 
-
-Aufgabe 10
-..........
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Findet den inhaltlichen Fehler (deutsche Mark) und benennt einfach den Eintrag um. Sieht dann aber die Spalte "Euro" und kommt zum richtigen Schluss
 2) Klickt auf "Info", aber es passiert nichts.
@@ -197,22 +209,55 @@ Aufgabe 10
 7) findet den richtigen Eintrag. Erwartet, dass beim Aufruf der Optionen mit markiertem Element gerade der richige Reiter aufgerufen wird. (Kontextsensitiv)
 
 
-Aufgabe 11
-..........
+4.3 Nicht validierte Probleme
+-----------------------------
 
-Teilnehmer kennt Vorgehen zu "Single"-Matrix-Aufgaben noch aus Aufgabe 6 und hat keine Probleme bei der Aufgabe.
+Aufgabe 1 in Durchgang B
+........................
 
+Aufgabe 2 in Durchgang A und B
+..............................
 
-Aufgabe 12
-..........
+Stellt für keinen Teilnehmer ein Problem dar, da die richtige Vorlage ausgewählt wurde.
+
+Aufgabe 3 in Durchgang B
+........................
+
+Aufgabe 5 in Durchgang B
+........................
+
+Aufgabe 6 in Durchgang B
+........................
+
+Aufgabe 7 in Durchgang A und B
+..............................
+
+Teilnehmer hatten kein Probleme, Schwierigkeiten wurden bereits in vorherigen Aufgaben geklärt.
+
+Aufgabe 9 in Durchgang A und B
+..............................
+
+Teilnehmer sahen keine Probleme, erstellten eine Aufgabenseite ohne Auswertungsseite.
+
+Aufgabe 10 in Durchgang B
+.........................
+
+Aufgabe 11 in Durchgang A und B
+...............................
+
+Teilnehmer 2 kennt Vorgehen zu "Single"-Matrix-Aufgaben noch aus Aufgabe 6 und hat keine Probleme bei der Aufgabe.
+
+Aufgabe 12 in Durchgang A und B
+..............................
 
 Teilnehmer kennt Vorgehen zum Umbenennen bei Draggables noch aus Aufgabe 8 und hat keine weiteren Probleme.
-Der Abspielmodus ist auch kein Problem. Etwas Verwirrtheit bei Auswertungsseite.
+Der Abspielmodus ist auch kein Problem.
 
-
-
-4.3 Neu aufgetauchte Probleme
+4.4 Neu aufgetauchte Probleme
 -----------------------------
 
 * Tool merkt sich zuletzt benutzten Pfad nicht beim Öffnen von Modulen
 * Neue Seite wird an falscher Position eingefügt, da der Benutzer nicht explizit den Einfügepunkt wählen muss
+* Kapitel-/Seitenvorlagen: Zweiter Reiter (Aufgabenseiten) ist zu weit unten im Akkordeon; Teilnehmer bemerken den Reiter fast nicht
+* Teilnehmer wollen Änderungen manuell speichern (drücken Ctrl-S oder erwarten Option unter Modul/Speichern o.Ä.)
+
