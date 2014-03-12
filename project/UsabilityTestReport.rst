@@ -9,6 +9,7 @@ UsabilityTest Report
 :Getestetes Produkt: CLX.Stage Editor für Stage E-Learning System der Firma CREALOGIX AG
 
 
+
 1 Testmethodik
 ==============
 
@@ -20,10 +21,13 @@ Teilnehmer #  Name       Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stag
 3             J.Aeberli  20     m           Informatiker  sehr grosse              B        
 ============  =========  =====  ==========  ============  =======================  =========
 
+
+
 2 Kontext
 =========
 
 Der Usability Test besteht aus praxisnahen Beispielen. Die meisten Aufgaben sind eigenständig, ein paar bauen aufeinander auf.
+
 
 
 3 Test Aufbau
@@ -32,17 +36,19 @@ Der Usability Test besteht aus praxisnahen Beispielen. Die meisten Aufgaben sind
 Der Testuser erhält ein Notebook mit installiertem Browser, Adobe Air und CLX.Stage. Je nach Aufgabe erhält der Benutzer ein bereits vorbereitetes Modul, wie in der jeweiligen Beschreibung erwähnt.
 
 
+
 4 Ergebnisse
 ============
+
 
 4.1 Validierte Probleme
 -----------------------
 
-Aufgabe 1
-.........
+Aufgabe 1 in Durchgang A
+........................
 
-Protokoll Testablauf Durchgang A
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Modul -> Neu erstellen -> Vorlagen -> Lernkapitel Deutsch
 2) Erstellen-Button ausgegraut -> Doppelklick -> System fragt nach Projektordner -> Projektordner wurde ohne Wissen des Benutzers angelegt (Ohne Drücken von "Erstellen"), verwirrt Benutzer
@@ -59,20 +65,21 @@ Protokoll Testablauf Durchgang A
 		6) Benutzer löscht andere erstelle Frageseiten
 		7) Benutzer findet Speicherfunktion nicht -> Nimmt an, das automatisch gespeichert wurde.
 
-Aufgabe 3
-.........
 
-Protokoll Testablauf Durchgang A
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Aufgabe 3 in Durchgang A
+.....................
+
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Benutzer öffnet Dialog für neue Elemente
 2) Benutzer sucht nach Multiple-Choice Seite
 3) Benutzer findet mehrere, die ähnlich klingen -> wählt erste der Auswahl (Glückstreffer)
 4) Benutzer schiebt an falscher Position eingefügte Seite nach unten
-		
-		
-Aufgabe 4
-.........
+
+
+Aufgabe 4 in Durchgang A und B
+...........................
 
 Protokoll Testablauf Durchgang A
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -98,6 +105,7 @@ Protokoll Testablauf Durchgang A
 		* Benutzer findet Auswahl
 		* "Aufgabentypen" -> schlechte Bezeichnung
 
+
 Protokoll Testablauf Durchgang B
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -112,11 +120,12 @@ Protokoll Testablauf Durchgang B
 	2) Wählt schliessliche den Plus-Button um neue Elemente hinzuzufügen --> korrekt
 5) Lösungen definieren ist kein Problem
 
-Aufgabe 5
-.........
 
-Protokoll Testablauf Durchgang A
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Aufgabe 5 in Durchgang A
+.....................
+
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Öffnen
 	1) Öffnet start.html in Browser, gibt Fehlermeldung (weil Chrome --> Flash-Sandbox) 
@@ -134,11 +143,12 @@ Protokoll Testablauf Durchgang A
 	2) Will Text markieren, verschiebt Element
 	3) Bleistift-Icon --> Erfolg.
 
-Aufgabe 6
-.........
 
-Protokoll Testablauf Durchgang A
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Aufgabe 6 in Durchgang A
+.....................
+
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Wählt Vorlage "Drag and Drop (Text)" statt erwarteten "Matrix-Multiple-Choice (mit Sofortfeedback)" aus, weil es keine Matrix-Single-Choice gibt (Problem der Aufgabenstellung?)
 	1) Vorlagen-Fenster verschwindet nicht!
@@ -153,13 +163,14 @@ Protokoll Testablauf Durchgang A
 3) Lösung zuweisen
 	1) Nimmt richtige Möglichkeit an und zieht Draggables auf Drop-Areas. Meint aber, dass es eine Raten war und nicht Intuition.
 
+
 Nach Hinweis, dass eigentlich das Problem mit den Checkboxen/Radiobuttons gemeint war, erstellt Teilnehmer ohne Probleme eine neue Seite. Er versucht dann aber, die Seite anzupassen (in den Optionen), ohne dass sie in der Vorschau geöffnet wurde!
 
-Aufgabe 8
-.........
+Aufgabe 8 in Durchgang A
+.....................
 
-Protokoll Testablauf Durchgang A
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Versteht nicht, was ein Seitentitel ist. Trifft aber die richtige Annahme.
 2) Text bearbeiten
@@ -171,11 +182,12 @@ Protokoll Testablauf Durchgang A
 	2) Optionen: Es gibt einen Eintrag bei Gestalt zu Seitentitel, aber nicht bearbeitbar und das Feld ist viel zu klein.
 	3) Optionen: Teilnehmer sieht Reiter "Seite" und vermutet, dass der Parameter dort sein könnte.
 
-Aufgabe 10
-..........
 
-Protokoll Testablauf Durchgang A
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Aufgabe 10 in Durchgang A
+......................
+
+Protokoll Testablauf
+^^^^^^^^^^^^^^^^^^^^
 
 1) Findet den inhaltlichen Fehler (deutsche Mark) und benennt einfach den Eintrag um. Sieht dann aber die Spalte "Euro" und kommt zum richtigen Schluss
 2) Klickt auf "Info", aber es passiert nichts.
@@ -185,32 +197,36 @@ Protokoll Testablauf Durchgang A
 6) Wieder in den Optionen, dent es sei in der Flow-Liste!
 7) findet den richtigen Eintrag. Erwartet, dass beim Aufruf der Optionen mit markiertem Element gerade der richige Reiter aufgerufen wird. (Kontextsensitiv)
 
+
+
 4.2 Nicht validierte Probleme
 -----------------------------
 
-Aufgabe 2
-.........
+Aufgabe 1 in Durchgang B
+........................
+
+Aufgabe 2 in Durchgang A und B
+..............................
 
 Stellt für den Teilnehmer 1 kein Problem dar, da er die richtige Vorlage ausgewählt hat.
 
-Aufgabe 7
-.........
+Aufgabe 7 in Durchgang A und B
+..............................
 
-Teilnehmer 2 hatte kein Problem, Schwierigkeiten wurden bereits in vorherigen Aufgaben geklärt.
+Teilnehmer hatten kein Probleme, Schwierigkeiten wurden bereits in vorherigen Aufgaben geklärt.
 
-Aufgabe 9
-.........
+Aufgabe 9 in Durchgang A und B
+..............................
 
-Teilnehmer 2 sieht kein Problem, erstellt eine Aufgabenseite ohne Auswertungsseite.
+Teilnehmer sahen keine Probleme, erstellten eine Aufgabenseite ohne Auswertungsseite.
 
-Aufgabe 11
-..........
+Aufgabe 11 in Durchgang A und B
+..............................
 
 Teilnehmer 2 kennt Vorgehen zu "Single"-Matrix-Aufgaben noch aus Aufgabe 6 und hat keine Probleme bei der Aufgabe.
 
-
-Aufgabe 12
-..........
+Aufgabe 12 in Durchgang A und B
+..............................
 
 Teilnehmer kennt Vorgehen zum Umbenennen bei Draggables noch aus Aufgabe 8 und hat keine weiteren Probleme.
 Der Abspielmodus ist auch kein Problem.
