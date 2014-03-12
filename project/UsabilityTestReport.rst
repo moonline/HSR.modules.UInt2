@@ -12,13 +12,13 @@ UsabilityTest Report
 1 Testmethodik
 ==============
 
-============  =========  =====  ==========  ============  =======================
-Teilnehmer #  Name       Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stage
-============  =========  =====  ==========  ============  =======================
-1             Z.Oussama  21     m           Informatiker  keine
-2             N.Grögli   20     m           Informatiker  keine
-3             J.Aeberli  20     m           Informatiker  sehr grosse
-============  =========  =====  ==========  ============  =======================
+============  =========  =====  ==========  ============  =======================  =========
+Teilnehmer #  Name       Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stage  Durchgang
+============  =========  =====  ==========  ============  =======================  =========
+1             Z.Oussama  21     m           Informatiker  keine                    A        
+2             N.Grögli   20     m           Informatiker  keine                    A        
+3             J.Aeberli  20     m           Informatiker  sehr grosse              B        
+============  =========  =====  ==========  ============  =======================  =========
 
 2 Kontext
 =========
@@ -41,8 +41,8 @@ Der Testuser erhält ein Notebook mit installiertem Browser, Adobe Air und CLX.S
 Aufgabe 1
 .........
 
-Protokoll Testablauf Teilnehmer 1
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf Durchgang A
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Modul -> Neu erstellen -> Vorlagen -> Lernkapitel Deutsch
 2) Erstellen-Button ausgegraut -> Doppelklick -> System fragt nach Projektordner -> Projektordner wurde ohne Wissen des Benutzers angelegt (Ohne Drücken von "Erstellen"), verwirrt Benutzer
@@ -62,8 +62,8 @@ Protokoll Testablauf Teilnehmer 1
 Aufgabe 3
 .........
 
-Protokoll Testablauf Teilnehmer 1
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf Durchgang A
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Benutzer öffnet Dialog für neue Elemente
 2) Benutzer sucht nach Multiple-Choice Seite
@@ -74,8 +74,8 @@ Protokoll Testablauf Teilnehmer 1
 Aufgabe 4
 .........
 
-Protokoll Testablauf Teilnehmer 1
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf Durchgang A
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Benutzer wählt Öffnen
 2) Erstellt neue Frage
@@ -98,8 +98,8 @@ Protokoll Testablauf Teilnehmer 1
 		* Benutzer findet Auswahl
 		* "Aufgabentypen" -> schlechte Bezeichnung
 
-Protokoll Testablauf Teilnehmer 3
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf Durchgang B
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Öffnet das Lernmodul
 2) Erstellt neue Frage mit der Vorlage "Multiple Choice (mit Auswerten-Button)"
@@ -115,8 +115,8 @@ Protokoll Testablauf Teilnehmer 3
 Aufgabe 5
 .........
 
-Protokoll Testablauf Teilnehmer 2
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf Durchgang A
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Öffnen
 	1) Öffnet start.html in Browser, gibt Fehlermeldung (weil Chrome --> Flash-Sandbox) 
@@ -137,8 +137,8 @@ Protokoll Testablauf Teilnehmer 2
 Aufgabe 6
 .........
 
-Protokoll Testablauf Teilnehmer 2
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf Durchgang A
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Wählt Vorlage "Drag and Drop (Text)" statt erwarteten "Matrix-Multiple-Choice (mit Sofortfeedback)" aus, weil es keine Matrix-Single-Choice gibt (Problem der Aufgabenstellung?)
 	1) Vorlagen-Fenster verschwindet nicht!
@@ -158,8 +158,8 @@ Nach Hinweis, dass eigentlich das Problem mit den Checkboxen/Radiobuttons gemein
 Aufgabe 8
 .........
 
-Protokoll Testablauf Teilnehmer 2
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf Durchgang A
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Versteht nicht, was ein Seitentitel ist. Trifft aber die richtige Annahme.
 2) Text bearbeiten
@@ -174,8 +174,8 @@ Protokoll Testablauf Teilnehmer 2
 Aufgabe 10
 ..........
 
-Protokoll Testablauf Teilnehmer 2
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Protokoll Testablauf Durchgang A
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1) Findet den inhaltlichen Fehler (deutsche Mark) und benennt einfach den Eintrag um. Sieht dann aber die Spalte "Euro" und kommt zum richtigen Schluss
 2) Klickt auf "Info", aber es passiert nichts.
