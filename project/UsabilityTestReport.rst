@@ -41,8 +41,18 @@ Der Testuser erhält ein Notebook mit installiertem Browser, Adobe Air und CLX.S
 4 Ergebnisse
 ============
 
+4.1 Übersicht
+-------------
 
-4.1 Validierte Probleme
+========================  =  =  =  =  =  =  =  =  =  ==  ==  ==
+Problem                   1  2  3  4  5  6  7  8  9  10  11  12
+========================  =  =  =  =  =  =  =  =  =  ==  ==  ==
+Validiert in Durchgang A  x     x  x  x  x     x     x         
+Validiert in Durchgang B           x                           
+========================  =  =  =  =  =  =  =  =  =  ==  ==  ==
+
+
+4.2 Validierte Probleme
 -----------------------
 
 Aufgabe 1 in Durchgang A
@@ -68,7 +78,7 @@ Protokoll Testablauf
 
 
 Aufgabe 3 in Durchgang A
-.....................
+........................
 
 Protokoll Testablauf
 ^^^^^^^^^^^^^^^^^^^^
@@ -80,7 +90,7 @@ Protokoll Testablauf
 
 
 Aufgabe 4 in Durchgang A und B
-...........................
+..............................
 
 Protokoll Testablauf Durchgang A
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -123,7 +133,7 @@ Protokoll Testablauf Durchgang B
 
 
 Aufgabe 5 in Durchgang A
-.....................
+........................
 
 Protokoll Testablauf
 ^^^^^^^^^^^^^^^^^^^^
@@ -146,7 +156,7 @@ Protokoll Testablauf
 
 
 Aufgabe 6 in Durchgang A
-.....................
+........................
 
 Protokoll Testablauf
 ^^^^^^^^^^^^^^^^^^^^
@@ -168,7 +178,7 @@ Protokoll Testablauf
 Nach Hinweis, dass eigentlich das Problem mit den Checkboxen/Radiobuttons gemeint war, erstellt Teilnehmer ohne Probleme eine neue Seite. Er versucht dann aber, die Seite anzupassen (in den Optionen), ohne dass sie in der Vorschau geöffnet wurde!
 
 Aufgabe 8 in Durchgang A
-.....................
+........................
 
 Protokoll Testablauf
 ^^^^^^^^^^^^^^^^^^^^
@@ -185,7 +195,7 @@ Protokoll Testablauf
 
 
 Aufgabe 10 in Durchgang A
-......................
+.........................
 
 Protokoll Testablauf
 ^^^^^^^^^^^^^^^^^^^^
@@ -199,8 +209,7 @@ Protokoll Testablauf
 7) findet den richtigen Eintrag. Erwartet, dass beim Aufruf der Optionen mit markiertem Element gerade der richige Reiter aufgerufen wird. (Kontextsensitiv)
 
 
-
-4.2 Nicht validierte Probleme
+4.3 Nicht validierte Probleme
 -----------------------------
 
 Aufgabe 1 in Durchgang B
@@ -209,7 +218,16 @@ Aufgabe 1 in Durchgang B
 Aufgabe 2 in Durchgang A und B
 ..............................
 
-Stellt für den Teilnehmer 1 kein Problem dar, da er die richtige Vorlage ausgewählt hat.
+Stellt für keinen Teilnehmer ein Problem dar, da die richtige Vorlage ausgewählt wurde.
+
+Aufgabe 3 in Durchgang B
+........................
+
+Aufgabe 5 in Durchgang B
+........................
+
+Aufgabe 6 in Durchgang B
+........................
 
 Aufgabe 7 in Durchgang A und B
 ..............................
@@ -221,8 +239,11 @@ Aufgabe 9 in Durchgang A und B
 
 Teilnehmer sahen keine Probleme, erstellten eine Aufgabenseite ohne Auswertungsseite.
 
+Aufgabe 10 in Durchgang B
+.........................
+
 Aufgabe 11 in Durchgang A und B
-..............................
+...............................
 
 Teilnehmer 2 kennt Vorgehen zu "Single"-Matrix-Aufgaben noch aus Aufgabe 6 und hat keine Probleme bei der Aufgabe.
 
@@ -232,10 +253,11 @@ Aufgabe 12 in Durchgang A und B
 Teilnehmer kennt Vorgehen zum Umbenennen bei Draggables noch aus Aufgabe 8 und hat keine weiteren Probleme.
 Der Abspielmodus ist auch kein Problem.
 
-4.3 Neu aufgetauchte Probleme
+4.4 Neu aufgetauchte Probleme
 -----------------------------
 
 * Tool merkt sich zuletzt benutzten Pfad nicht beim Öffnen von Modulen
 * Neue Seite wird an falscher Position eingefügt, da der Benutzer nicht explizit den Einfügepunkt wählen muss
 * Kapitel-/Seitenvorlagen: Zweiter Reiter (Aufgabenseiten) ist zu weit unten im Akkordeon; Teilnehmer bemerken den Reiter fast nicht
 * Teilnehmer wollen Änderungen manuell speichern (drücken Ctrl-S oder erwarten Option unter Modul/Speichern o.Ä.)
+
