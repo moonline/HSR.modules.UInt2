@@ -1,6 +1,6 @@
-====================
-UsabilityTest Report
-====================
+=================
+UsabilityTest Log
+=================
 
 
 :Gruppe: DropTable
