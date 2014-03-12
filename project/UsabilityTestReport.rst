@@ -6,7 +6,8 @@ UsabilityTest Report
 :Gruppe: DropTable
 :Teilnehmer: Tobias Blaser, Philipp Christen
 :Email: tblaser(at)hsr.ch, pchriste(at)hsr.ch
-:Produkt: CLX.Stage Editor für Stage E-Learning System der Firma CREALOGIX AG
+:Produkt: CLX.Stage Editor für Stage E-Learning System
+:Hersteller: CREALOGIX AG
 
 
 
