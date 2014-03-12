@@ -236,4 +236,12 @@ Kano Analyse
 * Begeisterungseigenschaften
 
 
+7 UCD in der Praxis
+===================
+
+* Tools verändern uns und den Ablauf
+* Unterschied zwischen Aufgabe und Ziel 
+	* z.B. Ziel: Nach Hause kommen, Aufgabe: Billet lösen
+	* Usability sollte auf das Ziel zusteuern
+* So früh wie möglich von der Simulation zum realen Produkt wechseln für Usability Tests -> Mit Prototypen arbeiten
 
