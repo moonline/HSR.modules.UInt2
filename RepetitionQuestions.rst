@@ -91,6 +91,87 @@ Erklären Sie den "Cognitive Walkthrough" und stellen Sie ihn Heuristische Evalu
 
 
 
+3 UCD Prozess
+=============
+
+**3.0.1.**
+Erklären Sie das Usability Engineering Vorgehensmodel nach UE Kompakt.
+
+**3.0.2.**
+Was sind die Kernelemente der Norm für UCD Prozess DIN EN ISO 9241-210?
+
+**3.0.3.**
+Was beinhaltet eine Persona? Wozu dient sie?
+
+**3.0.4.**
+Was beinhaltet ein Ist-Szenario?
+
+**3.0.5.**
+Was ist ein Future Szenario?
+
+
+4 Empirische Usability Evaluation
+=================================
+
+**4.0.1.**
+Was ist der Unterschied zwischen empirischen und heuristischen Tests?
+
+**4.0.2.**
+Welche Aktivitäten gehören zu einem Usability Test und dessen Vor- / Nachbereitung?
+
+**4.0.3.**
+Wie sind gute Aufgaben eines Usability Tests formuliert?
+
+**4.0.3.**
+Wie gehen Sie konkret vor bei der Planung und Durchführung eines Tests?
+
+**4.0.4.**
+Nennen Sie einige typische Fehler, die bei Usability Test gemacht werden können und vermieden werden sollten.
+
+**4.0.5.**
+Stellen Sie die "Nielsen" Regel zu Usability Tests Akers Annahme gegenüber was das Auffinden von Fehler rbetrifft.
+
+**4.0.6.**
+Wie viele Nutzer sind für einen Usability Test sinnvoll?
+
+**4.0.7.**
+Was ist A/B Testing und wie funktioniert es? Warum gibt es keine Probleme bei der Testerrekrutierung? Wann ist A/B Testing sinnvoll?
+
+
+5 Konkurrenzanalyse
+===================
+
+**5.0.1.**
+Warum kommt es nicht darauf an, wer ein Produkt erfunden hat? Was heisst Innovation?
+
+**5.0.2.**
+Was ist Design Thinking? Wie ist es aufgebaut?
+
+**5.0.3.**
+Welche Kriterien beinflussen, wie schnell ein Produkt im Markt ankommt? Was sind optimale Parameter, damit das Produkt so schnell wie möglich auf breiter Basis die Kunden erreicht? Nehmen Sie als Beispiel Telefon, PC nternet und Smartphone.
+
+**5.0.4.**
+Wie funktioniert die Klassifikation von Produkt Anforderungen & Eigenschafte nach Kano?
+
+**5.0.5.**
+Warum liegt die Kunst darin, die Konkurrenz korrekt zu definieren?
+
+**5.0.6.**
+Welche Elemente sollte eine Konkurrenzanalyse enthalten?
+
+
+6 Benutzer Bedürfnisse
+======================
+
+**5.0.7.**
+Nennen Sie die "Needs" nach Sheldon und nach Masslow.
+
+
+7 UCD im Praxiseinsatz
+======================
+
+
+
 
 
 
