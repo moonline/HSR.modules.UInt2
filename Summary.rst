@@ -221,6 +221,35 @@ Produkte müssen folgende Punkte erfüllen:
 * Management muss die Idee supporten
 
 
+Was setzt sich durch?
+.....................
+
+* Der ganze Service ist entscheidend und nicht nur die technischen Eigenschaften eines Geräts
+
+.
+
+.. figure:: img/5.5.jpg
+
+   Service Design: Mehr als H-C-I Design, z.B. mit Touch Point Matrix (Alternartive: Customer Journey Map)
+
+
+Wie verläuft Innovation?
+------------------------
+
+.. figure:: img/5.6.jpg
+
+   Spool: Benutzer erwarten unterschiedlichesin verschiedenen Technologiephasen (Beispiel Work Processor)
+   
+   
+1) Abhängigkeit: Produkt wird gekauft weil es das einzige ist
+2) Cehclist Battles (Features): Produkt wird wegen Features gekauft
+3) Productivity Wars: Produkte werden gekauft, weil sie nützlich, effizient und einfach erlernbar sind
+	* Grösste Marktgrösse
+	* Usability entscheidend
+4) Transparenz: 
+	* Geringe Marktgrösse, weil zwar viele es kaufen aber für das Produkt wenig Geld verlangt werden kann
+
+
 6 Konkurrenz Analyse
 ====================
 
@@ -244,4 +273,13 @@ Kano Analyse
 	* z.B. Ziel: Nach Hause kommen, Aufgabe: Billet lösen
 	* Usability sollte auf das Ziel zusteuern
 * So früh wie möglich von der Simulation zum realen Produkt wechseln für Usability Tests -> Mit Prototypen arbeiten
+
+.
+
+.. image:: img/7.1.jpg
+   :width: 80 %
+
+
+8 Benutzerbedürfnisse Modellieren / Personas
+============================================
 

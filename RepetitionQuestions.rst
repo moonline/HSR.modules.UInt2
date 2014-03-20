@@ -138,11 +138,12 @@ Wie viele Nutzer sind für einen Usability Test sinnvoll?
 Was ist A/B Testing und wie funktioniert es? Warum gibt es keine Probleme bei der Testerrekrutierung? Wann ist A/B Testing sinnvoll?
 
 
+
 5 Konkurrenzanalyse
 ===================
 
 **5.0.1.**
-Warum kommt es nicht darauf an, wer ein Produkt erfunden hat? Was heisst Innovation?
+Warum kommt es nicht darauf an, wer ein Produkt erfunden hat? Was heisst Innovation? Wie verläuft Innovation? In welcher Phase ist Usability entscheidend?
 
 **5.0.2.**
 Was ist Design Thinking? Wie ist es aufgebaut?
@@ -160,20 +161,72 @@ Warum liegt die Kunst darin, die Konkurrenz korrekt zu definieren?
 Welche Elemente sollte eine Konkurrenzanalyse enthalten?
 
 
+
 6 Benutzer Bedürfnisse
 ======================
 
-**5.0.7.**
+**6.0.1.**
 Nennen Sie die "Needs" nach Sheldon und nach Masslow.
+
 
 
 7 UCD im Praxiseinsatz
 ======================
 
+**7.0.1.**
+Welche Fragen werden während dem Prototyping Process geklärt?
+
+**7.0.2.**
+Welchen Vorteil bietet ein interaktiver Prototyp gegenüber Papierprototypen?
+
+**7.0.3.**
+Was ist eine Hardware Prototyping Plattform und welchen Vorteil bietet sie?
+
+**7.0.4.**
+Erklären Sie den Unterscheid zwischen Ziel und Aufgabe am Beispiel "Billet lösen nach Basel am Automat".
 
 
 
+8 Benutzerbedürfnisse erheben & Modellieren
+===========================================
 
+**8.0.1.**
+Erklären Sie die Begriffe
 
+a) Contectual Inquiry
+b) Stakeholder
+c) Hypothetische Persona
+d) Context Szenario
+e) Key Path Scenario
+f) Validation Szenario
+
+**8.0.2.**
+Nennen Sie die Phasen nach Goodwin
+
+**8.0.3.**
+Wie werden Personas erstellt?
+
+**8.0.4.**
+Was ist der Unterschied zwischen einer echten und und einer provisorischen Persona?
+
+**8.0.5.**
+Warum sind Marktsegmente keine Personas?
+
+**8.0.6.**
+Was zeigen Szenarios? Wie tragen sie bei, Probleme zu finden?
+
+**8.0.7.**
+Was sind
+
+a) Problem Szenarios
+b) Day-in-the-life Szenario
+c) Soll Szenario
+d)  Blue Sky Szenario & Happy Path Szenario
+
+**8.0.8.**
+Warum sind Use Case Szenarios keine UCD Szenarios?
+
+**8.0.9.**
+Was sind gute Szenarios? Was sollte in Ist-Szenarien enthalten sein?
 
 
