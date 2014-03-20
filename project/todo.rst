@@ -8,3 +8,6 @@ Bis 20.03.14
 * (P) Dialog Lernmodul öffnen
 * Tipex mitnehmen
 * Schere mitnehmen
+* Kleber
+* Post-It's
+* Filzstift
