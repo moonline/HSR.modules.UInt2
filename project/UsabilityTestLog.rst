@@ -15,6 +15,7 @@ UsabilityTest Log
 ==============
 
 Iteration 1
+
 ============  =========  =====  ==========  ============  =======================  =========
 Teilnehmer #  Name       Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stage  Durchgang
 ============  =========  =====  ==========  ============  =======================  =========
