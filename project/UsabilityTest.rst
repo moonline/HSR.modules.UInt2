@@ -22,7 +22,7 @@ Zur Verfügung steht ein Rechner mit Firefox, Adobe Air und CLX.Stage.
 Tests
 =====
 
-1) Ihr Auftraggeber bittet Sie, mit CLX.Stage ein leeres Lernmodul zu erstellen, welches den Lernenden die Personalstruktur Ihres Unternehmens näher bringt. Sie sollen ein leeres Modul mit einer Begrüssungseite erstellen und im Ordner Vorlagen ablegen.
+1) Ihr Auftraggeber bittet Sie, mit CLX.Stage ein leeres Lernmodul zu erstellen, welches den Schülern die Personalstruktur der Schule näher bringt. Sie sollen ein leeres Modul mit einer Begrüssungseite erstellen und im Ordner Vorlagen ablegen.
 
 
 Instruktionen
