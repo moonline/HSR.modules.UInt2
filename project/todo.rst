@@ -22,10 +22,10 @@ Bis 20.03.14
 Bis 09.04.14
 ============
 
-* (P) Zweiter Usability Test im Geschäft durchführen + Log
-* (P) Inhalt Eigenschaftsfenster Entwurf
-* (P) Ev. Auswertungen Mockup
-* (T) Multiple Choice Seite Mockup (Inhalt)
-* (T) Single Choice Matrix Mockup
-* (T) Drag'n'Drop Mockup
+* [P] Zweiter Usability Test im Geschäft durchführen + Log
+* [P] Inhalt Eigenschaftsfenster Entwurf
+* [P] Ev. Auswertungen Mockup
+* [T] Multiple Choice Seite Mockup (Inhalt)
+* [T] Single Choice Matrix Mockup
+* [T] Drag'n'Drop Mockup
 
