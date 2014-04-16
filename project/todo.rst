@@ -29,3 +29,12 @@ Bis 09.04.14
 * [T] Single Choice Matrix Mockup
 * [T] Drag'n'Drop Mockup
 
+Am 16.04.14
+===========
+* bestehende Module vorbereiten
+** Aufgabe 2
+** Aufgabe 3, 
+** Aufgabe 10, Währungen
+** 
+* Neu in PropertyInspector:
+** Seitenspezifisch: Multiple- oder Single-Choice
