@@ -32,9 +32,11 @@ Bis 09.04.14
 Am 16.04.14
 ===========
 * bestehende Module vorbereiten
-** Aufgabe 2
-** Aufgabe 3, 
-** Aufgabe 10, Währungen
-** 
+ * Aufgabe 3, "bestehendes Modul"
+ * Aufgabe 4, Tiere
+ * Aufgabe 5, "bestehendes Modul"
+ * Aufgabe 6, Hauptstädte
+ * Aufgabe 8, bestehendes Modul
+ * Aufgabe 10, Währungen
 * Neu in PropertyInspector:
-** Seitenspezifisch: Multiple- oder Single-Choice
+ * Seitenspezifisch: Multiple- oder Single-Choice
