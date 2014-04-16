@@ -52,7 +52,7 @@ Tests
 
 4) Sie wollen in einem bestehenden Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, 
    in dem Schüler aus einer Reihe von Tieren diejenigen auswählen sollen, 
-   welche Säugetiere sind. Zur Auswahl stehen Elefant, Kuh, Delfin, Katze und Gorilla.
+   welche Säugetiere sind. Zur Auswahl stehen Elefant, Delfin, Katze und Huhn.
    Wählen sie als Symbolbild das Bild eines Elefanten.
 
 5) Sie haben ein neues Modul erstellt und haben nach Abklärungen mit Ihrem Vorgesetzten beschlossen, die erste Aufgabe nach der Vorlage "Multiple Choice (mit Sofort-Feedback)" zu gestalten. Sie haben die Vorlage in der Vorlagenauswahl auch gefunden und wollen diese nun benutzen.
