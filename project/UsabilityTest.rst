@@ -55,11 +55,11 @@ Tests
 
 7) Eine ältere Kollegin benutzt das Programm CLX.Stage zum ersten Mal und nach einer sehr kurzen Einführung. Nun bittet sie Sie um Hilfe und würde gerne wissen, wie sie eine bestimmte Seite in der Seitenvorschau öffnen kann. Natürlich erklären Sie sich gerne dazu bereit, ihr zu helfen.
 
-8) Für einen abwesenden Kollegen sollen die Seitentitel aller Fragen angepasst werden, die unterschiedliche Inhalte besitzen: Multiple Choice, Single Choice Matrix, Drag'n'Drop.
+8) Für einen abwesenden Kollegen soll die Überschrift einer Frage angepasst werden.
 
 9) Ein Kollege bittet Sie, ihm zu zeigen wie die Applikation funktioniert. Dazu legen Sie ein Testmodul an, wo die Auswertung nur auf einer Auswertungsseite stattfinden soll.
 
-10) Für den Geografieunterricht soll ein Ländermodul von früher angepasst werden. Da sich die Antworten inzwischen geändert haben, müssen Sie bei den Radiobutton-Aufgaben andere Elemente als Lösung definieren.
+10) Für den Geografieunterricht hat Ihr älterer Kollege ein Modul über Währungenerstellt. Da Ihr Kollege nicht mehr auf dem neuesten Stand ist und sich einige Währungen inzwischen geändert haben, möchten Sie die Antworten etwas ändern.
 
 11) Das Modul aus Aufgabe 10 soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
 
