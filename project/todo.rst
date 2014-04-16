@@ -36,7 +36,7 @@ Am 16.04.14
  * Aufgabe 4, Tiere
  * Aufgabe 5, "bestehendes Modul"
  * Aufgabe 6, Hauptstädte
- * Aufgabe 8, bestehendes Modul
- * Aufgabe 10, Währungen
+ * Aufgabe 10, Währungen OK
 * Neu in PropertyInspector:
- * Seitenspezifisch: Multiple- oder Single-Choice
+ * Seitenspezifisch: Multiple- oder Single-Choice OK
+ * Auswertung: Sofort oder über Button? OK
