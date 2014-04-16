@@ -55,9 +55,14 @@ Tests
    welche Säugetiere sind. Zur Auswahl stehen Elefant, Delfin, Katze und Huhn.
    Wählen sie als Symbolbild das Bild eines Elefanten.
 
-5) Sie haben ein neues Modul erstellt und haben nach Abklärungen mit Ihrem Vorgesetzten beschlossen, die erste Aufgabe nach der Vorlage "Multiple Choice (mit Sofort-Feedback)" zu gestalten. Sie haben die Vorlage in der Vorlagenauswahl auch gefunden und wollen diese nun benutzen.
+5) Sie haben ein neues Modul erstellt und haben nach Abklärungen mit Ihrem Vorgesetzten beschlossen, 
+   die Aufgabe aus Aufgabe 4 so zu gestalten, das die Testabsolventen direkt nach dem Ausfüllen der Frage die 
+   Antworten korrigieren lassen können, und nicht am Schluss aller Fragen eine Auswertung durchgeführt wird.
 
-6) Ihr Kollege hat Ihnen ein Modul über Hauptstädte geschickt und Sie gebeten, darin eine neue Aufgabe zu erstellen, bei welcher die Teilnehmer auf der gleichen Seite vier verschiedene Städte vier verschiedenen Ländern zuordnen müssen. Die Städte sind Paris, London, Moskau und Helsinki; die Länder sind Frankreich, Vereinigtes Königreich, Russland und Finnland. 
+6) Ihr Kollege hat Ihnen ein Modul über Hauptstädte geschickt und Sie gebeten, 
+   darin eine neue Aufgabe zu erstellen, bei welcher die Teilnehmer auf der gleichen Seite drei verschiedene 
+   Städte drei verschiedenen Ländern zuordnen müssen. Die Städte sind Paris, London, Moskau;
+   die Länder sind Frankreich, Vereinigtes Königreich, Russland und. 
 
 7) Eine ältere Kollegin benutzt das Programm CLX.Stage zum ersten Mal und nach einer sehr kurzen Einführung. Nun bittet sie Sie um Hilfe und würde gerne wissen, wie sie eine bestimmte Seite in der Seitenvorschau öffnen kann. Natürlich erklären Sie sich gerne dazu bereit, ihr zu helfen.
 
