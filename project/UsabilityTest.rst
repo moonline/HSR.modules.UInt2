@@ -36,13 +36,19 @@ Tests
 
 2) Ihr Mitarbeiter liess Ihnen ein Lernmodul zukommen, wobei Ihrer Meinung nach die erste Aufgabe keinen Sinn ergibt. Sie wollen diese Aufgabe nun aus dem Modul entfernen.
 
-3) Ihr Chef beauftragt Sie, bei einem bereits existierenden Lernmodul noch eine weitere Frage einzubauen (nur eine richtige Antwort):
-	"Welches der folgenden Tiere lebt nicht in Afrika?"
+3) Ihr Chef beauftragt Sie, bei einem bereits existierenden Lernmodul noch eine weitere Frage mit 
+   folgenden Eigenschaften einzubauen:
+
+   * nur eine richtige Antwort
+   * Überschrift: Tiere in Afrika
+   * Frage: "Welches der folgenden Tiere lebt nicht in Afrika?"
+
 	
+   Antworten:
 	* Giraffe
 	* Löwe
-	* Braubär
-	* Tieger
+	* Braunbär
+	* Tiger
 
 4) Sie wollen in einem bestehenden Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, 
    in dem Schüler aus einer Reihe von Tieren diejenigen auswählen sollen, 
