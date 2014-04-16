@@ -70,7 +70,9 @@ Tests
 
 9) Ein Kollege bittet Sie, ihm zu zeigen wie die Applikation funktioniert. Dazu legen Sie ein Testmodul an, wo die Auswertung nur auf einer Auswertungsseite stattfinden soll.
 
-10) Für den Geografieunterricht hat Ihr älterer Kollege ein Modul über Währungenerstellt. Da Ihr Kollege nicht mehr auf dem neuesten Stand ist und sich einige Währungen inzwischen geändert haben, möchten Sie die Antworten etwas ändern.
+10) Für den Geografieunterricht hat Ihr älterer Kollege ein Modul über Währungen erstellt. 
+    Da Ihr Kollege nicht mehr auf dem neuesten Stand ist und sich einige Währungen inzwischen geändert haben, 
+    möchten Sie die Antworten korrigieren.
 
 11) Das Modul aus Aufgabe 10 soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
 
