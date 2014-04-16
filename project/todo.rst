@@ -22,10 +22,21 @@ Bis 20.03.14
 Bis 09.04.14
 ============
 
-* (P) Zweiter Usability Test im Geschäft durchführen + Log
-* (P) Inhalt Eigenschaftsfenster Entwurf
-* (P) Ev. Auswertungen Mockup
-* (T) Multiple Choice Seite Mockup (Inhalt)
-* (T) Single Choice Matrix Mockup
-* (T) Drag'n'Drop Mockup
+* [P] Zweiter Usability Test im Geschäft durchführen + Log
+* [P] Inhalt Eigenschaftsfenster Entwurf
+* [P] Ev. Auswertungen Mockup
+* [T] Multiple Choice Seite Mockup (Inhalt)
+* [T] Single Choice Matrix Mockup
+* [T] Drag'n'Drop Mockup
 
+Am 16.04.14
+===========
+* bestehende Module vorbereiten
+ * Aufgabe 3, "bestehendes Modul"
+ * Aufgabe 4, Tiere OK
+ * Aufgabe 5, "bestehendes Modul"
+ * Aufgabe 6, Hauptstädte
+ * Aufgabe 10, Währungen OK
+* Neu in PropertyInspector:
+ * Seitenspezifisch: Multiple- oder Single-Choice OK
+ * Auswertung: Sofort oder über Button? OK

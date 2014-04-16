@@ -22,7 +22,7 @@ Zur Verfügung steht ein Rechner mit Firefox, Adobe Air und CLX.Stage.
 Tests
 =====
 
-1) Ihr Auftraggeber bittet Sie, mit CLX.Stage ein leeres Lernmodul zu erstellen, welches den Lernenden die Personalstruktur Ihres Unternehmens näher bringt. Sie sollen ein leeres Modul mit einer Begrüssungseite erstellen und im Ordner Vorlagen ablegen.
+1) Ihr Auftraggeber bittet Sie, mit CLX.Stage ein leeres Lernmodul zu erstellen, welches den Schülern die Personalstruktur der Schule näher bringt. Sie sollen ein leeres Modul mit einer Begrüssungseite erstellen und im Ordner Vorlagen ablegen.
 
 
 Instruktionen
@@ -36,21 +36,41 @@ Tests
 
 2) Ihr Mitarbeiter liess Ihnen ein Lernmodul zukommen, wobei Ihrer Meinung nach die erste Aufgabe keinen Sinn ergibt. Sie wollen diese Aufgabe nun aus dem Modul entfernen.
 
-3) Ihr Chef beauftragt Sie, bei einem bereits existierenden Lernmodul noch eine weitere Frage einzubauen. Dazu wollen Sie eine neue Multiple-Choice Seite erstellen.
+3) Ihr Chef beauftragt Sie, bei einem bereits existierenden Lernmodul noch eine weitere Frage mit 
+   folgenden Eigenschaften einzubauen:
 
-4) Sie wollen in einem bestehenden Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, in dem Schüler aus einer Reihe von Tieren diejenigen auswählen sollen, welche Säugetiere sind. Zur Auswahl stehen Elefant, Kuh, Delfin, Katze und Gorilla.
+   * nur eine richtige Antwort
+   * Überschrift: Tiere in Afrika
+   * Frage: "Welches der folgenden Tiere lebt nicht in Afrika?"
 
-5) Sie haben ein neues Modul erstellt und haben nach Abklärungen mit Ihrem Vorgesetzten beschlossen, die erste Aufgabe nach der Vorlage "Multiple Choice (mit Sofort-Feedback)" zu gestalten. Sie haben die Vorlage in der Vorlagenauswahl auch gefunden und wollen diese nun benutzen.
+	
+   Antworten:
+	* Giraffe
+	* Löwe
+	* Braunbär
+	* Tiger
 
-6) Ihr Kollege hat Ihnen ein Modul über Hauptstädte geschickt und Sie gebeten, darin eine neue Aufgabe zu erstellen, bei welcher die Teilnehmer auf der gleichen Seite vier verschiedene Städte vier verschiedenen Ländern zuordnen müssen. Die Städte sind Paris, London, Moskau und Helsinki; die Länder sind Frankreich, Vereinigtes Königreich, Russland und Finnland. 
+4) Sie wollen in einem bestehenden Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, 
+   in dem Schüler aus einer Reihe von Tieren diejenigen auswählen sollen, 
+   welche Säugetiere sind. Zur Auswahl stehen Elefant, Delfin, Katze und Huhn.
+   Wählen sie als Symbolbild das Bild eines Elefanten.
+
+5) Sie haben ein neues Modul erstellt und haben nach Abklärungen mit Ihrem Vorgesetzten beschlossen, 
+   die Aufgabe aus Aufgabe 4 so zu gestalten, das die Testabsolventen direkt nach dem Ausfüllen der Frage die 
+   Antworten korrigieren lassen können, und nicht am Schluss aller Fragen eine Auswertung durchgeführt wird.
+
+6) Ihr Kollege hat Ihnen ein Modul über Hauptstädte geschickt und Sie gebeten, 
+   darin eine neue Aufgabe zu erstellen, bei welcher die Teilnehmer auf der gleichen Seite drei verschiedene 
+   Städte drei verschiedenen Ländern zuordnen müssen. Die Städte sind Paris, London, Moskau;
+   die Länder sind Frankreich, Vereinigtes Königreich, Russland und. 
 
 7) Eine ältere Kollegin benutzt das Programm CLX.Stage zum ersten Mal und nach einer sehr kurzen Einführung. Nun bittet sie Sie um Hilfe und würde gerne wissen, wie sie eine bestimmte Seite in der Seitenvorschau öffnen kann. Natürlich erklären Sie sich gerne dazu bereit, ihr zu helfen.
 
-8) Für einen abwesenden Kollegen sollen die Seitentitel aller Fragen angepasst werden, die unterschiedliche Inhalte besitzen: Multiple Choice, Single Choice Matrix, Drag'n'Drop.
+8) Für einen abwesenden Kollegen soll die Überschrift einer Frage angepasst werden.
 
 9) Ein Kollege bittet Sie, ihm zu zeigen wie die Applikation funktioniert. Dazu legen Sie ein Testmodul an, wo die Auswertung nur auf einer Auswertungsseite stattfinden soll.
 
-10) Für den Geografieunterricht soll ein Ländermodul von früher angepasst werden. Da sich die Antworten inzwischen geändert haben, müssen Sie bei den Radiobutton-Aufgaben andere Elemente als Lösung definieren.
+10) Für den Geografieunterricht hat Ihr älterer Kollege ein Modul über Währungenerstellt. Da Ihr Kollege nicht mehr auf dem neuesten Stand ist und sich einige Währungen inzwischen geändert haben, möchten Sie die Antworten etwas ändern.
 
 11) Das Modul aus Aufgabe 10 soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
 
