@@ -229,4 +229,81 @@ Warum sind Use Case Szenarios keine UCD Szenarios?
 **8.0.9.**
 Was sind gute Szenarios? Was sollte in Ist-Szenarien enthalten sein?
 
+**8.0.10.**
+Was ist ein Storyboard und wozu dient es?
+
+**8.0.11.**
+Was ist ein Stakeholderinterview? Welche Informationen soll es liefern?
+
+**8.0.12.**
+Nennen Sie einige Stakeholder Interview Fragen (Goodwin)
+
+**8.0.13.**
+Was ist ein Ethnographisches Interview? Welche Informationen werden gesammelt? Welche Ziele verfolgt es?
+
+**8.0.14.**
+Warum soll in einem ethnographischen Interview weitergefragt werden bis zu einem grundlegenden Bedürfnis?
+
+**8.0.15.**
+Was ist die Modellierungsmethode Affinity? Wie funktioniert sie?
+
+**8.0.16.**
+Wie gehen Sie bei der UCD Erhebung und Modellierung vor?
+
+**8.0.17.**
+Wie modellieren Sie Datenbasiert?
+
+**8.0.18.**
+Was bringt Card Sort? Was soll damit herausgefunden werden? Erklären Sie die beiden Arten von Card Sort.
+
+**8.0.19.**
+Stellen Sie Marktforschung Design Research gegenüber. Warum ist "zusätzliche" Erhebung wichtig?
+
+
+
+9 Benutzer Bedürfnis Patterns
+=============================
+
+**9.0.1.**
+Erklären Sie die "Needs" nach Sheldon.
+
+**9.0.2.**
+Was sind Cognitive Bedürfnisse?
+
+**9.0.3.**
+Was ist das Problem von Health Trackern? Warum sind diese nach einer bestimmten Zeit nicht mehr interessant?
+
+**9.0.4.**
+Erklären Sie anhand des Beispiels mit den Health Trackern das motivation/ability/triggers B=Mat-Diagramm von Fogg
+
+**9.0.5.**
+Was ist Blue Path Verhalten?
+
+**9.0.6.**
+Nennen Sie einige Beispiele, wie das Problem der Health Tracker bzw. das grundsätzliche "Blue Path Verhalten" Problem gelöst werden könnte.
+
+
+9.1 Senioren, Kinder, Home, Games
+=================================
+
+**9.1.1.**
+Beschreiben Sie die folgenden Nutzer anhand dieser Kriterien:
+
+i) Bedürfnisse
+ii) Einschränkungen (z.B. Physische, Lernfähigkeit, Erinnerungsvermögen, Lesefährigkeit, Hörvermögen, Mobilität...)
+iii) Vorkenntnisse / Online-Aktivitäten / Nutzung von Social Networks
+iv) Speziel benötigte Funktionen (z.B: High Contrast)
+v) Umfeld, Soziale Kontakte
+
+a) Senioren
+b) Kinder
+c) Heimnutzer
+d) Gamer
+
+**9.1.2.**
+Warum muss "Design für Kinder" auch "Design für Eltern" sein?
+
+
+
+
 
