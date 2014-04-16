@@ -36,7 +36,7 @@ Tests
 
 2) Ihr Mitarbeiter liess Ihnen ein Lernmodul zukommen, wobei Ihrer Meinung nach die erste Aufgabe keinen Sinn ergibt. Sie wollen diese Aufgabe nun aus dem Modul entfernen.
 
-3) Ihr Chef beauftragt Sie, bei einem bereits existierenden Lernmodul noch eine weitere Frage einzubauen:
+3) Ihr Chef beauftragt Sie, bei einem bereits existierenden Lernmodul noch eine weitere Frage einzubauen (nur eine richtige Antwort):
 	"Welches der folgenden Tiere lebt nicht in Afrika?"
 	
 	* Giraffe
@@ -44,7 +44,10 @@ Tests
 	* Braubär
 	* Tieger
 
-4) Sie wollen in einem bestehenden Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, in dem Schüler aus einer Reihe von Tieren diejenigen auswählen sollen, welche Säugetiere sind. Zur Auswahl stehen Elefant, Kuh, Delfin, Katze und Gorilla.
+4) Sie wollen in einem bestehenden Lernmodul über Tiere für Primarschüler eine Aufgabe einbauen, 
+   in dem Schüler aus einer Reihe von Tieren diejenigen auswählen sollen, 
+   welche Säugetiere sind. Zur Auswahl stehen Elefant, Kuh, Delfin, Katze und Gorilla.
+   Wählen sie als Symbolbild das Bild eines Elefanten.
 
 5) Sie haben ein neues Modul erstellt und haben nach Abklärungen mit Ihrem Vorgesetzten beschlossen, die erste Aufgabe nach der Vorlage "Multiple Choice (mit Sofort-Feedback)" zu gestalten. Sie haben die Vorlage in der Vorlagenauswahl auch gefunden und wollen diese nun benutzen.
 
