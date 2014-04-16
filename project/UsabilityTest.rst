@@ -62,7 +62,7 @@ Tests
 6) Ihr Kollege hat Ihnen ein Modul über Hauptstädte geschickt und Sie gebeten, 
    darin eine neue Aufgabe zu erstellen, bei welcher die Teilnehmer auf der gleichen Seite drei verschiedene 
    Städte drei verschiedenen Ländern zuordnen müssen. Die Städte sind Paris, London, Moskau;
-   die Länder sind Frankreich, Vereinigtes Königreich, Russland und. 
+   die Länder sind Frankreich, Vereinigtes Königreich, Russland. 
 
 7) Eine ältere Kollegin benutzt das Programm CLX.Stage zum ersten Mal und nach einer sehr kurzen Einführung. Nun bittet sie Sie um Hilfe und würde gerne wissen, wie sie eine bestimmte Seite in der Seitenvorschau öffnen kann. Natürlich erklären Sie sich gerne dazu bereit, ihr zu helfen.
 
