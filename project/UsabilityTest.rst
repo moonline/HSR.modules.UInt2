@@ -62,7 +62,7 @@ Tests
 6) Ihr Kollege hat Ihnen ein Modul über Hauptstädte geschickt und Sie gebeten, 
    darin eine neue Aufgabe zu erstellen, bei welcher die Teilnehmer auf der gleichen Seite drei verschiedene 
    Städte drei verschiedenen Ländern zuordnen müssen. Die Städte sind Paris, London, Moskau;
-   die Länder sind Frankreich, Vereinigtes Königreich, Russland und. 
+   die Länder sind Frankreich, Vereinigtes Königreich, Russland. 
 
 7) Eine ältere Kollegin benutzt das Programm CLX.Stage zum ersten Mal und nach einer sehr kurzen Einführung. Nun bittet sie Sie um Hilfe und würde gerne wissen, wie sie eine bestimmte Seite in der Seitenvorschau öffnen kann. Natürlich erklären Sie sich gerne dazu bereit, ihr zu helfen.
 
@@ -70,7 +70,9 @@ Tests
 
 9) Ein Kollege bittet Sie, ihm zu zeigen wie die Applikation funktioniert. Dazu legen Sie ein Testmodul an, wo die Auswertung nur auf einer Auswertungsseite stattfinden soll.
 
-10) Für den Geografieunterricht hat Ihr älterer Kollege ein Modul über Währungenerstellt. Da Ihr Kollege nicht mehr auf dem neuesten Stand ist und sich einige Währungen inzwischen geändert haben, möchten Sie die Antworten etwas ändern.
+10) Für den Geografieunterricht hat Ihr älterer Kollege ein Modul über Währungen erstellt. 
+    Da Ihr Kollege nicht mehr auf dem neuesten Stand ist und sich einige Währungen inzwischen geändert haben, 
+    möchten Sie die Antworten korrigieren.
 
 11) Das Modul aus Aufgabe 10 soll noch zwei neue Single Choice Matrix Aufgaben erhalten. Ihnen fallen spontan zwei Fragen ein und sie fügen diese gleich ein und hinterlegen auch die Lösung.
 
