@@ -40,3 +40,7 @@ Am 16.04.14
 * Neu in PropertyInspector:
  * Seitenspezifisch: Multiple- oder Single-Choice OK
  * Auswertung: Sofort oder über Button? OK
+
+Neu ab 30.4.14
+==============
+* Play-Button in bestehende Screens einbauen
