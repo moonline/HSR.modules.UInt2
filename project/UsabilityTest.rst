@@ -80,4 +80,4 @@ Tests
 	a) Zeigen Sie Ihrer Bekannten, wie sie den Text der Draggables verändern kann.
 	b) Ihre Bekannte bittet Sie, für sie den Fragebogen aus der Sicht eines Kindes durchzuspielen und ihr Feedback zu geben.
 
-13) Eine Arbeitskollegin ruft Sie zu sich an ihren Arbeitsplatz und zeigt Ihnen ein von ihr erstelltes Modul. Sie bittet Sie, kurz das Modul zu testen und startet das Modul für Sie.
+13) Eine Arbeitskollegin ruft Sie zu sich an ihren Arbeitsplatz und zeigt Ihnen ein von ihr erstelltes Modul. Sie bittet Sie, kurz das Modul aus Sicht eines Schülers durchzuspielen. Daraufhin öffnet sie das Programm und startet den Test.
