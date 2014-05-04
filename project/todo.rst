@@ -44,19 +44,13 @@ Am 16.04.14
 Neu ab 30.4.14
 ==============
 * Play-Button in bestehende Screens einbauen
-Modul beenden im Play-Modus? Weiter ist ausgegraut. Programm offen lassen oder mit X beenden (oben rechts)?
-
-In der Beispielauswertung den Korrektur-Pfeil einfügen (blauer Pfeil)
-Blauer Pfeil auch in der Aufgabe wenn diese korrigiert wird.
-
-"Seite x/y" anstatt Pause-Button
-
-
-Auf erster Seite nicht ganz klar was zu machen ist.
-
-Formulierung "Welches Land benutzt welche Währungen?" --> impliziert mehrere Währungen
-
-
-Durchgang 1: Oussama
-Durchgang 2: Luca
+* Modul beenden im Play-Modus? Weiter ist ausgegraut. Programm offen lassen oder mit X beenden (oben rechts)?
+* In der Beispielauswertung den Korrektur-Pfeil einfügen (blauer Pfeil)
+* Blauer Pfeil auch in der Aufgabe wenn diese korrigiert wird.
+* "Seite x/y" anstatt Pause-Button
+* Auf erster Seite nicht ganz klar was zu machen ist.
+* Formulierung "Welches Land benutzt welche Währungen?" --> impliziert mehrere Währungen
+* Durchgänge
+  * Durchgang 1: Oussama
+  * Durchgang 2: Luca
 

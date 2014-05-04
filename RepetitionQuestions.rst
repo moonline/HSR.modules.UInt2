@@ -304,6 +304,79 @@ d) Gamer
 Warum muss "Design für Kinder" auch "Design für Eltern" sein?
 
 
+10 Windows Icons Menus Pointers WIMP
+====================================
 
+**10.0.1.**
+Was ist das WIMP Konzept?
+
+**10.0.2.**
+Welche Elemente umfasst ein WIMP Konzept normalerweise?
+
+**10.0.3.**
+Wie haben sich WIMP GUI's in den letzten Jahrzehnten entwickelt?
+
+**10.0.4.**
+Welche Punke waren massgeblich für den Erfolg des IBM PC gegenüber dem Apple Lisa, obwohl Apple Lisa beim UI Design die Nase vorn hatte?
+
+
+11 Informationsvisualisierung
+=============================
+
+**11.0.1.**
+Welchem Zwecke dient Informationsvisualisierung?
+
+**11.0.2.**
+Welche Charts sollten für welche Daten verwendet werden? Nach welchen Kriterien wird ausgewählt?
+
+**11.0.3.**
+Was sind Domain-Spezifische Charts?
+
+**11.0.4.**
+Was ist zu beachten bei der Formatierung der Achsen von Charts?
+
+**11.0.5.**
+Inwiefern beeinflusst der Hintergrund und den Rand die Grafik?
+
+**11.0.6.**
+Was ist eine Deltachart?
+
+**11.0.7.**
+Nennen Sie einige Massnahmen, wie ohne den Überblick zu verlieren PLatz eingespart werden kann bei Charts.
+
+**11.0.8.**
+Wie kann man hierarchische Daten darstellen?
+
+
+12 Bedürfnis Design Tipps
+=========================
+
+**12.0.1.**
+Warum ist weniger Information generell besser?
+
+**12.0.2.**
+Wie beeinflusst die Einführung von Systemen die Arbeit selbst oder das Machtgefüge?
+
+**12.0.3.**
+Nennen Sie einige Benutzerbedürfnisse in Organisation von Arbeitern und vom Management.
+
+**12.0.4.**
+Nennen Sie einige Punkte zu den folgenden Themen, die beachtet werden müssen bei der Einführung eines neuen Systems:
+
+* Normen & Regeln
+* Kommunikationskanäle
+* Organisationsprozesse
+* Motivation/Teilnahme
+* Teilnahme-Modi
+* Rollen
+
+**12.0.5.**
+Was spricht für- und gegen Automation?
+
+
+13 Plattform Design Patterns
+============================
+
+**13.0.1.**
 
 

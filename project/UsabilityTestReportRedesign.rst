@@ -57,6 +57,11 @@ Die Probleme der Aufgaben 3,4,5,6,8 und 10 konnten nicht validiert werden. Die T
 	* P15: Es ist unklar, warum die anderen Aufgabentypen überhaupt sichtbar sind  (STONE 4)
 
 
+Iteration 3
+-----------
+
+* Aufgabe 13
+
 
 Neu aufgetauchte Probleme
 =========================
@@ -81,6 +86,15 @@ v) Dialog "Neue Seite / Kapitel": Benutzer ist nicht klar, was Multiple- Singlec
 	* Mögliche Massnahme: Statt der Beschreibung unterhalb des Auswahlfeldes anzuzegen wäre ein Help-Overlay mit einem Beispielbild hilfreich
 vi) Pfeil im Seitenbrowser wird interpretiert als "Da ist noch mehr Text"
 	* Mögliche Massnahme: Pfeil entfernen
+	
+	
+Iteration 3
+-----------
+
+i) Benutzer weiss am Ende des Test's nicht, was er jetzt machen soll (Weiter ist disabled). 
+   Lösungsvorschlag: Text anzeigen "Der Test ist beendet."
+ii) Korrigieren Modus: Benutzer kann richtige Lösungen nicht einsehen. 
+    Lösungsvorschlag: Bei falschen Antworten die richtige mit einem blauen Pfeil kennzeichnen.
 
 
 Inputs
@@ -92,3 +106,7 @@ Iteration 2
 i) Multiple Choice Frageseite: Bei nur einer Spalte macht "löschen" keinen Sinn.
 
 
+Iteration 3
+-----------
+
+i) "Seite x/y" anstatt Pause-Button im Play Mode

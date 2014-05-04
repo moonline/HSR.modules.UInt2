@@ -14,14 +14,36 @@ UsabilityTest Log
 1 Testmethodik
 ==============
 
+Iteration 1
+-----------
+
 ============  ============  =====  ==========  ============  =======================  =========
 Teilnehmer #  Name          Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stage  Durchgang
 ============  ============  =====  ==========  ============  =======================  =========
 1             Luca Tännler  21     m           Informatiker  keine                    A        
-#2             N.Grögli      20     m           Informatiker  keine                    A        
-#3             J.Aeberli     20     m           Informatiker  sehr grosse              B        
+2             ?             ?      m           Informatiker  keine                    B        
 ============  ============  =====  ==========  ============  =======================  =========
 
+
+Iteration 2
+-----------
+
+============  ================  =====  ==========  ============  =======================  =========
+Teilnehmer #  Name              Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stage  Durchgang
+============  ================  =====  ==========  ============  =======================  =========
+1             Jonas Furrer      ? ~27  m           Informatiker  keine                    A        
+2             Renato Stähli     ? ~23  m           Informatiker  keine                    B        
+============  ================  =====  ==========  ============  =======================  =========
+
+Iteration 3
+-----------
+
+============  ================  =====  ==========  ============  =======================  =========
+Teilnehmer #  Name              Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stage  Durchgang
+============  ================  =====  ==========  ============  =======================  =========
+1             Z.Oussama         21     m           Informatiker  keine                    A        
+2             Luca Tännler      21     m           Informatiker  keine                    B        
+============  ================  =====  ==========  ============  =======================  =========
 
 
 2 Kontext
@@ -41,33 +63,41 @@ Der Testuser erhält ein Notebook mit installiertem Browser, Adobe Air und CLX.S
 4 Ergebnisse
 ============
 
-4.1 Übersicht
--------------
+Iteration 1
+-----------
 
-========================  =  =  =  =  =  =  =  =  =  ==  ==  ==
-Problem                   1  2  3  4  5  6  7  8  9  10  11  12
-========================  =  =  =  =  =  =  =  =  =  ==  ==  ==
-Validiert in Durchgang A  x     x  x  x  x     x     x         
-Validiert in Durchgang B           x                           
-========================  =  =  =  =  =  =  =  =  =  ==  ==  ==
+* Log: Videoaufzeichnung
+* Validierte Probleme: keine
 
 
-4.2 Validierte Probleme
------------------------
+Iteration 2
+-----------
+
+* Log: Videoaufzeichnung
+* Validierte Probleme: keine
+* Dialog "Neue Seite / Kapitel": Das Icon ist noch immer unklar für Benutzer
+	a) Das Icon wurde angepasst nach dem ersten Durchlauf (Seite mit Fragezeichen)
+	b) Das Icon wurde vom Benutzer im zweiten Durchlauf als Hilfe interpretiert
+	c) Daraufhin wurde es zu einer gewöhnlichen Seite geändert
+* Auswerte Button inkonsistente Benennung: Im Property Inspector steht "Auswerten-Button", im "Neue Seite / Kapitel" Dialog nur "Button".
+* Auswertung inkonsistente Benennung: "Feedback" und "Auswertung" werden gemischt verwendet.
+* Speichern Button wird vom Benutzer unten gesucht, da die Applikation wie eine Webapplikation wirkt.
+* Dialog "Neue Seite / Kapitel": Benutzer ist nicht klar, was Multiple- Singlechoice und Matrix ist.
+	* Mögliche Massnahme: Statt der Beschreibung unterhalb des Auswahlfeldes anzuzegen wäre ein Help-Overlay mit einem Beispielbild hilfreich
+* Pfeil im Seitenbrowser wird interpretiert als "Da ist noch mehr Text"
+	* Mögliche Massnahme: Pfeil entfernen
 
 
+Iteration 3
+-----------
 
-4.3 Nicht validierte Probleme
------------------------------
-
-Aufgabe 1 in Durchgang A
-........................
-
-Keines der Usability Probleme ist aufgetreten. Der Benutzer konnte die Aufgabe zügig und ohne Uwege erfüllen.
-
-
-4.4 Neu aufgetauchte Probleme
------------------------------
-
-
+* Log: Videoaufzeichnung
+* Validierte Probleme: keine
+* Play-Button in bestehende Screens einbauen
+* Modul beenden im Play-Modus? Weiter ist ausgegraut. Programm offen lassen oder mit X beenden (oben rechts)?
+* In der Beispielauswertung den Korrektur-Pfeil einfügen (blauer Pfeil)
+* Blauer Pfeil auch in der Aufgabe wenn diese korrigiert wird.
+* "Seite x/y" anstatt Pause-Button
+* Auf erster Seite nicht ganz klar was zu machen ist.
+* Formulierung "Welches Land benutzt welche Währungen?" --> impliziert mehrere Währungen
 
