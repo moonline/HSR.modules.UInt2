@@ -1,8 +1,9 @@
 =====
 Fazit
-======
+=====
 
-verges serum gen
-
+* Verbesserungen
+* Wichtigste Ergebnisse / Erkenntnisse
+* Wichtigste Fehler (bestätigt / nicht bestätigt / neue)
 
 
