@@ -378,5 +378,34 @@ Was spricht für- und gegen Automation?
 ============================
 
 **13.0.1.**
+Welche Rolle spielt die Begreifbarkeit bei Geräte UI's (Knöpfen)?
+
+**13.0.2.**
+Was sind Constraints in Bezug auf Geräte UI's? Erklären Sie dies anhand des Beispiels von PC Anschlüssel.
+
+**13.0.3.**
+Auf welche 5 Konzepte muss man bei der Gestaltung von Geräte UI's rücksicht nehmen?
+
+**13.0.4.**
+Was ist "Affordance durch Design"?
+
+**13.0.5.**
+Warum ist "Weniger Knöpfe ist einfacher" ein Mythos?
+
+**13.0.6.**
+Was bedeutet "Testen im Kontext" in Bezug auf Geräte UI's? Erklären Sie dies anhand des Beispiels Ticketautomat.
+
+**13.0.7.**
+Nennen Sie einige Hauptpunkte, die es zu beachten gibt bei der Usability für Geräte für Konsumenten.
+
+**13.0.8.**
+Welche Hindernisse stellen Zertifizierungen einer UI-Überarbeitung in den Weg?
+
+**13.0.9.**
+Warum sind insbesonder in der Industrie (wo manche Prozesse maschineübergreifend sind) konsistenze Geräte UI's sehr wichtig?
+
+**13.0.10.**
+
+
 
 
