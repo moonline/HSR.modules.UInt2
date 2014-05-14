@@ -5,6 +5,11 @@ Fazit
 * Verbesserungen
 * Wichtigste Ergebnisse / Erkenntnisse
 * Wichtigste Fehler (bestätigt / nicht bestätigt / neue)
+* wie weit sind wir?
+* was haben wir angeschaut der ganzen app (Ausblick)
+* lessions learned
+* Müsste man das redesign noch mal machen nachdem was wir gelernt haben bei den Tests der Redesigns?
+* Was hat sich bewährt während dem Prototyping?
 
 
 Verbesserungen
