@@ -76,22 +76,20 @@ Balsamiq Mockup
 ---------------
 Als Mockup Tool wurde "Balsamiq Mockup" verwendet. Balsamiq eignet sich gut als Mockup Tool. 
 User Interface drafts lassen sich schnell und einfach zusammenklicken. 
-Als Prototyping Tool ist Balsamiq allerdings total ungeeignet. Es lassen sich zwar Links zwischen einzelnen Mockups setzen, 
-sodass ein Navigieren zwischen Mockups möglich ist. 
-Allerdings lassen sich interaktive Elemente wie Menüs oder Formularelemente nicht bedienen.
-Somit wäre es erforderlich, das für jeden Zustand von interaktiven Elementen das Mockup kopiert und angespasst würde, 
-was überhaupt nicht sinnvoll ist.
+Als Prototyping Tool ist Balsamiq allerdings eher ungeeignet. Es lassen sich zwar Links zwischen einzelnen Mockups setzen, 
+so dass ein Navigieren zwischen Mockups möglich ist, allerdings lassen sich interaktive Elemente wie Menüs oder Formularelemente nicht bedienen.
+Somit wäre es erforderlich, dass für jeden Zustand von interaktiven Elementen das Mockup kopiert und angespasst würde, was bereits bei Änderungen am Layout sehr umfassende Anpassungen an vielen Mockups erfordert. 
 
-Will man das Mockup auch für Prototyping verwenden, so ist man mit einem HTML Mockup oder einem advanced Tool besser bedient als Balsamiq.
+Will man das Mockup auch für Prototyping verwenden, so ist man mit einem HTML Mockup oder einem anderen Tool besser bedient als Balsamiq.
 
 
 Paper Prototyping vs. Tool Prototyping
 --------------------------------------
 
 Nach unseren Erfahrungen eignet sich Paper Prototyping nur noch bedingt zum Testen von Prototypen, 
-da Paper Prototyping die heute üblichen Interaktive Elemente nicht repräsentativ wiedergeben kann.
+da Paper Prototyping die heute üblichen interaktiven Elemente nicht repräsentativ wiedergeben kann.
 Insbesondere Scroll-Elemente, Hover- und Active-Zustände, Markierungen, 
-Animationen und interaktive Statussmbole können durch Paper Prototypes nur mit sehr grossem Aufwand ansatzweise abgedeckt werden.
+Animationen und interaktive Statussymbole können durch Paper Prototypes gar nicht oder nur mit sehr grossem Aufwand ansatzweise abgedeckt werden.
 
 
 
