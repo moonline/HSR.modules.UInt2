@@ -2,8 +2,8 @@
 Fazit
 =====
 
-* wie weit sind wir?
-* was haben wir angeschaut der ganzen app (Ausblick)
+* Wie weit sind wir?
+* Was haben wir angeschaut der ganzen app (Ausblick)
 * Verbesserungen
 * Wichtigste Ergebnisse / Erkenntnisse
 * Wichtigste Fehler (bestätigt / nicht bestätigt / neue)
