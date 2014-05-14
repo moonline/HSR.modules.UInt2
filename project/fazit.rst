@@ -3,11 +3,11 @@ Fazit
 =====
 
 * Wie weit sind wir?
-* Was haben wir angeschaut der ganzen app (Ausblick)
+* Was haben wir angeschaut in der ganzen App (Ausblick)
 * Verbesserungen
 * Wichtigste Ergebnisse / Erkenntnisse
 * Wichtigste Fehler (bestätigt / nicht bestätigt / neue)
-* lessions learned
+* Lessions learned
 * Müsste man das redesign noch mal machen nachdem was wir gelernt haben bei den Tests der Redesigns?
 * Was hat sich bewährt während dem Prototyping?
 
@@ -15,13 +15,13 @@ Projektstand
 ============
 
 Im Rahmen des Projektes wurden drei Redesigns für CLX.Stage durchgeführt. 
-Dabei wurden die Hauptbereiche von CLX.Stage überarbeitet:
+Dabei wurden Teile der Hauptbereiche von CLX.Stage überarbeitet:
 
 * Modul- und Seitenverwaltung
 * Editor für Inhalte und Fragen
 * Play-Modus
 
-Die durchgeführten Redesigns decken die wichtigsten Teile von CLX.Stage ab. 
+Die durchgeführten Redesigns decken einige wichtige Teile von CLX.Stage ab. 
 Bereiche wie z.B. das Management von Vorlagen wurden nicht überarbeitet, 
 da das Primärziel des Redesigns die Verbesserung der User Experience für den Endanwender war.
 
@@ -74,11 +74,11 @@ durchgeführt werden, alle Einstellungen befinden sich in der Sidebaar.
 Usability Test Resultate
 ========================
 
-Die Resultate der Usability Tests zeigten, das das neue UI die Probleme des alten UI's behoben.
+Die Resultate der Usability Tests zeigten, dass das neue UI die Probleme des alten UIs behoben.
 Keiner der Tester scheiterte in seinem Auftrag. Alle konnten ihr Ziel erreichen.
 
 Während den Tests sind auch einige verbesserungswürdige Punkte aufgetaucht. 
-So enthielt das neue UI einige Icons, welche die Benutzer verwirrten.
+So enthielt das neu entwickelte UI einige Icons, welche die Benutzer verwirrten (Box mit Checkmark wurde als interaktive Checkbox anstatt als Symbol für eine Aufgabe interpretiert).
 
 Auch über den Systemstatus waren sich die Benutzer nicht immer im klaren. Dies ist vor allem auf 
 die Unterschiede des Papier-Prototyp gegenüber einem richtigen UI zurückzuführen, da der Papier-Prototyp 
@@ -94,51 +94,54 @@ Tools & Support
 Balsamiq Mockup
 ---------------
 
-Als Mockup Tool wurde "Balsamiq Mockup" verwendet. Balsamiq eignet sich gut als Mockup Tool. 
-User Interface drafts lassen sich schnell und einfach zusammenklicken. 
-Als Prototyping Tool ist Balsamiq allerdings eher ungeeignet. Es lassen sich zwar Links zwischen einzelnen Mockups setzen, 
+Als Mockup-Tool wurde "Balsamiq Mockups" verwendet.
+Drafts für User Interfaces lassen sich schnell und einfach zusammenklicken und es bietet viele vorgefertigte Elemente mit Möglichkeit, Icons aus einer kleinen aber gut ausgewählten Bibliothek auszuwählen. Teilweise stösst man aber schnell an die Grenzen des Tools und muss entweder aus anderen Objekten das gewünschte Element zusammensetzen oder es in einem Bildeditor erstellen und dann als Image in Balsamiq importieren.
+Als Prototyping Tool ist Balsamiq eher ungeeignet. Es lassen sich zwar Links zwischen einzelnen Mockups setzen, 
 so dass ein Navigieren zwischen Mockups möglich ist, allerdings lassen sich interaktive Elemente wie Menüs oder Formularelemente nicht bedienen.
 Somit wäre es erforderlich, dass für jeden Zustand von interaktiven Elementen das Mockup kopiert und angespasst würde, was bereits bei Änderungen am Layout sehr umfassende Anpassungen an vielen Mockups erfordert. 
 
-Will man das Mockup auch für Prototyping verwenden, so ist man mit einem HTML Mockup oder einem anderen Tool besser bedient als Balsamiq.
+Will man das Mockup auch für Prototyping verwenden, so ist man je nach Projekt mit einem HTML-Mockup oder einem anderen Tool besser bedient als Balsamiq.
 
 
 Paper Prototyping vs. Tool Prototyping
 --------------------------------------
 
-Nach unseren Erfahrungen eignet sich Paper Prototyping nur noch bedingt zum Testen von Prototypen, 
-da Paper Prototyping die heute üblichen interaktiven Elemente nicht repräsentativ wiedergeben kann.
-Insbesondere Scroll-Elemente, Hover- und Active-Zustände, Markierungen, 
-Animationen und interaktive Statussymbole können durch Paper Prototypes gar nicht oder nur mit sehr grossem Aufwand ansatzweise abgedeckt werden.
+Nach unseren Erfahrungen eignet sich Paper Prototyping nur noch bedingt zum Testen von Prototypen, da Paper Prototyping die heute üblichen interaktiven Elemente nicht repräsentativ wiedergeben kann.
+Insbesondere Scroll-Elemente, Hover- und Active-Zustände, Markierungen, Animationen und interaktive Statussymbole können durch Paper Prototypes gar nicht oder nur mit sehr grossem Aufwand ansatzweise abgedeckt werden.
 
 
 Vorgehen
 ========
 
-Vorgegangen sind wir in Iterationen, um Erkenntnisse aus den ersten Redesigns und Usability 
-Tests in spätere einfliessen lassen zu können. Vorgegangen sind wir jeweils auf die gleiche Art: 
+Vorgegangen sind wir in Iterationen, um Erkenntnisse aus den ersten Redesigns und Usability-Tests in spätere einfliessen lassen zu können. Dabei folgten wir jeweils dem gleichen Schema: 
 
-1) Definieren des Ziels des Users
-2) Entwerfen/Diskutieren eines Workflows dafür
-3) Umsetzen des Workflows als Mockups
-4) Testen des Workflows im Rahmen des Usability Tests.
-
-
-Dieses Vorgehen hat sich bewährt für alle Redesigns.
+1) Definieren des Userziels
+2) Entwerfen/Diskutieren eines passenden Workflows
+3) Umsetzen als Mockups
+4) Testen im Rahmen des Usability-Tests.
 
 
-Erkenntnisse
-============
+Dieses Vorgehen hat sich für alle Redesigns bewährt.
+
+
+Erkenntnisse ("Lessons Learned")
+================================
 
 * Balsamiq Mockup eignet sich zwar gut für Mockups, nicht jedoch für Prototyping Tests
-* Wird der neue Workflow anhand des Benutzer Ziels und nicht anhand der Lösung in der alten Software
-  Entworfen, so ist der Workflow mit grosser Wahrscheinlichkeit einfacher und verständlicher
+* Wird ein neuer Workflow anhand des Benutzerziele und nicht so dass es irgendwie in eine bestehende Lösung passt entworfen, so ist der Workflow mit grosser Wahrscheinlichkeit einfacher und verständlicher
 * Paper Prototyping eignet sich für moderne Applikationen nicht mehr, da es grosse Differenzen zum
   Verhalten und der User Experience der realen Applikation gibt
 * Paper Prototyping ist sehr aufwendig und zeitintensiv
-* Aufbau des Usability Tests, insbesondere der Videoaufnahme ausserhalb eines Usability Labors ist
-  eine komplizierte Angelegenheit und erforder Improvisation
-* Die Usability Tests haben vor Allem kleine Unstimmigkeiten des Redesigns hervorgebracht wie z.B.
-  unpassend ausgewählte Icons. Ansonsten war das Redesign ein voller Erfolg.
-  
-  
+* Aufbau des Usability Tests, insbesondere der Videoaufnahme ausserhalb eines Usability-Labors ist
+  eine komplizierte Angelegenheit und erfordert Improvisation
+* Die Usability-Tests haben vor allem kleine Unstimmigkeiten des Redesigns hervorgebracht wie z.B.
+  unpassend gewählte Icons. Ansonsten war das Redesign ein voller Erfolg.
+* Mit bereits relativ wenig Aufwand kann ein Produkt mit suboptimaler UX deutlich verbessert werden.
+* Um allzu aufwendiges "Basteln" zu verhindern kann mit zugeschnittenen Post-Its eine vordefinierte Schreibfläche erzeugt werden, welche nach Gebrauch schnell ausgewechselt werden können und nicht einen neuen Ausdruck benötigt. Dies kann aber dazu führen, dass User nur auf die "gelben Zettel" achten und sonstige Interaktionselemente ausser Acht lassen.
+
+
+Ausblick
+========
+
+Nach Abschluss der Projektes werden die Ergebnisse und Vorschläge für neue UIs den Verantwortlichen bei Crealogix präsentiert. Ob und wann die Resultate in das Produkt einfliessen steht nicht in der Macht des Projektteams.
+Es wäre aber durchaus interessant, Features, welche seit Beginn des Projekts wieder hinzugekommen sind, in die neuen Designs zu integrieren. Der Timing-Inspector bietet sich hier an, welcher eine "Zeitachse" einführt. Hier wurde aber entschieden, über sogenannte Steps auf der Zeitachse voranzuschreiten, was unserer Meinung nach nicht sehr benutzerfreundlich ist.
