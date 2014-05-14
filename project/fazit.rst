@@ -67,3 +67,33 @@ komplexe Zustände wie Selektion, Hover oder die Unterscheidung Icons/Buttons/Fo
 immer verwechslungsfrei wiedergab.
 
 Auf das Redesign zurückzuführende Probleme wurden für den finalen UI-Entwurf noch korrigiert.
+
+
+Tools & Support
+===============
+
+Balsamiq Mockup
+---------------
+Als Mockup Tool wurde "Balsamiq Mockup" verwendet. Balsamiq eignet sich gut als Mockup Tool. 
+User Interface drafts lassen sich schnell und einfach zusammenklicken. 
+Als Prototyping Tool ist Balsamiq allerdings total ungeeignet. Es lassen sich zwar Links zwischen einzelnen Mockups setzen, 
+sodass ein Navigieren zwischen Mockups möglich ist. 
+Allerdings lassen sich interaktive Elemente wie Menüs oder Formularelemente nicht bedienen.
+Somit wäre es erforderlich, das für jeden Zustand von interaktiven Elementen das Mockup kopiert und angespasst würde, 
+was überhaupt nicht sinnvoll ist.
+
+Will man das Mockup auch für Prototyping verwenden, so ist man mit einem HTML Mockup oder einem advanced Tool besser bedient als Balsamiq.
+
+
+Paper Prototyping vs. Tool Prototyping
+--------------------------------------
+
+Nach unseren Erfahrungen eignet sich Paper Prototyping nur noch bedingt zum Testen von Prototypen, 
+da Paper Prototyping die heute üblichen Interaktive Elemente nicht repräsentativ wiedergeben kann.
+Insbesondere Scroll-Elemente, Hover- und Active-Zustände, Markierungen, 
+Animationen und interaktive Statussmbole können durch Paper Prototypes nur mit sehr grossem Aufwand ansatzweise abgedeckt werden.
+
+
+
+
+
