@@ -2,14 +2,28 @@
 Fazit
 =====
 
+* wie weit sind wir?
+* was haben wir angeschaut der ganzen app (Ausblick)
 * Verbesserungen
 * Wichtigste Ergebnisse / Erkenntnisse
 * Wichtigste Fehler (bestätigt / nicht bestätigt / neue)
-* wie weit sind wir?
-* was haben wir angeschaut der ganzen app (Ausblick)
 * lessions learned
 * Müsste man das redesign noch mal machen nachdem was wir gelernt haben bei den Tests der Redesigns?
 * Was hat sich bewährt während dem Prototyping?
+
+Projektstand
+============
+
+Im Rahmen des Projektes wurden drei Redesigns für CLX.Stage durchgeführt. 
+Dabei wurden die Hauptbereiche von CLX.Stage überarbeitet:
+
+* Modul- und Seitenverwaltung
+* Editor für Inhalte und Fragen
+* Play-Modus
+
+Die durchgeführten Redesigns decken die wichtigsten Teile von CLX.Stage ab. 
+Bereiche wie z.B. das Management von Vorlagen wurden nicht überarbeitet, 
+da das Primärziel des Redesigns die Verbesserung der User Experience für den Endanwender war.
 
 
 Verbesserungen
@@ -79,6 +93,7 @@ Tools & Support
 
 Balsamiq Mockup
 ---------------
+
 Als Mockup Tool wurde "Balsamiq Mockup" verwendet. Balsamiq eignet sich gut als Mockup Tool. 
 User Interface drafts lassen sich schnell und einfach zusammenklicken. 
 Als Prototyping Tool ist Balsamiq allerdings eher ungeeignet. Es lassen sich zwar Links zwischen einzelnen Mockups setzen, 
@@ -97,6 +112,33 @@ Insbesondere Scroll-Elemente, Hover- und Active-Zustände, Markierungen,
 Animationen und interaktive Statussymbole können durch Paper Prototypes gar nicht oder nur mit sehr grossem Aufwand ansatzweise abgedeckt werden.
 
 
+Vorgehen
+========
+
+Vorgegangen sind wir in Iterationen, um Erkenntnisse aus den ersten Redesigns und Usability 
+Tests in spätere einfliessen lassen zu können. Vorgegangen sind wir jeweils auf die gleiche Art: 
+
+1) Definieren des Ziels des Users
+2) Entwerfen/Diskutieren eines Workflows dafür
+3) Umsetzen des Workflows als Mockups
+4) Testen des Workflows im Rahmen des Usability Tests.
 
 
+Dieses Vorgehen hat sich bewährt für alle Redesigns.
 
+
+Erkenntnisse
+============
+
+* Balsamiq Mockup eignet sich zwar gut für Mockups, nicht jedoch für Prototyping Tests
+* Wird der neue Workflow anhand des Benutzer Ziels und nicht anhand der Lösung in der alten Software
+  Entworfen, so ist der Workflow mit grosser Wahrscheinlichkeit einfacher und verständlicher
+* Paper Prototyping eignet sich für moderne Applikationen nicht mehr, da es grosse Differenzen zum
+  Verhalten und der User Experience der realen Applikation gibt
+* Paper Prototyping ist sehr aufwendig und zeitintensiv
+* Aufbau des Usability Tests, insbesondere der Videoaufnahme ausserhalb eines Usability Labors ist
+  eine komplizierte Angelegenheit und erforder Improvisation
+* Die Usability Tests haben vor Allem kleine Unstimmigkeiten des Redesigns hervorgebracht wie z.B.
+  unpassend ausgewählte Icons. Ansonsten war das Redesign ein voller Erfolg.
+  
+  
