@@ -54,31 +54,33 @@ Der Benutzer muss nicht mehr technische Unterscheidungen treffen, die ihn mögli
 
 .. figure:: redesignedScreens/Dialog.NewPageContent_cropped.png
 
-   Redesign "Neue Seite erstellen"
+   Redesign "Neue Seite erstellen" mittels Assistent
 
-Insbesondere die Unterscheidung der einzelnen Fragetypen stellte Benutzer vor enorme 
-Herausforderungen, da sie z.T. den Unterschied zwischen den einzelnen Fragetypen gar 
-nicht verstanden. Neu passen sich die Fragetypen automatisch der Auswahl des Benutzers an, 
-sodass er sich nicht im Voraus festlegen muss.
+Insbesondere die Unterscheidung der einzelnen Fragetypen stellte Benutzer vor enorme Herausforderungen, da sie z.T. den Unterschied zwischen den einzelnen Fragetypen gar nicht verstanden. Neu passen sich die Fragetypen automatisch der Auswahl des Benutzers an, sodass er sich nicht im Voraus festlegen muss.
 
 
 Inhalte Erstellen
 -----------------
 
-Einstellungen für die Seite und Eigenschaften von Inhaltselementen waren bei CLX.Stage an 
-verschiedenen Orten untergebracht: Eigenschaften von Inhaltselementen in einer Toolbar 
-oberhalb der Seite und Seiteneigenschaften sowie Einstellungen zu den Fragetypen in einer Sidebar. 
-Der Benutzer musste genau wissen, was er wo findet. Neu befinden sich alle 
-Eigenschaften in einer Sidebar und werden abhängig vom ausgewählten Element und dem aktiven Kontext angezeigt.
+Einstellungen für die Seite und Eigenschaften von Inhaltselementen waren bei CLX.Stage an verschiedenen Orten untergebracht: Eigenschaften von Inhaltselementen in einer Toolbar oberhalb der Seite und Seiteneigenschaften sowie Einstellungen zu den Fragetypen in einer Sidebar. 
+Der Benutzer musste genau wissen, was er wo findet. Neu befinden sich alle Eigenschaften in einer Sidebar und werden abhängig vom ausgewählten Element und dem aktiven Kontext angezeigt.
 
-Insbesondere das Erstellen und Bearbeiten von Fragen war für Benutzer ziemlich unverständlich, 
+.. figure:: stepScreens/3.1.3_8_2.Aufgaben_Reiter.png
+
+   Altes Design der Property Inspectors
+
+.. figure:: redesignedScreens/PropertyInspector_cropped.png
+
+   Redesign Property Inspector
+
+Besonders das Erstellen und Bearbeiten von Fragen war für Benutzer ziemlich unverständlich, 
 da die Editoren oft Elemente anzeigten, die der Benutzer gar nicht brauchte. 
 Zudem war oft nicht klar, wo eine bestimmte Aktion zu finden war. 
 Neu können einfache Operationen wie das Hinzufügen von Antworten inline im Element 
 durchgeführt werden, alle Einstellungen befinden sich in der Sidebar.
 
 
-Usability Test Resultate
+Usability-Test Resultate
 ========================
 
 Die Resultate der Usability Tests zeigten, dass das neue UI die Probleme des alten UIs behoben.
