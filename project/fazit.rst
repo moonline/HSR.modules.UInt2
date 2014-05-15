@@ -118,6 +118,9 @@ Somit wäre es erforderlich, dass für jeden Zustand von interaktiven Elementen 
 
 Will man das Mockup auch für Prototyping verwenden, so ist man je nach Projekt mit einem HTML-Mockup oder einem anderen Tool besser bedient als Balsamiq.
 
+.. figure:: img/BalsamiqAtWork.png
+
+   Balsamiq Mockups im Einsatz
 
 Paper Prototyping vs. Tool Prototyping
 --------------------------------------
