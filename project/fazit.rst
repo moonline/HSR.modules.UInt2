@@ -135,9 +135,16 @@ Vorgegangen sind wir in Iterationen, um Erkenntnisse aus den ersten Redesigns un
 
 Dieses Vorgehen hat sich für alle Redesigns bewährt.
 
+
 .. figure:: img/Versuchsaufbau.png
 
    Versuchsaufbau beim Testing.
+
+Es wurden 2 Versuche mit dem alten Design und 7 Versuche mit den redesignten Teilen gemacht. Die Versuche wurden auf Video aufgezeichnet.
+
+.. figure:: img/UsabilityTestVideoFrame1.jpg
+
+   Frame einer Aufzeichnung eines Usability-Tests
 
 Erkenntnisse ("Lessons Learned")
 ================================
