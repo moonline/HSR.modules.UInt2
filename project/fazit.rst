@@ -10,6 +10,7 @@ Fazit
 * Lessions learned
 * Müsste man das redesign noch mal machen nachdem was wir gelernt haben bei den Tests der Redesigns?
 * Was hat sich bewährt während dem Prototyping?
+* Foto Projektaufbau & Screenshots
 
 Projektstand
 ============
