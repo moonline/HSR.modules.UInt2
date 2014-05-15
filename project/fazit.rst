@@ -47,9 +47,11 @@ Insbesondere nach dem Start zeigte CLX.Stage dem Benutzer alle Controls der Appl
 obwohl dieser noch keine Seiten angelegt oder geladen hatte und entsprechend die Controls für Inhalte nicht 
 benutzen konnte.
 
-Das Erstellen von Kapiteln und Seiten wurde in einem Assistenten zusammengefasst. 
-Der Benutzer muss nicht mehr technische Unterscheidungen treffen, 
-die ihn möglicherweise verwirren, sondern wählt im Assistent aus, was er benötigt. Zusätzlich wird hier dem Benutzer neu die Möglichkeit angeboten, verschiedene Beispielinhalte in die Seiten einzufügen oder nicht. Bisher wurde immer ein Beispielinhalt erstellt, was für erfahrene Benutzer eine Hürde darstellt, da jedes Mal der Inhalt gelöscht werden musste.
+Das Erstellen von Kapiteln und Seiten wurde in einem Assistenten zusammengefasst.
+Der Benutzer muss nicht mehr technische Unterscheidungen treffen, die ihn möglicherweise verwirren, sondern wählt im Assistent aus, was er benötigt. Zusätzlich wird hier dem Benutzer neu die Möglichkeit angeboten, verschiedene Beispielinhalte in die Seiten einzufügen oder nicht. Bisher wurde immer ein Beispielinhalt erstellt, was für erfahrene Benutzer eine Hürde darstellt, da jedes Mal der Inhalt gelöscht werden musste.
+
+.. figure:: redesignedScreens/Dialog.NewPageContent_cropped.png
+UNTERSCHRIFT: Redesign "Neue Seite erstellen"
 
 Insbesondere die Unterscheidung der einzelnen Fragetypen stellte Benutzer vor enorme 
 Herausforderungen, da sie z.T. den Unterschied zwischen den einzelnen Fragetypen gar 
