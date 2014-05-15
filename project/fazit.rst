@@ -2,15 +2,15 @@
 Fazit
 =====
 
-* Wie weit sind wir?
-* Was haben wir angeschaut in der ganzen App (Ausblick)
-* Verbesserungen
-* Wichtigste Ergebnisse / Erkenntnisse
-* Wichtigste Fehler (bestätigt / nicht bestätigt / neue)
-* Lessions learned
-* Müsste man das redesign noch mal machen nachdem was wir gelernt haben bei den Tests der Redesigns?
-* Was hat sich bewährt während dem Prototyping?
-* Foto Projektaufbau & Screenshots
+.. * Wie weit sind wir?
+.. * Was haben wir angeschaut in der ganzen App (Ausblick)
+.. * Verbesserungen
+.. * Wichtigste Ergebnisse / Erkenntnisse
+.. * Wichtigste Fehler (bestätigt / nicht bestätigt / neue)
+.. * Lessions learned
+.. * Müsste man das redesign noch mal machen nachdem was wir gelernt haben bei den Tests der Redesigns?
+.. * Was hat sich bewährt während dem Prototyping?
+.. * Foto Projektaufbau & Screenshots
 
 Projektstand
 ============
@@ -23,12 +23,15 @@ Dabei wurden Teile der Hauptbereiche von CLX.Stage überarbeitet:
 * Play-Modus
 
 Die durchgeführten Redesigns decken einige wichtige Teile von CLX.Stage ab. 
-Bereiche wie z.B. das Management von Vorlagen wurden nicht überarbeitet, 
-da das Primärziel des Redesigns die Verbesserung der User Experience für den Endanwender war.
+Bereiche wie z.B. das Management von Vorlagen, das Hinzufügen zusätzlicher Elemente oder komplexere Seiten wie Drag'n'Drop wurden nicht überarbeitet, da das Primärziel des Redesigns die Verbesserung der User Experience für den Endanwender war und der Umfang dem Zeitplan entsprechen musste.
 
 .. figure:: stepScreens/3.1.3_5.alle_texte_geaendert.png
 
    Eine typische Ansicht in CLX.Stage.
+
+.. figure:: redesignedScreens/mainView.ExampleContent.Capitols.png
+
+   Eine ähnliche Situation mit dem neuen Design.
 
 Verbesserungen
 ==============
@@ -37,65 +40,66 @@ Modul / Seiten erstellen
 ------------------------
 
 Die komplexen und für den Benutzer teilweise unverständlichen Vorgänge zum Erstellen eines neuen 
-Modules konnte mit einem massiv verbesserten Prozess ersetzt werden, 
-welcher den Benutzer verständlich führt, ihm jedoch auch die Möglichkeiten offen lässt, abzukürzen.
+Modules konnte durch einen verbesserten Prozess ersetzt werden, welcher den Benutzer führt, ihm jedoch auch die Möglichkeiten offen lässt, den Vorgang abzukürzen.
+Eine grosse Schwachstelle im alten Design war, dass man sich nach dem Start des Programms auf einem leeren Schirm wiederfand und keine klaren nächsten Schritte vor Augen hatte.
 
-Weiterhin konnte der Benutzer bisher in Abläufen Elemente auswählen, welche im aktiven Kontext keinen Sinn ergaben, was im besten Fall zu Fehlermeldungen führte, teilweise aber dem User nicht gemeldet wurde. Neu werden dem Benutzer nur noch Elemente angezeigt, 
-die er auch wirklich benutzen kann.
+.. figure:: redesignedScreens/Screen.Start_cropped.png
 
-Dem Benutzer werden nur noch die Controls und Informationen angezeigt, 
-die er wirklich benötigt und die er auch benutzen kann. 
-Insbesondere nach dem Start zeigte CLX.Stage dem Benutzer alle Controls der Applikation, 
-obwohl dieser noch keine Seiten angelegt oder geladen hatte und entsprechend die Controls für Inhalte nicht 
-benutzen konnte.
+   Der neue Startscreen mit Schnellzugriff auf zuletzt geöffnete Module und der Möglichkeit, schnell neue Module zu erstellen.
+
+Weiterhin konnte der Benutzer bisher in bestimmten Abläufen Elemente auswählen, welche im aktiven Kontext keinen Sinn ergaben.
+Dies führte im besten Fall zu Fehlermeldungen, wurde aber teilweise dem User nicht gemeldet. Neu werden dem Benutzer nur noch Elemente angezeigt, die er auch wirklich benutzen kann.
+
+Ebenfalls werden dem Benutzer nur noch die Controls und Informationen angezeigt, die er benötigt.
+So zeigte CLX.Stage dem Benutzer nach dem Start einige Controls (z.B. den Button für den Property Inspector) der Applikation, obwohl noch keine Seiten angelegt oder geladen wurd und entsprechend die Controls für Inhalte nicht benutzt werden können.
 
 Das Erstellen von Kapiteln und Seiten wurde in einem Assistenten zusammengefasst.
-Der Benutzer muss nicht mehr technische Unterscheidungen treffen, die ihn möglicherweise verwirren, sondern wählt im Assistent aus, was er benötigt. Zusätzlich wird hier dem Benutzer neu die Möglichkeit angeboten, verschiedene Beispielinhalte in die Seiten einzufügen oder nicht. Bisher wurde immer ein Beispielinhalt erstellt, was für erfahrene Benutzer eine Hürde darstellt, da jedes Mal der Inhalt gelöscht werden musste.
+Der Benutzer muss nicht mehr technische Unterscheidungen treffen, die ihn möglicherweise verwirren, sondern wählt im Assistent aus, was er benötigt. Zusätzlich wird hier dem Benutzer neu die Möglichkeit angeboten, verschiedene Beispielinhalte in die Seiten einzufügen oder nicht. Bisher wurde immer ein Beispielinhalt erstellt, was für erfahrene Benutzer eine Hürde darstellt, da jedes Mal der Inhalt gelöscht werden musste. Die Auswahl wird gespeichert, so dass ein Anfänger zu Beginn einen Beispielinhalt erhält, so dass er ein Gefühl für den Aufbau einer Seite erhält, später kann er diese Einstellung jedoch einfach deaktivieren und das Löschen umgehen.
 
 .. figure:: redesignedScreens/Dialog.NewPageContent_cropped.png
 
    Redesign "Neue Seite erstellen" mittels Assistent
-
-Insbesondere die Unterscheidung der einzelnen Fragetypen stellte Benutzer vor enorme Herausforderungen, da sie z.T. den Unterschied zwischen den einzelnen Fragetypen gar nicht verstanden. Neu passen sich die Fragetypen automatisch der Auswahl des Benutzers an, sodass er sich nicht im Voraus festlegen muss.
 
 
 Inhalte Erstellen
 -----------------
 
 Einstellungen für die Seite und Eigenschaften von Inhaltselementen waren bei CLX.Stage an verschiedenen Orten untergebracht: Eigenschaften von Inhaltselementen in einer Toolbar oberhalb der Seite und Seiteneigenschaften sowie Einstellungen zu den Fragetypen in einer Sidebar. 
-Der Benutzer musste genau wissen, was er wo findet. Neu befinden sich alle Eigenschaften in einer Sidebar und werden abhängig vom ausgewählten Element und dem aktiven Kontext angezeigt und der Button für 
+Der Benutzer musste genau wissen, was er wo findet. Neu befinden sich alle Eigenschaften in der Sidebar und werden abhängig vom ausgewählten Element und dem aktiven Kontext angezeigt. Es macht keinen Sinn, die Controls für Textformatierung anzuzeigen, wenn der Benutzer ein Bild markiert hat.
 
 .. figure:: redesignedScreens/PropertyInspector_comparison.png
 
    Altes und neues Design Property Inspector
 
 Zudem wurde noch eine Suche angedacht, welche die Bezeichnungen der verschiedenen Eigenschaften durchsucht und passende Elemente anzeigt. Wird etwa nach "Unterstreichen" gesucht, wird automatisch der Bereich "Textformatierung" angezeigt und der Button zum Unterstreichen von Text hervorgehoben.
+Diese Suche war aber nicht Bestandteil der Usability-Tests.
 
 .. figure:: redesignedScreens/PropertyInspector_searchFunction.png
 
    Suchfunktion im Property Inspector.
 
-
-Besonders das Erstellen und Bearbeiten von Fragen war für Benutzer ziemlich unverständlich, 
-da die Editoren oft Elemente anzeigten, die der Benutzer gar nicht brauchte. 
-Zudem war oft nicht klar, wo eine bestimmte Aktion zu finden war. 
-Neu können einfache Operationen wie das Hinzufügen von Antworten inline im Element 
+Das Erstellen und Bearbeiten von Fragen war für Benutzer ziemlich unverständlich, da die Editoren oft Elemente anzeigten, die der Benutzer gar nicht brauchte. 
+Zudem war oft nicht klar, wo eine bestimmte Aktion zu finden war. Neu können einfache Operationen wie das Hinzufügen von Antworten inline im Element 
 durchgeführt werden, alle Einstellungen befinden sich in der Sidebar.
 
+.. figure:: redesignedScreens/mainView.Player.Textpage_comparison.png
+
+   Setzen von richtigen Antworten vor und nach dem Redesign.
 
 Usability-Test Resultate
 ========================
 
-Die Resultate der Usability Tests zeigten, dass das neue UI die Probleme des alten UIs behoben.
-Keiner der Tester scheiterte in seinem Auftrag. Alle konnten ihr Ziel erreichen.
+Die Resultate der Usability Tests zeigten, dass das neue UI die Probleme des alten UIs behob.
+Keiner der Tester scheiterte in seinem Auftrag. Alle konnten die ihnen gestellten Ziele erreichen.
 
-Während den Tests sind auch einige verbesserungswürdige Punkte aufgetaucht. 
+.. figure:: img/UsabilityTestVideoFrame1.jpg
+
+   Usability-Test am Paper-Prototyp
+
+Während den Tests sind auch einige verbesserungswürdige Punkte am Redesign aufgetaucht. 
 So enthielt das neu entwickelte UI einige Icons, welche die Benutzer verwirrten (Box mit Checkmark wurde als interaktive Checkbox anstatt als Symbol für eine Aufgabe interpretiert).
 
-Auch über den Systemstatus waren sich die Benutzer nicht immer im klaren. Dies ist vor allem auf 
-die Unterschiede des Papier-Prototyp gegenüber einem richtigen UI zurückzuführen, da der Papier-Prototyp 
-komplexe Zustände wie Selektion, Hover oder die Unterscheidung Icons/Buttons/Formularelemente nicht
-immer verwechslungsfrei wiedergab.
+Auch über den Systemstatus waren sich die Benutzer nicht immer im klaren. Dies ist vor allem auf die Unterschiede des Papier-Prototyp gegenüber einem richtigen UI zurückzuführen, da der Papier-Prototyp komplexe Zustände wie Selektion, Hover oder die Unterscheidung Icons/Buttons/Formularelemente nicht immer verwechslungsfrei wiedergab.
 
 Auf das Redesign zurückzuführende Probleme wurden für den finalen UI-Entwurf noch korrigiert.
 
@@ -125,26 +129,18 @@ Insbesondere Scroll-Elemente, Hover- und Active-Zustände, Markierungen, Animati
 Vorgehen
 ========
 
-Vorgegangen sind wir in Iterationen, um Erkenntnisse aus den ersten Redesigns und Usability-Tests in spätere einfliessen lassen zu können. Dabei folgten wir jeweils dem gleichen Schema: 
+Entwickelt wurde in Iterationen, um Erkenntnisse aus den ersten Redesigns und Usability-Tests in spätere einfliessen lassen zu können. Dabei folgten wir jeweils dem gleichen Schema: 
 
-1) Definieren des Userziels
+1) Definieren des Userziels für den jeweiligen Bereich
 2) Entwerfen/Diskutieren eines passenden Workflows
 3) Umsetzen als Mockups
 4) Testen im Rahmen des Usability-Tests.
 
-
 Dieses Vorgehen hat sich für alle Redesigns bewährt.
-
 
 .. figure:: img/Versuchsaufbau.png
 
    Versuchsaufbau beim Testing.
-
-Es wurden 2 Versuche mit dem alten Design und 7 Versuche mit den redesignten Teilen gemacht. Die Versuche wurden auf Video aufgezeichnet.
-
-.. figure:: img/UsabilityTestVideoFrame1.jpg
-
-   Frame einer Aufzeichnung eines Usability-Tests
 
 Erkenntnisse ("Lessons Learned")
 ================================
@@ -159,11 +155,11 @@ Erkenntnisse ("Lessons Learned")
 * Die Usability-Tests haben vor allem kleine Unstimmigkeiten des Redesigns hervorgebracht wie z.B.
   unpassend gewählte Icons. Ansonsten war das Redesign ein voller Erfolg.
 * Mit bereits relativ wenig Aufwand kann ein Produkt mit suboptimaler UX deutlich verbessert werden.
-* Um allzu aufwendiges "Basteln" zu verhindern kann mit zugeschnittenen Post-Its eine vordefinierte Schreibfläche erzeugt werden, welche nach Gebrauch schnell ausgewechselt werden können und nicht einen neuen Ausdruck benötigt. Dies kann aber dazu führen, dass User nur auf die "gelben Zettel" achten und sonstige Interaktionselemente ausser Acht lassen.
+* Um allzu aufwendiges "Basteln" zu verhindern, kann mit zugeschnittenen Post-Its eine vordefinierte Schreibfläche erzeugt werden, welche nach Gebrauch schnell ausgewechselt werden können und nicht einen neuen Ausdruck benötigt. Dies kann aber dazu führen, dass User nur auf die "gelben Zettel" achten und sonstige Interaktionselemente ausser Acht lassen.
 
 
 Ausblick
 ========
 
-Nach Abschluss der Projektes werden die Ergebnisse und Vorschläge für neue UIs den Verantwortlichen bei Crealogix präsentiert. Ob und wann die Resultate in das Produkt einfliessen steht nicht in der Macht des Projektteams.
+Nach Abschluss der Projektes werden die Ergebnisse und Vorschläge für neue UIs den Verantwortlichen bei Crealogix präsentiert. Ob und wann die Resultate in das Produkt einfliessen, steht nicht in der Macht des Projektteams.
 Es wäre aber durchaus interessant, Features, welche seit Beginn des Projekts wieder hinzugekommen sind, in die neuen Designs zu integrieren. Der Timing-Inspector bietet sich hier an, welcher eine "Zeitachse" einführt. Hier wurde aber entschieden, über sogenannte Steps auf der Zeitachse voranzuschreiten, was unserer Meinung nach nicht sehr benutzerfreundlich ist.
