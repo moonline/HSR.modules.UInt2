@@ -1,0 +1,158 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1398" measuredH="726" mockupW="1284" mockupH="690">
+  <controls>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TitleWindow" x="114" y="45" w="757" h="454" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>49</bottomheight>
+        <close>true</close>
+        <dragger>true</dragger>
+        <text>Neue%20Seite%20/%20Kapitel</text>
+        <topheight>30</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::SearchBox" x="129" y="85" w="360" h="-1" measuredW="120" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filtern</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::FieldSet" x="512" y="116" w="343" h="270" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Optionen</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::ComboBox" x="615" y="182" w="200" h="-1" measuredW="177" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>nach%20ausgew%E4hlter%20Seite%0Avor%20ausgew%E4hlter%20Seite%0Azuunterst%20%28im%20Kapitel%29%0Azuoberst%20%28im%20Kapitel%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="529" y="179" w="-1" h="-1" measuredW="53" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Einf%FCgen</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::ComboBox" x="615" y="217" w="200" h="-1" measuredW="63" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Keine%0ASofort%20Feedback%0AButton</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="529" y="217" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Auswertung</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="784" y="461" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Anlegen</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Link" x="706" y="465" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Abbrechen</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Paragraph" x="131" y="394" w="343" h="58" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Multiple%20Choice%20Frageseite*%0AFrageseite%20mit%20mehreren%20Antworten%2C%20die%20ausgew%E4hlt%20werden%20k%F6nnen</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::StickyNote" x="884" y="36" w="171" h="123" measuredW="109" measuredH="123" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Einf%FCgen%3A%0A%20%0Arelativ%20zu%20aktueller%20Seitenauswahl/Kapitelauswahl</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::ComboBox" x="1069" y="47" w="233" h="-1" measuredW="177" measuredH="78" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>nach%20ausgew%E4hlter%20Seite%0Avor%20ausgew%E4hlter%20Seite%0Azuunterst%20%28im%20Kapitel%29%0Azuoberst%20%28im%20Kapitel%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::ComboBox" x="917" y="198" w="233" h="-1" measuredW="63" measuredH="62" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Keine%0ASofort%0AAuswerten-Button</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Tree" x="129" y="121" w="366" h="264" measuredW="300" measuredH="327" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>f%20Kapitel%0Af%20Testkapitel%0A_%20--------------------------------------------------------------------------------------------------------------%0A-%20Leere%20Inhaltsseite%0A-%20Reiterseite%0A-%20Begr%FCssungsseite%0A_--------------------------------------------------------------------------------------------------------------%0A-%20Multiple%20Choice%20Frageseite%0A-%20Single%20Choice%20Frageseite%0A-%20Matrix%20Multiple%20Choice%20Frageseite%0A-%20Matrix%20Single%20Choice%20Frageseite%0A-%20Freitexteldaufgabe%0A-%20Drag%27n%20Drop%0A-%20Hot%20Spot%0A-%20L%FCckentext</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::ComboBox" x="1069" y="132" w="233" h="-1" measuredW="159" measuredH="46" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>zuunterst%20%28im%20Kapitel%29%0Azuoberst%20%28im%20Kapitel%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="529" y="256" w="-1" h="-1" measuredW="77" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Beispielinhalt</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="529" y="145" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Titel</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextInput" x="615" y="142" w="227" h="-1" measuredW="79" measuredH="26" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::ComboBox" x="615" y="254" w="200" h="-1" measuredW="56" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Kein%0AFC%20Z%FCrich%0ALorem%20Ipsum%0ABusiness</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::ComboBox" x="917" y="276" w="227" h="-1" measuredW="56" measuredH="93" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Kein%0AFC%20Z%FCrich%0ALorem%20Ipsum%0ABWL%0ANASA</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Paragraph" x="129" y="531" w="343" h="58" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Leere%20Inhaltsseite*%0AEine%20leere%20Inhaltsseite%2C%20auf%20welcher%20verschiedene%20Elemente%20erstellt%20werden%20k%F6nnen.</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Paragraph" x="129" y="604" w="343" h="58" measuredW="200" measuredH="80" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Reiterseite*%0AEine%20Inhaltsseite%2C%20auf%20welcher%20Elemente%20in%20mehreren%20Reitern%20hinterlegt%20werden%20k%F6nnen.</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Paragraph" x="129" y="668" w="360" h="58" measuredW="200" measuredH="80" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Begr%FCssungsseite*%0AEine%20Inhaltsseite%2C%20welche%20den%20Teilnehmer%20zu%20diesem%20Modul%20begr%FCsst%20und%20beispielsweise%20Instruktionen%20enthalten%20kann.</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::ComboBox" x="1171" y="277" w="227" h="-1" measuredW="56" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabledClosed</state>
+        <text>Kein%0AFC%20Z%FCrich%0ALorem%20Ipsum%0ABusiness</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::ComboBox" x="1171" y="193" w="227" h="-1" measuredW="63" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabledClosed</state>
+        <text>Keine%0ASofort%20Feedback%0AButton</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::HelpButton" x="824" y="185" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::HelpButton" x="824" y="220" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="26" locked="false" isInGroup="-1"/>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::HelpButton" x="824" y="257" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::StickyNote" x="1205" y="362" w="171" h="123" measuredW="109" measuredH="123" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Beispielinhalt%20+%20Auswertung%20nur%20wenn%20Testkapitel%20gew%E4hlt%20wurde</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::ComboBox" x="944" y="427" w="200" h="-1" measuredW="63" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabledClosed</state>
+        <text>Keine%0ASofort%20Feedback%0AButton</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::ComboBox" x="944" y="464" w="200" h="-1" measuredW="56" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabledClosed</state>
+        <text>Kein%0AFC%20Z%FCrich%0ALorem%20Ipsum%0ABusiness</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

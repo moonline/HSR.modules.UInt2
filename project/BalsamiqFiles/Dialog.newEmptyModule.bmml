@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1268" measuredH="489" mockupW="611" mockupH="236">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TitleWindow" x="657" y="253" w="366" h="215" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>47</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <minimize>false</minimize>
+        <text>Neues%20Modul%20erstellen</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="672" y="342" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Modulbezeichnung%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="799" y="339" w="192" h="-1" measuredW="79" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="939" y="431" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>mainView%26bm%3BmainView.bmml%26bm%3BmainView.bmml%26bm%3BmainView.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22282%2C178%2C356%2C205%22%20href%3D%22mainView.bmml%22%20alt%3D%22mainView%22%20id%3D%228%22/%3E</map>
+        <text>Erstellen</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="672" y="380" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layout%20/%20Stil%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::ComboBox" x="799" y="378" w="-1" h="-1" measuredW="192" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Standard%20%28Schwarz%2C%20Weiss%29%0ASommer%20%28Gelb%2C%20Blau%29%0AWinter%20%28%20Grau%2C%20Weiss%29%0AHSL%20%28Gelb%2C%20Rot%29%0ACS%20%28%20Grau%2C%20Blau%29%0ANeues%20Layout%20importieren</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HelpButton" x="998" y="380" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::HelpButton" x="998" y="342" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="672" y="295" w="341" h="42" measuredW="275" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bevor%20das%20neue%20Modul%20angelegt%20werden%20kann%2C%20werden%20noch%20einige%20Angaben%20ben%F6tigt.</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="866" y="435" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Screen.Start%26bm%3BScreen.Start.bmml%26bm%3BScreen.Start.bmml%26bm%3BScreen.Start.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22209%2C182%2C272%2C201%22%20href%3D%22Screen.Start.bmml%22%20alt%3D%22Screen.Start%22%20id%3D%2216%22/%3E</map>
+        <text>Abbrechen</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::ComboBox" x="1076" y="380" w="-1" h="-1" measuredW="192" measuredH="109" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Standard%20%28Schwarz%2C%20Weiss%29%0ASommer%20%28Gelb%2C%20Blau%29%0AWinter%20%28%20Grau%2C%20Weiss%29%0AHSL%20%28Gelb%2C%20Rot%29%0ACS%20%28%20Grau%2C%20Blau%29%0ANeues%20Layout%20importieren</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

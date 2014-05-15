@@ -1,0 +1,65 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1106" measuredH="574" mockupW="633" mockupH="476">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TitleWindow" x="473" y="98" w="633" h="476" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>45</bottomheight>
+        <close>true</close>
+        <dragger>true</dragger>
+        <minimize>false</minimize>
+        <text>Medium%20%F6ffnen</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="1015" y="538" w="74" h="27" measuredW="64" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%D6ffnen</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="942" y="542" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Abbrechen</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Tree" x="480" y="177" w="353" h="346" measuredW="300" measuredH="369" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>F%20Bilder%0A%20F%20Tiere%0A%20%20-%20Elefant.jpg%0A%20%20-%20Giraffe.jpg%0A%20%20-%20Nashorn.jpg%0A%20%20-%20L%F6we.jpg%0A%20F%20Pflanzen%0A%20%20-%20Birke.jpg%0A%20%20-%20L%E4rche.jpg%0A%20%20-%20Weisstanne.jpg%0A%20F%20St%E4dte%0A%20%20-%20Z%FCrich.jpg%0A%20%20-%20Paris.jpg%0A%20%20-%20London.jpg%0Af%20Musik%0Af%20Dokumente%0Af%20Videos</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::FieldSet" x="842" y="177" w="249" h="220" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Details%20zu%20ausgew%E4hltem%20Medium</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="852" y="197" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Titel</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="852" y="218" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Erstellt%20am</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="852" y="239" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ge%E4ndert%20am</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="852" y="260" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vorschau</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SearchBox" x="480" y="144" w="352" h="-1" measuredW="120" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Suchen</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Image" x="954" y="260" w="122" h="126" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

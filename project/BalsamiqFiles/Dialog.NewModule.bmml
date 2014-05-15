@@ -1,0 +1,33 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="804" measuredH="452" mockupW="564" mockupH="412">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="240" y="40" w="564" h="412" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>55</bottomheight>
+        <text>Neues%20Modul</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Tree" x="255" y="114" w="534" h="264" measuredW="300" measuredH="264" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>%3E%20Beispiel-Lernmodul%20mit%20Standardlayout%0A%20f%20Deutsch%0A%20f%20Englisch%0A_%20-------------------------------------------------------------------------------------------------------------------------------------------------------------------%0Af%20Infomodul%20mit%20Willkommensseite%0A_%20und%20Textseiten%0A_%20-------------------------------------------------------------------------------------------------------------------------------------------------------------------%0Af%20Beispielmodul%20mit%20Willkommensseite%2C%20%0A_%20Fragen-%20und%20Auswertungsseite%0A_%20-------------------------------------------------------------------------------------------------------------------------------------------------------------------%0Af%20Beispielmodul%20mit%20Willkommensseite%2C%0A_%20Infoseiten%20und%20Frageseiten%20mit%20Sofortfeedback</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SearchBox" x="255" y="77" w="534" h="-1" measuredW="120" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filtern</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="716" y="411" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Anlegen</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="638" y="415" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Abbrechen</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,102 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1224" measuredH="713" mockupW="1148" mockupH="643">
+  <controls>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::TitleWindow" x="76" y="70" w="1148" h="643" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>59</bottomheight>
+        <close>true</close>
+        <dragger>true</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>CLX.Stage</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::MenuBar" x="76" y="93" w="1148" h="29" measuredW="361" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Applikation%2C%20Bearbeiten%2C%20Ansicht%2C%20Optionen%2C%20Hilfe</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Tree" x="103" y="246" w="198" h="386" measuredW="300" measuredH="225" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <selectedIndex>-1</selectedIndex>
+        <text>F%20Kapitel%201%0A%20-%20Willkommen%0A%20-%20Hauptst%E4dte%0A%20-%20W%E4hrungen%20in%20Europa%0A%20-%20Auswertung</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Title" x="336" y="137" w="-1" h="-1" measuredW="153" measuredH="43" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kapitel%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::SubTitle" x="336" y="180" w="-1" h="-1" measuredW="128" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Willkommen</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="344" y="246" w="190" h="194" measuredW="600" measuredH="600" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/flag_switzerland.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::TextArea" x="566" y="246" w="603" h="203" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <size>14</size>
+        <text>Willkommen%20zum%20Wissenstest%20%FCber%20die%20Schweiz%20und%20ihre%20Nachbarn.%0A%20%0A*Europa*%0AEuropa%20%28altgriechisch%20%u0395%u1F50%u03C1%u03CE%u03C0%u03B7%2C%20Eur%u1E53p%u0113%29%20ist%20ein%20Erdteil%2C%20der%20sich%20%FCber%20das%20westliche%20F%FCnftel%20der%20eurasischen%20Landmasse%20erstreckt.%20Obwohl%20es%20geographisch%20gesehen%20ein%20Subkontinent%20ist%2C%20der%20mit%20Asien%20zusammen%20den%20Kontinent%20Eurasien%20bildet%2C%20wird%20es%20historisch%20und%20kulturell%20begr%FCndet%20meist%20als%20eigenst%E4ndiger%20Kontinent%20betrachtet.%20Dies%20verweist%20darauf%2C%20dass%20sich%20der%20Begriff%20%u201EEuropa%u201C%20nicht%20in%20der%20geographischen%20Definition%20ersch%F6pft%2C%20sondern%20sich%20auch%20auf%20historische%2C%20kulturelle%2C%20politische%2C%20wirtschaftliche%2C%20rechtliche%20und%20ideelle%20Aspekte%20bezieht.</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::TextArea" x="336" y="461" w="831" h="142" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <size>14</size>
+        <text>*St%E4dte*%0ADie%20St%E4dte%20und%20Gemeinden%20bilden%20die%20kleinsten%20administrativen%20Einheiten%20im%20Verwaltungsaufbau%20der%20Staaten.%20Lissabon%20war%20eine%20der%20ersten%20kosmopolitischen%20Metropolen%20der%20Neuzeit%2C%20da%20sie%20im%20Zeitalter%20des%20Imperialismus%20Zentrum%20eines%20gro%DFen%20Kolonialreiches%20war.%20Noch%201950%20befanden%20sich%20vier%20St%E4dte%20in%20der%20heutigen%20Europ%E4ischen%20Union%20unter%20den%2020%20gr%F6%DFten%20der%20Welt%2C%20seitdem%20wachsen%20die%20europ%E4ischen%20St%E4dte%20kaum%20noch%2C%20verlieren%20teilweise%20an%20Einwohnerzahlen.%20Diese%20vier%20gr%F6%DFten%20heutigen%20EU-St%E4dte%20waren%20London%20auf%20dem%20zweiten%20Platz%20hinter%20New%20York%2C%20Paris%20auf%20dem%20vierten%20Platz%20hinter%20Tokio%20sowie%20Mailand%20und%20Neapel%2C%20die%20Platz%2013%20und%2019%20belegten.</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::PointyButton" x="1137" y="671" w="62" h="-1" measuredW="62" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <direction>right</direction>
+        <text>Weiter</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::SubTitle" x="116" y="158" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>00%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::IconLabel" x="605" y="668" w="-1" h="-1" measuredW="81" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>BookIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <text>Glossar</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::IconLabel" x="727" y="668" w="-1" h="-1" measuredW="61" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>HelpIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <text>Hilfe</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Canvas" x="76" y="119" w="1148" h="103" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::PointyButton" x="933" y="671" w="189" h="-1" measuredW="174" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <direction>center</direction>
+        <icon>ForwardChapterIcon%7Csmall</icon>
+        <state>up</state>
+        <text>Kapitel%20abschliessen</text>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::Label" x="489" y="674" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seite%201%20/%204</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

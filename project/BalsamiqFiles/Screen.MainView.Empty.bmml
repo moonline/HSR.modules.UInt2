@@ -1,0 +1,184 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2098" measuredH="777" mockupW="2008" mockupH="700">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="572" y="134" w="1148" h="643" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>23</bottomheight>
+        <close>true</close>
+        <dragger>true</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>CLX.Stage%20-%20</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::MenuBar" x="572" y="157" w="1148" h="29" measuredW="361" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Applikation%2C%20Bearbeiten%2C%20Ansicht%2C%20Optionen%2C%20Hilfe</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Tree" x="578" y="221" w="204" h="278" measuredW="300" measuredH="225" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <selectedIndex>-1</selectedIndex>
+        <text>f%20</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::FieldSet" x="788" y="186" w="716" h="558" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Content</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Icon" x="643" y="191" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>Trash2Icon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Icon" x="580" y="191" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>AddPageIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Icon" x="755" y="191" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>RedoIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Icon" x="724" y="191" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>UndoIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::FieldSet" x="578" y="503" w="204" h="241" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Moduleinstellungen</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::StickyNote" x="1769" y="391" w="329" h="128" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Klick%20--%3E%20Eigenschaften%20werden%20ge%F6ffnet%0A%20%0ADoppelklick%0A%09Seite%3A%20Inhalt%20wird%20in%20Editorbereich%20ge%F6ffnet%0A%09Kapitel%3A%20%D6ffnet/Schliesst%20Kapitel%0A%09Modul%3A%20passiert%20nichts</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="650" y="520" w="123" h="-1" measuredW="79" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="588" y="523" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Titel</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Button" x="997" y="384" w="299" h="74" measuredW="240" measuredH="48" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <href>Dialog.NewPageContent%26bm%3BDialog.NewPageContent.bmml%26bm%3BDialog.NewPageContent.bmml%26bm%3BDialog.NewPageContent.bmml</href>
+        <icon>AddPageIcon%7Clarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22907%2C307%2C1206%2C381%22%20href%3D%22Dialog.NewPageContent.bmml%22%20alt%3D%22Dialog.NewPageContent%22%20id%3D%2244%22/%3E</map>
+        <text>Neue%20Seite/Kapitel%20erstellen</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Button" x="997" y="473" w="299" h="74" measuredW="141" measuredH="48" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <icon>Help2Icon%7Clarge</icon>
+        <text>Hilfe%20%F6ffnen</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Menu" x="90" y="126" w="-1" h="-1" measuredW="150" measuredH="193" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%D6ffnen%0AZuletzt%20benutzt%20%3E%0ANeu%20%3E%0A---%0ASpeichern%0ASpeichern%20Unter...%0A---%0AAuf%20Updates%20pr%FCfen%0A%DCber%20CLX%20Stage%0A---%0ASchliessen</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Menu" x="303" y="77" w="258" h="-1" measuredW="150" measuredH="94" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dokumente/Lernmodule/Tiere.stg%0ADokumente/Lernmodule/St%E4dte.stg%0ADokumente/Lernmodule/Pflanzen.stg%0ADokumente/Lernmodule/Nasa.stg</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Menu" x="287" y="254" w="121" h="-1" measuredW="150" measuredH="52" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Leeres%20Modul%0AAssistent</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Menu" x="90" y="358" w="200" h="-1" measuredW="150" measuredH="57" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lizenzverwaltung%0A---%0AAutomatisch%20Speichern</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="102" y="105" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Applikation</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="102" y="334" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Optionen</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="102" y="468" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hilfe</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Menu" x="90" y="489" w="-1" h="-1" measuredW="150" measuredH="73" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Online-Hilfe%0AKurzanleitung%0AShortcuts</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Menu" x="396" y="363" w="-1" h="-1" measuredW="150" measuredH="99" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>L%F6schen%0AKopieren%0AUmbenennen%0A---%0ANeue%20Seite/Kapitel</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="408" y="334" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kontextmen%FC</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Arrow" x="240" y="186" w="51" h="53" measuredW="150" measuredH="100" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Arrow" x="242" y="114" w="51" h="53" measuredW="150" measuredH="100" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Icon" x="611" y="191" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SaveIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Icon" x="650" y="94" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>Trash2Icon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Icon" x="755" y="94" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>RedoIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Icon" x="724" y="94" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>UndoIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Menu" x="396" y="476" w="-1" h="-1" measuredW="150" measuredH="78" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kopieren%0AUmbenennen%0A---%0ANeue%20Seite/Kapitel</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
