@@ -63,15 +63,18 @@ Inhalte Erstellen
 -----------------
 
 Einstellungen für die Seite und Eigenschaften von Inhaltselementen waren bei CLX.Stage an verschiedenen Orten untergebracht: Eigenschaften von Inhaltselementen in einer Toolbar oberhalb der Seite und Seiteneigenschaften sowie Einstellungen zu den Fragetypen in einer Sidebar. 
-Der Benutzer musste genau wissen, was er wo findet. Neu befinden sich alle Eigenschaften in einer Sidebar und werden abhängig vom ausgewählten Element und dem aktiven Kontext angezeigt.
+Der Benutzer musste genau wissen, was er wo findet. Neu befinden sich alle Eigenschaften in einer Sidebar und werden abhängig vom ausgewählten Element und dem aktiven Kontext angezeigt und der Button für 
 
-.. figure:: stepScreens/3.1.3_8_2.Aufgaben_Reiter.png
+.. figure:: redesignedScreens/PropertyInspector_comparison.png
 
-   Altes Design der Property Inspectors
+   Altes und neues Design Property Inspector
 
-.. figure:: redesignedScreens/PropertyInspector_cropped.png
+Zudem wurde noch eine Suche angedacht, welche die Bezeichnungen der verschiedenen Eigenschaften durchsucht und passende Elemente anzeigt. Wird etwa nach "Unterstreichen" gesucht, wird automatisch der Bereich "Textformatierung" angezeigt und der Button zum Unterstreichen von Text hervorgehoben.
 
-   Redesign Property Inspector
+.. figure:: redesignedScreens/PropertyInspector_searchFunction.png
+
+   Suchfunktion im Property Inspector.
+
 
 Besonders das Erstellen und Bearbeiten von Fragen war für Benutzer ziemlich unverständlich, 
 da die Editoren oft Elemente anzeigten, die der Benutzer gar nicht brauchte. 
