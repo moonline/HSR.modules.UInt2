@@ -25,6 +25,8 @@ Die durchgeführten Redesigns decken einige wichtige Teile von CLX.Stage ab.
 Bereiche wie z.B. das Management von Vorlagen wurden nicht überarbeitet, 
 da das Primärziel des Redesigns die Verbesserung der User Experience für den Endanwender war.
 
+.. figure:: stepScreens/3.1.3_5.alle_texte_geaendert.png
+UNTERSCHRIFT: Eine typische Ansicht in CLX.Stage.
 
 Verbesserungen
 ==============
