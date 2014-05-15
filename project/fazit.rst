@@ -27,7 +27,7 @@ Bereiche wie z.B. das Management von Vorlagen wurden nicht überarbeitet,
 da das Primärziel des Redesigns die Verbesserung der User Experience für den Endanwender war.
 
 .. figure:: stepScreens/3.1.3_5.alle_texte_geaendert.png
-UNTERSCHRIFT: Eine typische Ansicht in CLX.Stage.
+   Eine typische Ansicht in CLX.Stage.
 
 Verbesserungen
 ==============
@@ -52,7 +52,7 @@ Das Erstellen von Kapiteln und Seiten wurde in einem Assistenten zusammengefasst
 Der Benutzer muss nicht mehr technische Unterscheidungen treffen, die ihn möglicherweise verwirren, sondern wählt im Assistent aus, was er benötigt. Zusätzlich wird hier dem Benutzer neu die Möglichkeit angeboten, verschiedene Beispielinhalte in die Seiten einzufügen oder nicht. Bisher wurde immer ein Beispielinhalt erstellt, was für erfahrene Benutzer eine Hürde darstellt, da jedes Mal der Inhalt gelöscht werden musste.
 
 .. figure:: redesignedScreens/Dialog.NewPageContent_cropped.png
-UNTERSCHRIFT: Redesign "Neue Seite erstellen"
+   Redesign "Neue Seite erstellen"
 
 Insbesondere die Unterscheidung der einzelnen Fragetypen stellte Benutzer vor enorme 
 Herausforderungen, da sie z.T. den Unterschied zwischen den einzelnen Fragetypen gar 
@@ -128,6 +128,8 @@ Vorgegangen sind wir in Iterationen, um Erkenntnisse aus den ersten Redesigns un
 
 Dieses Vorgehen hat sich für alle Redesigns bewährt.
 
+.. figure:: img/Versuchsaufbau.png
+   Versuchsaufbau beim Testing.
 
 Erkenntnisse ("Lessons Learned")
 ================================
