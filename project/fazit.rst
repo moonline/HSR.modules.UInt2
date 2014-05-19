@@ -1,6 +1,6 @@
-=====
-Fazit
-=====
+========================
+UInt2 Miniprojekt Report
+========================
 
 .. * Wie weit sind wir?
 .. * Was haben wir angeschaut in der ganzen App (Ausblick)
@@ -12,10 +12,16 @@ Fazit
 .. * Was hat sich bewährt während dem Prototyping?
 .. * Foto Projektaufbau & Screenshots
 
+Einleitung
+==========
+CLX.Stage ist ein Autorentool der Firma Crealogix AG. Es ist ein WYSIWYG-Editor für Lernmodule und Tests im E-Learning-Bereich. Programmiert auf Basis von Adobe.AIR und in Actionscript.
+
+.. was ist CLX.Stage und was ist ziel des projekts
+
 Projektstand
 ============
 
-Im Rahmen des Projektes wurden drei Redesigns für CLX.Stage durchgeführt. 
+Im Rahmen des Projektes wurden drei Redesigns für CLX.Stage durchgeführt.
 Dabei wurden Teile der Hauptbereiche von CLX.Stage überarbeitet:
 
 * Modul- und Seitenverwaltung
@@ -33,8 +39,8 @@ Bereiche wie z.B. das Management von Vorlagen, das Hinzufügen zusätzlicher Ele
 
    Eine ähnliche Situation mit dem neuen Design.
 
-Verbesserungen
-==============
+Vorgehen & Verbesserungen
+=========================
 
 Modul / Seiten erstellen
 ------------------------
