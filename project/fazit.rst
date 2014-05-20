@@ -15,6 +15,10 @@ UInt2 Miniprojekt Report
 Einleitung
 ==========
 CLX.Stage ist ein Autorentool der Firma Crealogix AG. Es ist ein WYSIWYG-Editor für Lernmodule und Tests im E-Learning-Bereich. Programmiert auf Basis von Adobe.AIR und in Actionscript.
+Es bietet die Möglichkeit, in einem grafischen Editor Aufgaben- und Infoseiten zu erstellen und diese danach in einem integrierten Player oder einem externen HTML-Player (auch auf Mobile Devices) abzuspielen.
+Über ein Tracking-System auf einem Server können Lernfortschritte verfolgt und ausgewertet werden.
+CLX.Stage unterstützt neben den traditionellen Seitentypen wie Multiple Choice oder Text-Inputs auch modernere Methoden wie Drag and Drop oder Cloze-Tests.
+Zusätzlich ist es möglich, Medien wie Audio- oder Film-Dateien einzubinden und abzuspielen sowie einfache, zeitgesteuerte Animationen zu erstellen.
 
 .. was ist CLX.Stage und was ist ziel des projekts
 
