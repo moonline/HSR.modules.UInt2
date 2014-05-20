@@ -49,7 +49,7 @@ Vorgehen & Verbesserungen
 Planung
 -------
 
-`Wochenplanung <Wochenplan.rst>`_
+⇨ `Wochenplanung <Wochenplan.rst>`_
 
 .. .. include:: Wochenplan.rst
 
@@ -61,23 +61,23 @@ Ausgangspunkt für die Verbesserungen war die bestehende CLX.Stage Applikation.
 Als erstes wurde diese analysiert und mittels "Cognitive Walkthrough" Stück für Stück die Usability
 untersucht.
 
-`Cognitive Walkthrough <WalkThrough.rst>`_
+⇨ `Cognitive Walkthrough <WalkThrough.rst>`_
 
-`Probleme und Tasks <ProblemeTasks.rst>`_
+⇨ `Probleme und Tasks <ProblemeTasks.rst>`_
 
-`Screens und Steps der Applikation <stepScreens/>`_
+⇨ `Screens und Steps der Applikation <stepScreens/>`_
 
 Anhand der Resultate des "Cognitive Walkthrough" wurden Aufgaben für einen Usability Test
 definiert, um die gefundenen Probleme zu bestätigen.
 
-`Usabilitytest Aufgaben <UsabilityTest.rst>`_
+⇨ `Usabilitytest Aufgaben <UsabilityTest.rst>`_
 
-`Usabilitytesttog Ausgangsapplikation <UsabilityTestLog.rst>`_
+⇨ `Usabilitytesttog Ausgangsapplikation <UsabilityTestLog.rst>`_
 
 Aus dem Testlog und den Problemen & Tasks wurden die Probleme extrahiert, die beim Usabilitytest
 verifiziert werden konnten.
 
-`Usabilitytestreport Ausgangsapplikation <UsabilityTestReport.rst>`_
+⇨ `Usabilitytestreport Ausgangsapplikation <UsabilityTestReport.rst>`_
 
 
 Redesign
@@ -86,13 +86,13 @@ Redesign
 Die gewonnen Erkenntnisse des Usability Tests und die Probleme & Tasks dienten als Ausgangslage
 für ein Iteratives Redesign.
 
-`Redesign CLX.Stage <redesignedScreens/>`_
+⇨ `Redesign CLX.Stage <redesignedScreens/>`_
 
 Die erstellten Screens wurden jeweils für erneute Usabilitytests benutzt.
 
-`Usabilitytestlog Redesign <UsabilityTestRedesignLog.rst>`_
+⇨ `Usabilitytestlog Redesign <UsabilityTestRedesignLog.rst>`_
 
-`Usabilitytestreport Redesign <UsabilityTestReportRedesign.rst>`_
+⇨ `Usabilitytestreport Redesign <UsabilityTestReportRedesign.rst>`_
 
 Iterationen / Verbesserte Bereiche:
 
