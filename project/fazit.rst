@@ -46,6 +46,61 @@ Bereiche wie z.B. das Management von Vorlagen, das Hinzufügen zusätzlicher Ele
 Vorgehen & Verbesserungen
 =========================
 
+Planung
+-------
+
+`Wochenplanung <Wochenplan.rst>`_
+
+.. .. include:: Wochenplan.rst
+
+
+Ausgangsapplikation
+-------------------
+
+Ausgangspunkt für die Verbesserungen war die bestehende CLX.Stage Applikation. 
+Als erstes wurde diese analysiert und mittels "Cognitive Walkthrough" Stück für Stück die Usability
+untersucht.
+
+`Cognitive Walkthrough <WalkThrough.rst>`_
+
+`Probleme und Tasks <ProblemeTasks.rst>`_
+
+`Screens und Steps der Applikation <stepScreens/>`_
+
+Anhand der Resultate des "Cognitive Walkthrough" wurden Aufgaben für einen Usability Test
+definiert, um die gefundenen Probleme zu bestätigen.
+
+`Usabilitytest Aufgaben <UsabilityTest.rst>`_
+
+`Usabilitytesttog Ausgangsapplikation <UsabilityTestLog.rst>`_
+
+Aus dem Testlog und den Problemen & Tasks wurden die Probleme extrahiert, die beim Usabilitytest
+verifiziert werden konnten.
+
+`Usabilitytestreport Ausgangsapplikation <UsabilityTestReport.rst>`_
+
+
+Redesign
+--------
+
+Die gewonnen Erkenntnisse des Usability Tests und die Probleme & Tasks dienten als Ausgangslage
+für ein Iteratives Redesign.
+
+`Redesign CLX.Stage <redesignedScreens/>`_
+
+Die erstellten Screens wurden jeweils für erneute Usabilitytests benutzt.
+
+`Usabilitytestlog Redesign <UsabilityTestRedesignLog.rst>`_
+
+`Usabilitytestreport Redesign <UsabilityTestReportRedesign.rst>`_
+
+Iterationen / Verbesserte Bereiche:
+
+1) Modul / Seiten erstellen
+2) Inhalte Erstellen
+3) Play-Modus
+
+
 Modul / Seiten erstellen
 ------------------------
 
