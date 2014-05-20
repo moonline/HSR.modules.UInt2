@@ -245,7 +245,7 @@ Hover oder die Unterscheidung Icons/Buttons/Formularelemente nicht immer verwech
 
 Auf das Redesign zurückzuführende Probleme wurden für den finalen UI-Entwurf noch korrigiert.
 
-⇨ `Usabilitytestreport Redesign <UsabilityTestReportRedesign.rst>`_, Abschnitt "Neu aufgetauchte Probleme".
+⇨ `Usabilitytestreport Redesign -> Neu aufgetauchte Probleme <UsabilityTestReportRedesign.rst#neu-aufgetauchte-probleme>`_
 
 
 
@@ -296,8 +296,7 @@ Auch das Durchführen der Usabilitytests ist eher umständlich, da mit den viele
 aufgeklebten und übereinandergelegten Bereichen und Eingabefeldern sowie dem Übertragen von 
 ausgefüllten Feldern auf andere Screens schnell ein unübersichtlicher Arbeitsplatz entstand.
 
-⇨ Illustration Arbeitsplatz_ siehe Abschnitt Vorgehen.
-
+⇨ Illustration Arbeitsplatz siehe Abschnitt `Redesign <fazit.rst#redesign>`_ im Vorgehen.r
 
 Erkenntnisse ("Lessons Learned")
 ================================
