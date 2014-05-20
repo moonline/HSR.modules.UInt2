@@ -10,8 +10,6 @@ CLX.Stage Redesign
    :align: center
    :width: 40 %
 
-   
-
 .. class:: center
 
 Philipp Christen, Tobias Blaser
@@ -42,44 +40,84 @@ CLX.Stage
 Vorgehen
 ========
 
--1) Applikation analysiert, Schwachstellen ermittelt
-0) Aufgaben erstellt, anhand welchen die Schwachstellen bestätigt werden sollen
-1) Usability Tests mit bestehendem System
-2) Überarbeitung Modul- und Seitenfunktionalität
+* Scope definieren
+* Cognitive Walkthrough im Scope -> Usability-Probleme ermitteln
+* Tasks erfasst, welche Problemzonen bestätigen sollen 
+* Usability-Tests mit CLX.Stage
+* 3 Iterationen Redesign + Usability-Test
+* Fazit/Report
+* Präsentation
 
-  a) Redesign
-  b) Usability Tests
-  
-3) Überarbeitung Seiteninhalte & Editor
 
-  a) Redesign
-  b) Usability Test
-  
-4) Überarbeitung Durchführungsmodus
+Scope definieren
+================
 
-  a) Redesign
-  b) Usability Test
-  
-5) Fazit
+"Was wollen wir betrachten?"
+
+3 Bereiche:
+
+1) Modul und Seiten erstellen
+2) Seiteninhalte erstellen
+3) Modul abspielen
+
+Cognitive Walkthrough
+=====================
+
+"Wo könnte es Probleme geben?
+
+Kriterien von Nielsen und Stone beachtet
+24 Probleme vermutet
+
+Tasks
+=====
+
+"Wann werden die Probleme auftauchen?"
+13 Tasks erstellt
+
+Usability-Tests (1)
+===================
+
+"Tauchen die Probleme überhaupt auf?"
+
+Mit CLX.Stage, 1 x HSR, 1 x CLX
+7 Probleme definitiv bestätigt
+teilweise aus Zufall/Raten gelöst
+4 neu aufgetauchte Probleme
+.. Zuletzt benutzten Pfad nicht gemerkt
+.. Neue Seite an falscher Position eingefügt
+.. Zweiter Reiter in Kapitelvorlagen sehr unauffällig
+.. Auto-Speichern verwirrt User
 
 Redesigns
 =========
 
-Balsamiq Mockups
-GitHub
-relativ grosser Aufwand ( total ~60h Pro person )
+"Wie könnte es besser laufen?"
 
-Usability Tests
-===============
-Jede Aufgabe wurde 4 mal getestet, 2x mit CLX.Stage, 2x mit Paper-Prototype (Redesign)
-Bild Versuchsaufbau
-Paper Prototypes
+Für bestätigte Probleme
+Tool: Balsamiq Mockups
+
+Usability-Tests (2)
+===================
+
+"Tauchen die Probleme immer noch auf?"
+
+.. Bild Versuchsaufbau
+* Paper Prototypes
+* Alle Probleme gelöst!
+* 4 neue Probleme verursacht
+
+.. Aktion "Seite öffnen" im Menu war ein Pfeil, wurde als "da hat's noch mehr Text" interpretiert
+.. Im Dialog "Neue Seite erstellen" war Icon nicht ganz klar, wurde als Checkbox interpretiert
+.. Unterschied Multiple-Choice/Single-Choice immer noch unklar
+.. Play-Modus: Wie beenden?
+
 
 Resultate
 =========
 
-Vergleich Vorher-Nachher
+"Wie ist es gelaufen?"
 
+.. Start-Screen wohl am eindrücklichsten
 
 Fazit
 =====
@@ -96,6 +134,7 @@ Fazit
   * gut, da nicht benutzerfreundlich
   * Eigeninitiative --> unklar ob Lösung eingesetzt wird
   * zu gross um alles in diesem Proekt umzusetzen
+* relativ grosser Aufwand ( total ~60h Pro person )
 
 Fragen?
 =======
