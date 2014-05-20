@@ -83,7 +83,7 @@ Iteration 2
 * Auswertung inkonsistente Benennung: "Feedback" und "Auswertung" werden gemischt verwendet.
 * Speichern Button wird vom Benutzer unten gesucht, da die Applikation wie eine Webapplikation wirkt.
 * Dialog "Neue Seite / Kapitel": Benutzer ist nicht klar, was Multiple- Singlechoice und Matrix ist.
-	* Mögliche Massnahme: Statt der Beschreibung unterhalb des Auswahlfeldes anzuzegen wäre ein Help-Overlay mit einem Beispielbild hilfreich
+	* Mögliche Massnahme: Statt der Beschreibung unterhalb des Auswahlfeldes anzuzeigen wäre ein Help-Overlay mit einem Beispielbild hilfreich
 * Pfeil im Seitenbrowser wird interpretiert als "Da ist noch mehr Text"
 	* Mögliche Massnahme: Pfeil entfernen
 
