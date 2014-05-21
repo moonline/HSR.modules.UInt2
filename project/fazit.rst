@@ -40,7 +40,7 @@ Bereiche wie z.B. das Management von Vorlagen, das Hinzufügen zusätzlicher Ele
    Ausgangslage: Die Hauptansicht der bestehenden CLX.Stage Applikation
    
 
-.. figure:: redesignedScreens/mainView.ExampleContent.Capitols.png
+.. figure:: redesignedScreens/sidebar.png
 
    Beispielscreen des Redesign
    

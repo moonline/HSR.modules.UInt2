@@ -113,7 +113,7 @@ Redesign
    
    Module / Seiten erstellen & verwalten
    
-.. figure:: ../redesignedScreens/mainView.ExampleContent.Capitols.png
+.. figure:: ../redesignedScreens/sidebar.png
    :width: 75 %
    :align: left
    
