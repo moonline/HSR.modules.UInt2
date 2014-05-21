@@ -15,14 +15,10 @@ CLX.Stage Redesign
 Philipp Christen, Tobias Blaser
 
 
-Ausgangslage
-============
+.. contents:: Inhalt
+   :depth: 1
 
-.. image:: ../stepScreens/3.1.2_6.Vorlagen_schliessen.png
-   :align: center
-   :width: 80 %
 
-   
 CLX.Stage
 =========
 
@@ -37,17 +33,39 @@ CLX.Stage
 * WYSIWYG-Editor
 * 1+1 Entwickler während ~15 Jahren (1 fix, 1 wechselnd)
 
+
+Ausgangslage
+------------
+
+.. image:: ../stepScreens/3.1.2_6.Vorlagen_schliessen.png
+   :align: center
+   :width: 80 %
+
+
 Vorgehen
 ========
 
 .. image:: img/vorgehen.jpg
    :align: center
    :width: 85 %
+   
+   
+.. Cognitive Walkthrough:
+   * Bewertung nach Kriterien von Nielsen und Stone
+   * 24 Probleme vermutet
+   
+.. Tasks:
+   * 12 Tasks
+   * 7 Tasks scheiterten -> Probleme validiert
 
 
-Scope definieren
-================
+.. raw:: pdf
 
+   PageBreak
+   
+Projektscope
+------------
+   
 *«Was wollen wir betrachten?»*
 
 
@@ -58,48 +76,52 @@ Scope definieren
 |   :width: 4cm                                               |    :width: 4cm                                              |    :width: 4cm                                              |
 |                                                             |                                                             |                                                             |
 +-------------------------------------------------------------+-------------------------------------------------------------+-------------------------------------------------------------+
-    
-    
-    
-Cognitive Walkthrough
-=====================
+        
 
-*«Wo könnte es Probleme geben?»*
+        
+Usability-Tests (CLX.Stage)
+===========================
 
-Kriterien von Nielsen und Stone beachtet
-24 Probleme vermutet
+*«Tauchen die Probleme überhaupt auf?»*
 
-Tasks
-=====
+* 7 Probleme definitiv bestätigt
+* Teilweise aus Zufall/Raten gelöst
+* 4 neu aufgetauchte Probleme
 
-*«Wann werden die Probleme auftauchen?»*
+.. image:: ../stepScreens/3.1.1_7.loeschen_bestaetigen.png
+      :height: 5cm
+      :align: right
+      
 
-13 Tasks erstellt
-
-Usability-Tests (1)
-===================
-
-«Tauchen die Probleme überhaupt auf?»*
-
-Mit CLX.Stage, 1 x HSR, 1 x CLX
-7 Probleme definitiv bestätigt
-teilweise aus Zufall/Raten gelöst
-4 neu aufgetauchte Probleme
 .. Zuletzt benutzten Pfad nicht gemerkt
 .. Neue Seite an falscher Position eingefügt
 .. Zweiter Reiter in Kapitelvorlagen sehr unauffällig
 .. Auto-Speichern verwirrt User
 
-Redesigns
-=========
+
+Redesign
+========
 
 *«Wie könnte es besser laufen?»*
 
-Für bestätigte Probleme
-Tool: Balsamiq Mockups
+.. Für bestätigte Probleme
+.. Tool: Balsamiq Mockups
 
-Usability-Tests (2)
-===================
+.. figure:: ../redesignedScreens/Screen.Start_cropped.png
+   :width: 75 %
+   :align: left
+   
+   Module / Seiten erstellen & verwalten
+   
+.. figure:: ../redesignedScreens/mainView.ExampleContent.Capitols.png
+   :width: 75 %
+   :align: left
+   
+   Inhalte & Fragen editieren
+
+
+Usability-Tests (Redesign)
+==========================
 
 *«Tauchen die Probleme immer noch auf?»*
 
@@ -108,6 +130,11 @@ Usability-Tests (2)
 * Paper Prototypes
 * Alle Probleme gelöst!
 * 4 neue Probleme verursacht
+
+.. image:: ../img/Versuchsaufbau.png
+   :width: 50 %
+   :align: right
+   
 
 .. Aktion "Seite öffnen" im Menu war ein Pfeil, wurde als "da hat's noch mehr Text" interpretiert
 .. Im Dialog "Neue Seite erstellen" war Icon nicht ganz klar, wurde als Checkbox interpretiert
@@ -120,24 +147,39 @@ Resultate
 
 *«Wie ist es gelaufen?»*
 
+.. image:: ../img/UsabilityTestVideoFrame1.jpg
+   :width: 50 %
+   :align: right
+
 .. Start-Screen wohl am eindrücklichsten
+
 
 Fazit
 =====
 
 * Paper-Prototyping
-  * Interessant, aber nicht geeignet für derart komplexe Applikation
-  * viel Aufwand
+	* Interessant, aber nicht geeignet für derart komplexe Applikation
+	* viel Aufwand
+  
 * Balsamiq Mockups
-  * Web-Lösung sehr angenehm, auch für Collaboration
-  * super für einzelne Screens
-  * grosse Lücken (Menu aufgeklappt --> neuer Screen)
-  * besser HTML-Prototyp oder anderes Tool
+	* Web-Lösung sehr angenehm, auch für Collaboration
+	* super für einzelne Screens
+	* grosse Lücken (Menu aufgeklappt --> neuer Screen)
+	* besser HTML-Prototyp oder anderes Tool
+  
 * Gewähltes Produkt
-  * gut, da nicht benutzerfreundlich
-  * Eigeninitiative --> unklar ob Lösung eingesetzt wird
-  * zu gross um alles in diesem Proekt umzusetzen
+	* gut, da nicht benutzerfreundlich
+	* Eigeninitiative --> unklar ob Lösung eingesetzt wird
+	* zu gross um alles in diesem Proekt umzusetzen
+  
 * relativ grosser Aufwand ( total ~60h Pro person )
 
-Fragen?
-=======
+
+.. raw:: pdf
+
+   PageBreak
+
+   
+.. image:: http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Gnome-dialog-question.svg/500px-Gnome-dialog-question.svg.png
+   :align: center
+   :height: 9 cm
