@@ -128,11 +128,9 @@ Die komplexen und für den Benutzer teilweise unverständlichen Vorgänge zum Er
 Modules konnten durch einen verbesserten Prozess ersetzt werden, welcher den Benutzer führt, ihm jedoch auch die Möglichkeiten offen lässt, den Vorgang abzukürzen.
 Eine grosse Schwachstelle im alten Design war, dass man sich nach dem Start des Programms auf einem leeren Schirm wiederfand und keine klaren nächsten Schritte vor Augen hatte.
 
-.. figure:: stepScreens/3.1.3_5.alle_texte_geaendert.png
+.. figure:: stepScreens/3.0.Ausgangslage_Autor.png
 
-   Das bestehende CLX.Stage überfällt den Benutzer nach dem Start mit Optionen und Möglichkeiten,
-   die er zu dem Zeitpunkt noch gar nicht benutzen kann/will. Die für den Benutzer relevanten
-   Aktionen (Neue Seite/Kapitel erstellen) verschwinden komplett in der Oberfläche.
+   Das bestehende CLX.Stage bietet dem Benutzer keinerlei Anhaltspunkt, womit er jetzt beginnen kann. Einige GUI-Elemente sind freigeschaltet (Zahnrad-Button, "Alle Seiten durchsuchen"), bewirken aber gar nichts. Der richtige Weg führt über das Menu "Modul", dies wird dem Benutzer aber nicht mitgeteilt.
 
 
 .. figure:: redesignedScreens/Screen.Start_cropped.png
@@ -140,12 +138,12 @@ Eine grosse Schwachstelle im alten Design war, dass man sich nach dem Start des 
    Der neue Startscreen mit Schnellzugriff auf zuletzt geöffnete Module und der Möglichkeit, 
    schnell neue Module zu erstellen. Dem Benutzer werden nur genau die Optionen angezeigt, 
    die in der aktuellen Situation Sinn ergeben. Der Benutzer muss nicht mehr nach den Oprationen suchen,
-   sondern wir geführt. Trotzdem besteht die möglichkeit für Poweruser abzukürzen.
+   sondern wird geführt. Trotzdem besteht die Möglichkeit für Poweruser, den Weg abzukürzen.
 
    
 Weiterhin konnte der Benutzer bisher in bestimmten Abläufen Elemente auswählen, 
-welche im aktiven Kontext keinen Sinn ergaben (wiederspricht STONE 1). 
-Dies führte im besten Fall zu Fehlermeldungen, wurde aber teilweise dem User nicht gemeldet.
+welche im aktiven Kontext keinen Sinn ergaben (widerspricht STONE 1). 
+Dies führte im besten Fall zu Fehlermeldungen, wurde aber teilweise dem User überhaupt nicht gemeldet.
 Neu werden dem Benutzer nur noch Elemente angezeigt, die er auch wirklich benutzen kann.
 
 Ebenfalls werden dem Benutzer nur noch die Controls und Informationen angezeigt, die er benötigt.
@@ -155,79 +153,59 @@ oder geladen wurd und entsprechend die Controls für Inhalte nicht benutzt werde
 
 Das Erstellen von Kapiteln und Seiten wurde in einem Assistenten zusammengefasst.
 Der Benutzer muss nicht mehr technische Unterscheidungen treffen, die ihn möglicherweise verwirren, 
-sondern wählt im Assistent aus, was er benötigt. In der betehenden Applikation musste der Benutzer
-z.B. die Unterscheidung zwischen Multiplechoice und Multiplechoice Matrix treffen bei der 
-Auswahl des Templates.
+sondern wählt im Assistent aus, was er benötigt. In der betehenden Applikation musste der Benutzer z.B. bei der Auswahl des Templates zwischen "Multiplechoice" und "Multiplechoice Matrix" unterscheiden, ohne dass ihm erkläert wurde, was der Unterschied ist.
 
-Zusätzlich wird hier dem Benutzer neu die 
-Möglichkeit angeboten, verschiedene Beispielinhalte in die Seiten einzufügen oder nicht. 
-Bisher wurde immer ein Beispielinhalt erstellt, was für erfahrene Benutzer eine verschlechterung 
-der Effizienz darstellts, da jedes Mal der Inhalt gelöscht werden musste (wiederspricht STONE 3). 
-
-Die Auswahl wird gespeichert, 
-so dass ein Anfänger zu Beginn einen Beispielinhalt erhält, so dass er ein Gefühl für den 
-Aufbau einer Seite erhält, später kann er diese Einstellung jedoch einfach deaktivieren und das 
-Löschen umgehen.
+Zusätzlich wird in diesem Assistenten dem Benutzer neu die Möglichkeit angeboten, verschiedene Beispielinhalte in die Seiten einzufügen oder keinen Beispielinhalt zu verwenden. 
+Bisher wurde immer ein Beispielinhalt erstellt, was für erfahrene Benutzer eine Verschlechterung der Effizienz darstellte, da jedes Mal der Inhalt gelöscht werden musste (widerspricht STONE 3).
+Beispielinhalte können nützlich sein, um dem unerfahrenen Benutzer ein Gefühl für das Layout der Seite und eine Idee zu geben, wie die Seite schliesslich aussehen könnte.
+Darum wird die Auswahl (welcher/ob Beispielinhalt) gespeichert, 
+so dass ein Anfänger in der Kennenlernphase einen Beispielinhalt erhält. Sobald er sattelfest genug ist und ihn die Beispielinhalte eher stören als ihm helfen, kann diese Einstellung einfach deaktiviert werden.
 
 .. figure:: redesignedScreens/Dialog.NewPageContent_cropped.png
 
-   Redesign "Neue Seite erstellen" mittels Assistent. Der Benutzer wählt auf der Linken Seite
-   die Vorlage, auf der rechten Seite kann er diese konfigurieren. Dadurch werden ihm im 
-   Vergleich zur bestehenden Applikation viel weniger verschiedene Vorlagen angezeigt, was
-   die Übersichtlichkeit verbessert.
+   Redesign "Neue Seite erstellen" mittels Assistent. Der Benutzer wählt auf der linken Seite die Vorlage aus, auf der rechten Seite kann er diese konfigurieren. Dadurch werden ihm im 
+   Vergleich zur bestehenden Applikation viel weniger verschiedene Vorlagen angezeigt, was die Übersichtlichkeit verbessert.
 
 
 Inhalte Erstellen
 -----------------
 
-Einstellungen für die Seite und Eigenschaften von Inhaltselementen waren bei CLX.Stage 
-an verschiedenen Orten untergebracht: Eigenschaften von Inhaltselementen in einer Toolbar 
-oberhalb der Seite und Seiteneigenschaften sowie Einstellungen zu den Fragetypen in einer Sidebar. 
-Der Benutzer musste genau wissen, was er wo findet. Die zeigte sich in den Usabilitytests durch
-lange Suchzeiten der Benutzer.
+Einstellungen für die Seite und Eigenschaften von Inhaltselementen waren bei CLX.Stage an verschiedenen Orten untergebracht: Eigenschaften von Inhaltselementen in einer Toolbar oberhalb der Seite und Seiteneigenschaften sowie Einstellungen zu den Fragetypen in einer Sidebar. Der Benutzer musste genau wissen, was er wo findet. Die zeigte sich in den Usabilitytests durch lange Suchzeiten der Benutzer.
 
-Neu befinden sich alle Eigenschaften in der 
-Sidebar und werden abhängig vom ausgewählten Element und dem aktiven Kontext angezeigt. 
+Neu befinden sich alle Eigenschaften in der Sidebar und werden abhängig vom ausgewählten Element und dem aktiven Kontext angezeigt. 
 Im Gegensatz zu vorher werden die Controls für Textformatierung nur angezeigt, 
-wenn der Benutzer ein Bild markiert hat (wiederspricht STONE 1).
+wenn der Benutzer ein Bild markiert hat (widerspricht STONE 1).
 
 .. figure:: redesignedScreens/PropertyInspector_comparison.png
 
-   Altes und neues Design Property Inspector: Eigenschaften werden dem Benutzer im neuen Design
-   kontextabhängig dargestellt. Der Benutzer sieht nur die Eigenschaften, die für das aktuelle
-   Element sinnvoll sind (STONE 1).
+   Altes und neues Design für den "Property Inspector": Eigenschaften werden dem Benutzer im neuen Design kontextabhängig dargestellt. Der Benutzer sieht nur die Eigenschaften, die für das aktuelle Element sinnvoll sind (STONE 1).
    
 
 Die Suche durchsucht die Bezeichnungen der verschiedenen Eigenschaften 
 und zeigt passende Elemente an. Wird etwa nach "Unterstreichen" gesucht, wird 
-automatisch der Bereich "Textformatierung" angezeigt und der Button zum Unterstreichen von 
-Text hervorgehoben. Diese Suche wurde in den Usabilitytests nicht getestet, da die Aufbereitung
-der Screens sehr aufwändig gewesen wäre.
+automatisch der Bereich "Textformatierung" angezeigt und der Button zum Unterstreichen von Text hervorgehoben. Diese Suche wurde in den Usabilitytests nicht getestet, da die Aufbereitung der Screens sehr aufwändig gewesen wäre und es nicht in den Scope fiel. Da diese Komponente aber die wichtigste in der ganzen Applikation war, wurde hier auch ein Redesign vorgenommen.
 
 .. figure:: redesignedScreens/PropertyInspector_searchFunction.png
 
    Suchfunktion im Property Inspector.
-   
 
-Das Erstellen und Bearbeiten von Fragen war für Benutzer ziemlich unverständlich, 
-da die Editoren oft Elemente anzeigten, die der Benutzer gar nicht brauchte. 
-So wurden dem Benutzer Einstellungsmöglichkeiten zur Aufgabe/Feedback als ganzes angezeigt, 
-obwohl er eine einzelne Antwort selektiert hatte.
+
+Das Erstellen und Bearbeiten von Fragen war für Benutzer ziemlich unverständlich, da die Editoren oft Elemente anzeigten, die der Benutzer gar nicht brauchte. 
+So wurden dem Benutzer Einstellungsmöglichkeiten zur Aufgabe/Feedback als Ganzes angezeigt, obwohl er eine einzelne Antwort selektiert hatte.
 
 Auch hier war oft nicht klar, wo eine bestimmte Aktion zu finden ist. 
-Neu können einfache Operationen wie das Hinzufügen von Antworten inline im Element 
-durchgeführt werden, alle Einstellungen befinden sich in der Sidebar.
+Neu können einfache Operationen wie das Hinzufügen von Antworten inline im Element durchgeführt werden, alle Einstellungen befinden sich in der Sidebar.
 
 .. figure:: redesignedScreens/mainView.Player.Textpage_comparison.png
 
    Setzen von richtigen Antworten vor und nach dem Redesign. Die Antworten können direkt
-   an der Stelle eingestellt werden, wo der Benutzer im Abspielmodus auch die Frage ausfüllt (STONE 4).
+   an der Stelle eingestellt werden, wo der Benutzer im Abspielmodus auch die Frage ausfüllt (STONE 4). Zudem wurden in der bestehenden Applikation alle Aufgabentypen angezeigt, wobei aber jeweils nur eine aktiv sein konnte. Es ist nicht sinnvoll, auf einer Multiple-Choice-Seite, auf welcher kein einziges Freitextfeld vorkommt, dem Benutzer die Möglichkeit vorzugaukeln, er könne die Antwort für ein Freitextfeld definieren. Dies war aber der Fall.
 
    
 Usability-Test Resultate
 ========================
 
-Die Resultate der Usability Tests zeigten, dass das neue UI die Probleme des alten UIs behob.
+Die Resultate der Usability-Tests zeigten, dass das neue UI die Probleme des alten UIs behob.
 Keiner der Tester scheiterte in seinem Auftrag. Alle konnten die ihnen gestellten Ziele erreichen.
 
 .. figure:: img/UsabilityTestVideoFrame1.jpg
@@ -239,13 +217,11 @@ So enthielt das neu entwickelte UI einige Icons, welche die Benutzer verwirrten
 (Box mit Checkmark wurde als interaktive Checkbox anstatt als Symbol für eine Aufgabe interpretiert).
 
 Auch über den Systemstatus waren sich die Benutzer nicht immer im klaren. 
-Dies ist auf die Unterschiede des Papier-Prototyp gegenüber einem richtigen UI 
-zurückzuführen, da der Papier-Prototyp komplexe Zustände wie Selektion, 
-Hover oder die Unterscheidung Icons/Buttons/Formularelemente nicht immer verwechslungsfrei wiedergab.
+Dies ist auf die Unterschiede des Papier-Prototyp gegenüber einem richtigen UI zurückzuführen, da der Papier-Prototyp komplexe Zustände wie Selektion, Hover oder die Unterscheidung Icons/Buttons/Formularelemente nicht immer verwechslungsfrei wiedergab.
 
 Auf das Redesign zurückzuführende Probleme wurden für den finalen UI-Entwurf noch korrigiert.
 
-⇨ `Usabilitytestreport Redesign <UsabilityTestReportRedesign.rst>`_, Abschnitt "Neu aufgetauchte Probleme".
+⇨ `Usabilitytestreport Redesign -> Neu aufgetauchte Probleme <UsabilityTestReportRedesign.rst#neu-aufgetauchte-probleme>`_
 
 
 
@@ -256,24 +232,12 @@ Balsamiq Mockup
 ---------------
 
 Als Mockup-Tool wurde "Balsamiq Mockups" verwendet.
-Drafts für User Interfaces lassen sich schnell und einfach zusammenklicken und es bietet viele 
-vorgefertigte Elemente mit Möglichkeit, Icons aus einer kleinen aber gut ausgewählten Bibliothek 
-auszuwählen. Teilweise stösst man aber schnell an die Grenzen des Tools und muss entweder aus 
-anderen Objekten das gewünschte Element zusammensetzen oder es in einem Bildeditor erstellen 
-und dann als Image in Balsamiq importieren. So existierte z.B. kein passendes Icon für den
-Vorlagetyp "Frageseite". Das von uns verwendete Icon "Kästchen mit Hacken" verwirrte die Benutzer,
-da sie davon ausgiengen, das der Hacken bedeutet, das Element wäre ausgewählt.
-Aus diesem Grund haben wir das Icon auf dem Paper Prototype für den zweiten Durchlauf
-von Hand angepasst.
+Drafts für User Interfaces lassen sich schnell und einfach zusammenklicken und es bietet viele vorgefertigte Elemente mit Möglichkeit, Icons aus einer kleinen aber gut bestückten Bibliothek auszuwählen. Teilweise stösst man aber schnell an die Grenzen des Tools und muss entweder aus anderen Objekten das gewünschte Element zusammensetzen oder es in einem Bildeditor erstellen und dann als Image in Balsamiq importieren.
+So existierte z.B. kein passendes Icon für den Vorlagetyp "Frageseite". Das von uns verwendete Icon "Kästchen mit Hacken" verwirrte die Benutzer, da sie davon ausgiengen, das der Hacken bedeutet, das Element wäre ausgewählt.
+Aus diesem Grund wurde das Icon auf dem Paper Prototype für den zweiten Durchlauf von Hand angepasst.
 
-Als Prototyping Tool ist Balsamiq eher ungeeignet. Es lassen sich zwar Links zwischen einzelnen 
-Mockups setzen, 
-so dass ein Navigieren zwischen Mockups möglich ist, allerdings lassen sich interaktive Elemente 
-wie Menüs oder Formularelemente nicht bedienen.
-Somit wäre es erforderlich, dass für jeden Zustand von interaktiven Elementen das Mockup kopiert 
-und angespasst würde, was bereits bei Änderungen am Layout sehr umfassende Anpassungen an vielen 
-Mockups erfordert. Aus diesem Grund haben wir die Screens ausgedruckt und das Prototyping auf
-Papier und nicht am Rechner durchgeführt.
+Als Prototyping Tool ist Balsamiq eher ungeeignet. Es lassen sich zwar Links zwischen einzelnen Mockups setzen, so dass ein Navigieren zwischen Mockups möglich ist, allerdings lassen sich interaktive Elemente wie Menüs oder Formularelemente nicht bedienen.
+Somit wäre es erforderlich, dass für jeden Zustand von interaktiven Elementen das Mockup kopiert und angespasst würde, was bereits bei Änderungen am Layout sehr umfassende Anpassungen an vielen Mockups erfordert. Aus diesem Grund wurden die Screens ausgedruckt und das Prototyping auf Papier und nicht am Rechner durchgeführt.
 
 Will man das Mockup auch für Prototyping verwenden, so ist man je nach Projekt mit einem HTML-Mockup oder einem anderen Tool besser bedient als Balsamiq.
 
@@ -284,20 +248,14 @@ Will man das Mockup auch für Prototyping verwenden, so ist man je nach Projekt 
 Paper Prototyping vs. Tool Prototyping
 --------------------------------------
 
-Nach unseren Erfahrungen eignet sich Paper Prototyping nur noch bedingt zum Testen von Prototypen, 
-da Paper Prototyping die heute üblichen interaktiven Elemente nicht repräsentativ wiedergeben kann.
+Nach den gewonnenen Erfahrungen eignet sich Paper Prototyping nur noch bedingt zum Testen von Prototypen, da Paper Prototyping die heute üblichen interaktiven Elemente nicht repräsentativ wiedergeben kann.
 Insbesondere Scroll-Elemente, Hover- und Active-Zustände, Markierungen, 
-Animationen und interaktive Statussymbole können durch Paper Prototypes gar nicht oder nur mit 
-sehr grossem Aufwand ansatzweise abgedeckt werden.
-Aus diesem Grund haben wir im Mockup wo möglich auf diese Elemente verzichtet um realistisch 
-testen zu können.
+Animationen und interaktive Statussymbole können durch Paper Prototypes gar nicht oder nur mit sehr grossem Aufwand ansatzweise abgedeckt werden.
+Aus diesem Grund wurde im Mockup wo möglich auf diese Elemente verzichtet um realistisch testen zu können.
 
-Auch das Durchführen der Usabilitytests ist eher umständlich, da mit den vielen Screens, 
-aufgeklebten und übereinandergelegten Bereichen und Eingabefeldern sowie dem Übertragen von 
-ausgefüllten Feldern auf andere Screens schnell ein unübersichtlicher Arbeitsplatz entstand.
+Auch das Durchführen der Usabilitytests ist eher umständlich, da mit den vielen Screens, aufgeklebten und übereinandergelegten Bereichen und Eingabefeldern sowie dem Übertragen von ausgefüllten Feldern auf andere Screens schnell ein unübersichtlicher Arbeitsplatz entstand.
 
-⇨ Illustration Arbeitsplatz_ siehe Abschnitt Vorgehen.
-
+⇨ Illustration Arbeitsplatz siehe Abschnitt `Redesign <fazit.rst#redesign>`_ im Vorgehen.r
 
 Erkenntnisse ("Lessons Learned")
 ================================
@@ -315,25 +273,16 @@ Erkenntnisse ("Lessons Learned")
   unpassend gewählte Icons. Ansonsten war das Redesign ein voller Erfolg.
 * Mit bereits relativ wenig Aufwand kann ein Produkt mit suboptimaler UX deutlich verbessert werden, 
   indem man beim Design von den Zielen des Benutzers ausgeht.
-* Um allzu aufwendiges "Basteln" zu verhindern, kann mit zugeschnittenen Post-Its eine 
-  vordefinierte Schreibfläche erzeugt werden, welche nach Gebrauch schnell ausgewechselt werden 
-  können und nicht einen neuen Ausdruck benötigt. Dies kann aber dazu führen, 
-  dass User nur auf die "gelben Zettel" achten und sonstige Interaktionselemente ausser Acht lassen.
-  Eine mögliche Lösung dafür wäre die Verwendung von Zetteln, die sich nicht vom Hintergrund abheben.
-  Auf dies wurde verzichtet, damit die Benutzer nicht versehentlich auf den darunterliegenden 
-  Paperprototype schreiben, wenn sie versehentlich über den (kaum sichtbaren) gleichfarbigen 
-  Klebezettel hinausschreiben.
+* Um allzu aufwendiges "Basteln" zu verhindern, kann mit zugeschnittenen Post-Its eine vordefinierte Schreibfläche erzeugt werden, welche nach Gebrauch schnell ausgewechselt werden 
+  können und nicht einen neuen Ausdruck benötigt. Dies kann aber dazu führen, dass User nur auf die "gelben Zettel" achten und sonstige Interaktionselemente ausser Acht lassen. Eine mögliche Lösung dafür wäre die Verwendung von Zetteln, die sich nicht vom Hintergrund abheben. Auf dies wurde verzichtet, damit die Benutzer nicht versehentlich auf den darunterliegenden Paperprototype schreiben, wenn sie über den (kaum sichtbaren) gleichfarbigen Klebezettel hinausschreiben.
   
 
 Ausblick
 ========
 
-Nach Abschluss der Projektes werden die Ergebnisse und Vorschläge für neue UIs den Verantwortlichen 
-bei Crealogix präsentiert. Ob und wann die Resultate in das Produkt einfliessen, 
+Nach Abschluss der Projektes werden die Ergebnisse und Vorschläge für neue UIs den Verantwortlichen bei Crealogix präsentiert. Ob und wann die Resultate in das Produkt einfliessen, 
 steht nicht in der Macht des Projektteams.
 
-Es wäre aber durchaus interessant, Features, welche seit Beginn des Projekts wieder hinzugekommen 
-sind, in die neuen Designs zu integrieren. Der Timing-Inspector bietet sich hier an,
-welcher eine "Zeitachse" einführt. Hier wurde aber entschieden, über sogenannte Steps 
-auf der Zeitachse voranzuschreiten, was wobei es wichtig wäre zu testen, ob dies für Benutzer
+Es wäre aber durchaus interessant, Features, welche seit Beginn des Projekts wieder hinzugekommen sind, in die neuen Designs zu integrieren. Der Timing-Inspector bietet sich hier an,
+welcher eine "Zeitachse" einführt. Hier wurde aber entschieden, über sogenannte Steps auf der Zeitachse voranzuschreiten, was wobei es wichtig wäre zu testen, ob dies für Benutzer
 verständlich ist.

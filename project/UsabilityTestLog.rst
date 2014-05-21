@@ -20,7 +20,8 @@ Iteration 1
 Teilnehmer #  Name       Alter  Geschlecht  Beruf         Vorkenntnisse CLX.Stage  Durchgang
 ============  =========  =====  ==========  ============  =======================  =========
 1             Z.Oussama  21     m           Informatiker  keine                    A        
-2             N.Grögli   20     m           Informatiker  keine                    B        
+2             N.Grögli   20     m           Informatiker  keine                    A        
+3             J.Aeberli  20     m           Informatiker  grosse                   B        
 ============  =========  =====  ==========  ============  =======================  =========
 
 
