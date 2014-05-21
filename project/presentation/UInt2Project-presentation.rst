@@ -88,7 +88,7 @@ Usability-Tests (CLX.Stage)
 * Teilweise aus Zufall/Raten gelöst
 * 4 neu aufgetauchte Probleme
 
-.. image:: ../stepScreens/3.1.1_7.loeschen_bestaetigen.png
+.. image:: ../img/usability_test_clx_stage.png
       :height: 5cm
       :align: right
       
