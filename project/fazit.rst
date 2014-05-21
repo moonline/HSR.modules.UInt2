@@ -190,7 +190,7 @@ automatisch der Bereich "Textformatierung" angezeigt und der Button zum Unterstr
    Suchfunktion im Property Inspector.
 
 
-Das Erstellen und Bearbeiten von Fragen war für Benutzer ziemlich unverständlich, da die Editoren oft Elemente anzeigten, die der Benutzer gar nicht brauchte. 
+Wie sich im Usability-Test bestätigte, ist das Erstellen und Bearbeiten von Fragen für Benutzer ziemlich unverständlich, da die Editoren oft Elemente anzeigten, die der Benutzer zu diesem Zeitpunkt gar nicht brauchte. 
 So wurden dem Benutzer Einstellungsmöglichkeiten zur Aufgabe/Feedback als Ganzes angezeigt, obwohl er eine einzelne Antwort selektiert hatte.
 
 Auch hier war oft nicht klar, wo eine bestimmte Aktion zu finden ist. 
@@ -198,26 +198,24 @@ Neu können einfache Operationen wie das Hinzufügen von Antworten inline im Ele
 
 .. figure:: redesignedScreens/mainView.Player.Textpage_comparison.png
 
-   Setzen von richtigen Antworten vor und nach dem Redesign. Die Antworten können direkt
-   an der Stelle eingestellt werden, wo der Benutzer im Abspielmodus auch die Frage ausfüllt (STONE 4). Zudem wurden in der bestehenden Applikation alle Aufgabentypen angezeigt, wobei aber jeweils nur eine aktiv sein konnte. Es ist nicht sinnvoll, auf einer Multiple-Choice-Seite, auf welcher kein einziges Freitextfeld vorkommt, dem Benutzer die Möglichkeit vorzugaukeln, er könne die Antwort für ein Freitextfeld definieren. Dies war aber der Fall.
+   Setzen von richtigen Antworten vor und nach dem Redesign. Die Antworten können direkt an der Stelle eingestellt werden, wo der Benutzer im Abspielmodus auch die Frage ausfüllt (STONE 4). Zudem wurden in der bestehenden Applikation alle Aufgabentypen angezeigt, wobei aber jeweils nur eine aktiv sein konnte. Es ist nicht sinnvoll, auf einer Multiple-Choice-Seite, auf welcher kein einziges Freitextfeld vorkommt, dem Benutzer die Möglichkeit vorzugaukeln, er könne die Antwort für ein Freitextfeld definieren. Dies war aber der Fall.
 
    
 Usability-Test Resultate
 ========================
 
-Die Resultate der Usability-Tests zeigten, dass das neue UI die Probleme des alten UIs behob.
-Keiner der Tester scheiterte in seinem Auftrag. Alle konnten die ihnen gestellten Ziele erreichen.
+Die Resultate der Usability-Tests am Redesign zeigten, dass das neue UI die Probleme des alten UIs behob.
+Keiner der Tester scheiterte in seinen Aufträgen. Alle konnten die ihnen gestellten Ziele erreichen.
 
 .. figure:: img/UsabilityTestVideoFrame1.jpg
 
    Usability-Test am Paper-Prototyp
 
-Während den Tests sind auch einige verbesserungswürdige Punkte am Redesign aufgetaucht. 
-So enthielt das neu entwickelte UI einige Icons, welche die Benutzer verwirrten 
-(Box mit Checkmark wurde als interaktive Checkbox anstatt als Symbol für eine Aufgabe interpretiert).
+Während den Tests sind jedoch auch einige verbesserungswürdige Punkte am Redesign aufgetaucht. 
+So enthielt das neu entwickelte UI einige Icons, welche zwei Benutzer verwirrten (Box mit Checkmark wurde als interaktive Checkbox anstatt als Symbol für eine Aufgabe interpretiert).
 
-Auch über den Systemstatus waren sich die Benutzer nicht immer im klaren. 
-Dies ist auf die Unterschiede des Papier-Prototyp gegenüber einem richtigen UI zurückzuführen, da der Papier-Prototyp komplexe Zustände wie Selektion, Hover oder die Unterscheidung Icons/Buttons/Formularelemente nicht immer verwechslungsfrei wiedergab.
+Auch über den Systemstatus waren sich die Benutzer nicht immer im klaren. ("")
+Dies ist auf die Unterschiede des Papier-Prototypen gegenüber einem richtigen UI zurückzuführen, da der Papier-Prototyp komplexe Zustände wie Selektion, Hover oder die Unterscheidung Icons/Buttons/Formularelemente nicht immer verwechslungsfrei wiedergab.
 
 Auf das Redesign zurückzuführende Probleme wurden für den finalen UI-Entwurf noch korrigiert.
 
@@ -248,23 +246,20 @@ Will man das Mockup auch für Prototyping verwenden, so ist man je nach Projekt 
 Paper Prototyping vs. Tool Prototyping
 --------------------------------------
 
-Nach den gewonnenen Erfahrungen eignet sich Paper Prototyping nur noch bedingt zum Testen von Prototypen, da Paper Prototyping die heute üblichen interaktiven Elemente nicht repräsentativ wiedergeben kann.
-Insbesondere Scroll-Elemente, Hover- und Active-Zustände, Markierungen, 
-Animationen und interaktive Statussymbole können durch Paper Prototypes gar nicht oder nur mit sehr grossem Aufwand ansatzweise abgedeckt werden.
+Nach den gewonnenen Erfahrungen eignet sich Paper Prototyping nur noch bedingt zum Testen von Applikationen, da es die heute üblichen interaktiven Elemente nicht repräsentativ wiedergeben kann.
+Insbesondere Scroll-Elemente, Hover- und Active-Zustände, Markierungen, Animationen und interaktive Statussymbole können durch Paper Prototypes gar nicht oder nur mit sehr grossem Aufwand ansatzweise abgedeckt werden.
 Aus diesem Grund wurde im Mockup wo möglich auf diese Elemente verzichtet um realistisch testen zu können.
 
-Auch das Durchführen der Usabilitytests ist eher umständlich, da mit den vielen Screens, aufgeklebten und übereinandergelegten Bereichen und Eingabefeldern sowie dem Übertragen von ausgefüllten Feldern auf andere Screens schnell ein unübersichtlicher Arbeitsplatz entstand.
+Auch das Durchführen der Usabilitytests ist eher umständlich, da mit den vielen Screens, aufgeklebten und übereinandergelegten Bereichen und Eingabefeldern sowie dem Übertragen von ausgefüllten Feldern auf andere Screens schnell ein unübersichtlicher Arbeitsplatz entsteht.
 
-⇨ Illustration Arbeitsplatz siehe Abschnitt `Redesign <fazit.rst#redesign>`_ im Vorgehen.r
+⇨ Illustration Arbeitsplatz siehe Abschnitt `Redesign <fazit.rst#redesign>`_ im Vorgehen.
 
 Erkenntnisse ("Lessons Learned")
 ================================
 
 * Balsamiq Mockup eignet sich zwar gut für Mockups, nicht jedoch für Prototyping Tests
-* Wird ein neuer Workflow anhand des Benutzerziele und nicht so dass es irgendwie in eine bestehende Lösung passt entworfen, so ist der Workflow mit grosser Wahrscheinlichkeit einfacher und verständlicher
-* Paper Prototyping eignet sich für moderne Applikationen nicht mehr, da es grosse Differenzen zum
-  Verhalten und der User Experience der realen Applikation gibt. 
-  Siehe Abschnitt "Paper Prototyping vs. Tool Prototyping".
+* Wird ein neuer Workflow anhand eines Benutzerziels entworfen, so ist er mit grosser Wahrscheinlichkeit einfacher und verständlicher, als wenn man ihn irgendwie in eine bestehende Lösung hineinzwängt.
+* Paper Prototyping eignet sich für moderne Applikationen nicht mehr, da es grosse Differenzen zum Verhalten und der User Experience der realen Applikation gibt. Siehe Abschnitt "Paper Prototyping vs. Tool Prototyping".
 * Paper Prototyping ist sehr aufwendig und zeitintensiv
 * Aufbau des Usability Tests, insbesondere der Videoaufnahme ausserhalb eines Usability-Labors ist
   eine komplizierte Angelegenheit und erfordert Improvisation, da z.B. eine Halterung fehlt um
