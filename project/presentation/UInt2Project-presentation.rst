@@ -28,7 +28,7 @@ CLX.Stage
 
 .. image:: http://www.crealogix.com/fileadmin/customer/Produkte/Education_Produkte/header_clxstage_en.png
    :align: left
-   :width: 75 %
+   :width: 60 %
 
 * Crealogix AG
 * E-Learning
@@ -40,30 +40,31 @@ CLX.Stage
 Vorgehen
 ========
 
-* Scope definieren
-* Cognitive Walkthrough im Scope -> Usability-Probleme ermitteln
-* Tasks erfasst, welche Problemzonen bestätigen sollen 
-* Usability-Tests mit CLX.Stage
-* 3 Iterationen Redesign + Usability-Test
-* Fazit/Report
-* Präsentation
+.. image:: img/vorgehen.jpg
+   :align: center
+   :width: 85 %
 
 
 Scope definieren
 ================
 
-"Was wollen wir betrachten?"
+*«Was wollen wir betrachten?»*
 
-3 Bereiche:
 
-1) Modul und Seiten erstellen
-2) Seiteninhalte erstellen
-3) Modul abspielen
-
++-------------------------------------------------------------+-------------------------------------------------------------+-------------------------------------------------------------+
+| Modul und Seiten                                            | Seiteninhalte                                               |  Modul abspielen                                            |
++-------------------------------------------------------------+-------------------------------------------------------------+-------------------------------------------------------------+
+| .. figure:: ../stepScreens/3.0.Ausgangslage_Autor.png       | .. figure:: ../stepScreens/3.1.3_8_5.optionen_markieren.png | .. figure:: ../stepScreens/3.2.2-1.png                      |
+|   :width: 4cm                                               |    :width: 4cm                                              |    :width: 4cm                                              |
+|                                                             |                                                             |                                                             |
++-------------------------------------------------------------+-------------------------------------------------------------+-------------------------------------------------------------+
+    
+    
+    
 Cognitive Walkthrough
 =====================
 
-"Wo könnte es Probleme geben?
+*«Wo könnte es Probleme geben?»*
 
 Kriterien von Nielsen und Stone beachtet
 24 Probleme vermutet
@@ -71,13 +72,14 @@ Kriterien von Nielsen und Stone beachtet
 Tasks
 =====
 
-"Wann werden die Probleme auftauchen?"
+*«Wann werden die Probleme auftauchen?»*
+
 13 Tasks erstellt
 
 Usability-Tests (1)
 ===================
 
-"Tauchen die Probleme überhaupt auf?"
+«Tauchen die Probleme überhaupt auf?»*
 
 Mit CLX.Stage, 1 x HSR, 1 x CLX
 7 Probleme definitiv bestätigt
@@ -91,7 +93,7 @@ teilweise aus Zufall/Raten gelöst
 Redesigns
 =========
 
-"Wie könnte es besser laufen?"
+*«Wie könnte es besser laufen?»*
 
 Für bestätigte Probleme
 Tool: Balsamiq Mockups
@@ -99,9 +101,10 @@ Tool: Balsamiq Mockups
 Usability-Tests (2)
 ===================
 
-"Tauchen die Probleme immer noch auf?"
+*«Tauchen die Probleme immer noch auf?»*
 
 .. Bild Versuchsaufbau
+
 * Paper Prototypes
 * Alle Probleme gelöst!
 * 4 neue Probleme verursacht
@@ -115,7 +118,7 @@ Usability-Tests (2)
 Resultate
 =========
 
-"Wie ist es gelaufen?"
+*«Wie ist es gelaufen?»*
 
 .. Start-Screen wohl am eindrücklichsten
 
