@@ -5,8 +5,9 @@ CLX.Stage Redesign
 .. Compile information: rst2pdf UInt2Project-presentation.rst -b1 -s slides.style
    -b1 moves title on a new page
 
+.. http://edcabellon.com/wp-content/uploads/2010/06/website-redesign.jpg
 
-.. image:: http://edcabellon.com/wp-content/uploads/2010/06/website-redesign.jpg
+.. image:: img/painter.jpg
    :align: center
    :width: 40 %
 
@@ -22,7 +23,9 @@ Philipp Christen, Tobias Blaser
 CLX.Stage
 =========
 
-.. image:: http://www.crealogix.com/fileadmin/customer/Produkte/Education_Produkte/header_clxstage_en.png
+.. http://www.crealogix.com/fileadmin/customer/Produkte/Education_Produkte/header_clxstage_en.png
+
+.. image:: img/clx-stage.jpg
    :align: left
    :width: 60 %
 
@@ -147,9 +150,18 @@ Resultate
 
 *«Wie ist es gelaufen?»*
 
+* Enorme Verbesserung durch Redesign
+	* Alle Usabilitytest-Ausgaben erfolgreich abgeschlossen
+	
+* Kleine Defizite während dem Test aufgetaucht
+	* Unklare Icons
+	* Differenzen Papierprototyp / Reales UI
+
+
 .. image:: ../img/UsabilityTestVideoFrame1.jpg
-   :width: 50 %
+   :height: 4 cm
    :align: right
+
 
 .. Start-Screen wohl am eindrücklichsten
 
@@ -157,22 +169,24 @@ Resultate
 Fazit
 =====
 
-* Paper-Prototyping
-	* Interessant, aber nicht geeignet für derart komplexe Applikation
-	* viel Aufwand
+✗ relativ grosser Aufwand ( total ~60h Pro person )
+
+**Paper-Prototyping**
+
+✗ Nicht geeignet für moderne, interaktive UI's -> zuviel Aufwand
+
   
-* Balsamiq Mockups
-	* Web-Lösung sehr angenehm, auch für Collaboration
-	* super für einzelne Screens
-	* grosse Lücken (Menu aufgeklappt --> neuer Screen)
-	* besser HTML-Prototyp oder anderes Tool
+**Balsamiq Mockups (Web-Lösung)**
+
+✔ Gut für Mockups / einzelne Screens
+
+✗ Ungeeignet zum Testen der Applikation (keine interaktiven Elemente)
   
-* Gewähltes Produkt
-	* gut, da nicht benutzerfreundlich
-	* Eigeninitiative --> unklar ob Lösung eingesetzt wird
-	* zu gross um alles in diesem Proekt umzusetzen
+
+**Ausblick**
+
+✗ Unklar ob Lösung umgesetzt wird
   
-* relativ grosser Aufwand ( total ~60h Pro person )
 
 
 .. raw:: pdf
@@ -180,6 +194,8 @@ Fazit
    PageBreak
 
    
-.. image:: http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Gnome-dialog-question.svg/500px-Gnome-dialog-question.svg.png
+.. http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Gnome-dialog-question.svg/500px-Gnome-dialog-question.svg.png
+ 
+.. image:: img/questions.png
    :align: center
    :height: 9 cm
