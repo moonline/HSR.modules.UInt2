@@ -109,6 +109,10 @@ Was beinhaltet ein Ist-Szenario?
 **3.0.5.**
 Was ist ein Future Szenario?
 
+**3.0.6.**
+Warum führt ein Verbessern der Usability und der Funktionen meisst nicht zur Verbreitung des Produktes, wenn man die aktuellen Kunden befragt.
+
+
 
 4 Empirische Usability Evaluation
 =================================
@@ -405,7 +409,5 @@ Welche Hindernisse stellen Zertifizierungen einer UI-Überarbeitung in den Weg?
 Warum sind insbesonder in der Industrie (wo manche Prozesse maschineübergreifend sind) konsistenze Geräte UI's sehr wichtig?
 
 **13.0.10.**
-
-
 
 
