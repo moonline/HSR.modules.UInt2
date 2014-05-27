@@ -27,12 +27,11 @@ CLX.Stage
    :width: 60 %
 
 * Crealogix AG
-* E-Learning
-* Erstellen und Durchführen von Lern- und Testmodulen
-* Adobe.AIR + Flash
 * WYSIWYG-Editor
-* 1+1 Entwickler während ~15 Jahren (1 fix, 1 wechselnd)
-
+* Erstellen und Durchführen von Lern- und Testmodulen
+* E-Learning
+* Adobe.AIR + Flash
+* 20'000 LOC
 
 Ausgangslage
 ------------
