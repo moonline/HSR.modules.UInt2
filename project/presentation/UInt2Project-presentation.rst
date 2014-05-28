@@ -116,9 +116,6 @@ Redesign
    Redesign: Module / Seiten erstellen & verwalten
    
    
-Redesign
-========
-
 .. figure:: ../stepScreens/3.0.Ausgangslage_Autor.png
    :width: 75 %
    :align: left
@@ -126,21 +123,15 @@ Redesign
    CLX.Stage: Module / Seiten erstellen & verwalten
    
    
-Redesign
-========
-
 .. figure:: ../redesignedScreens/sidebar.png
-   :width: 75 %
+   :width: 85 %
    :align: left
    
    Redesign: Inhalte & Fragen editieren
    
-   
-Redesign
-========
-   
+    
 .. figure:: ../stepScreens/3.1.3_8_6.als_richtig_markieren.png
-   :width: 75 %
+   :width: 85 %
    :align: left
    
    CLX.Stage: Inhalte & Fragen editieren
