@@ -74,7 +74,7 @@ definiert, um die gefundenen Probleme zu bestätigen.
 
 ⇨ `Usabilitytest Aufgaben <UsabilityTest.rst>`_
 
-⇨ `Usabilitytesttog Ausgangsapplikation <UsabilityTestLog.rst>`_
+⇨ `Usabilitytestlog Ausgangsapplikation <UsabilityTestLog.rst>`_
 
 Aus dem Testlog und den Problemen & Tasks wurden die Probleme extrahiert, die beim Usabilitytest
 verifiziert werden konnten.
