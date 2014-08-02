@@ -10,11 +10,36 @@ Dieses Dokument beinhaltet den Stoff, der in den Closed-Book Teilen von alten Pr
 
 Cognitive Walkthrough
 	Auch  Heuristische (Usability) Analyse oder Expert (Usability) Review
-Storyboard
-
+	
+Future Storyboard
+	Soll Szenario
+	
+Szenario
+	Enthält mindestens:
+	* Benutzer (Hauptdarsteller)
+	* Kontext
+	* Auslöser
+	* Ziel 
+	* Problem welches die Zielerreichung erschwert
+	* Schritte
+	* Ergebnis (Ziel erreicht ja/nein)
+	
 AIDA
 	* Wie bringt man den Kunden dazu zu kaufen?
 	* „Attention“ (Aufmerksamkeit), „Interest“ (Interesse), „Desire“ (Wunsch), „Action“ (Handlung)
+	
+Artefakte/Dokumente
+	* Problems & Tasks (Was sind die Probleme und warum)
+	* Usability Test (Ausgangslage, Instruktionen, Aufgaben)
+	* Usability Test Log (Testergebnisse)
+	* Test Report (Zusammengefasste Ergebnisse. Validierte/nicht validierte Probleme, neue Probleme)
+	* Cognitive Walkthrough (Getestetes Produkt, Benutzerprofile/Rollen, Aufgaben, Probleme)
+	* Redesign (Wireframes)
+	* Fazt (Einleitung, Projektstand, Vorgehen & Verbesserungen, Tools, Lessions Learned, Ausblick)
+	
+Interview
+	* Contextual Inquiry = Feldforschung = Ethnographic Inteview = Ethnographisches Interview (Fälle beobachten -> Daten)
+	* Stakeholder = Betroffene Person = Auftraggeber, Benutzer, indirekte Nutzer (Meinungen von Sponsoren, Benutzer identifizieren)
 
 Safety-Critical System / Life critical system
 	* Tod oder Lebensgefährdung von Personen
